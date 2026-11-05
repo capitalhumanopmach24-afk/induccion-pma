@@ -19,6 +19,137 @@ PUESTOS = {
     "Otro puesto": None,
 }
 
+# Horarios Oficiales PMA Chimbote 2026 extraídos de la matriz de horarios
+HORARIOS_PMA_2026 = {
+    "Administrativo": [
+        {
+            "Puesto": "Asistente Caja & Banco",
+            "Lunes a Viernes": "08:00 - 13:00 / 13:45 - 17:45",
+            "Refrigerio": "13:00 - 13:45",
+            "Sábado": "08:00 - 11:00",
+            "Jornada": "48 hrs",
+        },
+        {
+            "Puesto": "Asistente Contable - Analista Financiero",
+            "Lunes a Viernes": "07:30 - 13:00 / 13:45 - 17:45",
+            "Refrigerio": "13:00 - 13:45",
+            "Sábado": "No aplica",
+            "Jornada": "48 hrs",
+        },
+        {
+            "Puesto": "Capital Humano",
+            "Lunes a Viernes": "07:30 - 13:00 / 13:45 - 17:15",
+            "Refrigerio": "13:00 - 13:45",
+            "Sábado": "08:00 - 11:00",
+            "Jornada": "48 hrs",
+        },
+        {
+            "Puesto": "Supervisor SST",
+            "Lunes a Viernes": "07:00 - 13:00 / 16:30 - 19:00",
+            "Refrigerio": "13:00 - 16:30",
+            "Sábado": "07:00 - 12:30",
+            "Jornada": "48 hrs",
+        },
+        {
+            "Puesto": "Liquidador OL",
+            "Lunes a Viernes": "08:00 - 13:00 / 13:45 - 17:45",
+            "Refrigerio": "13:00 - 13:45",
+            "Sábado": "08:00 - 11:00",
+            "Jornada": "48 hrs",
+        },
+        {
+            "Puesto": "Liquidador",
+            "Lunes a Viernes": "16:00 - 19:00 / 19:45 - 00:45",
+            "Refrigerio": "19:00 - 19:45",
+            "Sábado": "16:00 - 19:00 / 19:45 - 00:45",
+            "Jornada": "48 hrs",
+        },
+        {
+            "Puesto": "Personal de Limpieza (Cossio)",
+            "Lunes a Viernes": "08:00 - 12:00 / 12:45 - 16:45",
+            "Refrigerio": "12:00 - 12:45",
+            "Sábado": "08:00 - 12:00 / 12:45 - 16:45",
+            "Jornada": "48 hrs",
+        },
+        {
+            "Puesto": "Personal de Limpieza (Manuel)",
+            "Lunes a Viernes": "07:00 - 12:00 / 12:45 - 15:45",
+            "Refrigerio": "12:00 - 12:45",
+            "Sábado": "07:00 - 12:00 / 12:45 - 15:45",
+            "Jornada": "48 hrs",
+        },
+        {
+            "Puesto": "Personal de Vigilancia",
+            "Lunes a Viernes": "Mañana: 06:00-14:00 | Tarde: 14:00-22:00 | Noche: 22:00-06:00",
+            "Refrigerio": "Según turno",
+            "Sábado": "Mañana: 06:00-12:00 | Tarde: 14:00-19:00 | Noche: 23:00-19:00",
+            "Jornada": "48 hrs (Rotativo)",
+        },
+    ],
+    "Distribución": [
+        {
+            "Puesto": "Analista de la Información",
+            "Lunes a Viernes": "07:00 - 12:00 / 16:00 - 19:00",
+            "Refrigerio": "12:00 - 16:00",
+            "Sábado": "07:00 - 12:00 / 16:00 - 19:00",
+            "Jornada": "48 hrs",
+        },
+        {
+            "Puesto": "Monitores de Distribución / Responsable Flota - Mecánico",
+            "Lunes a Viernes": "Ingreso 06:45 AM (Computo matinal)",
+            "Refrigerio": "No aplica",
+            "Sábado": "Ingreso 06:45 AM",
+            "Jornada": "No sujeto a fiscalización de horario",
+        },
+        {
+            "Puesto": "Personal Distribución",
+            "Lunes a Viernes": "Según ruta de reparto",
+            "Refrigerio": "En ruta",
+            "Sábado": "Según ruta de reparto",
+            "Jornada": "No sujeto a fiscalización de horario",
+        },
+    ],
+    "Ventas": [
+        {
+            "Puesto": "Gestores y Supervisores de Ventas",
+            "Lunes a Viernes": "Ingreso 07:00 AM (Tareas matinales)",
+            "Refrigerio": "Libre según campo",
+            "Sábado": "Ingreso 07:00 AM",
+            "Jornada": "No sujeto a fiscalización de horario",
+        }
+    ],
+    "Almacén": [
+        {
+            "Puesto": "Supervisor Almacén",
+            "Lunes a Viernes": "07:30 - 13:00 / 13:45 - 16:15",
+            "Refrigerio": "13:00 - 13:45",
+            "Sábado": "07:30 - 13:00 / 13:45 - 16:15",
+            "Jornada": "48 hrs",
+        },
+        {
+            "Puesto": "Controlador de Almacén",
+            "Lunes a Viernes": "T1: 07:00-15:45 | T2: 15:00-23:45 | T3: 23:00-07:00",
+            "Refrigerio": "Según turno",
+            "Sábado": "Mismos turnos rotativos",
+            "Jornada": "48 hrs",
+        },
+        {
+            "Puesto": "Operarios de Almacén",
+            "Lunes a Viernes": "Mañana: 07:00-15:45 | Tarde: 16:00-00:45 | Noche: 22:00-06:00",
+            "Refrigerio": "12:00-12:45 / 19:00-19:45",
+            "Sábado": "Mañana: 07:00-15:45 | Tarde: 15:00-23:45 | Noche: 22:00-06:00",
+            "Jornada": "48 hrs",
+        },
+        {
+            "Puesto": "Montacarguista",
+            "Lunes a Viernes": "Turno 1: 06:00-14:45 | Turno 3: 14:00-22:45 | Turno 4: 22:00-06:00",
+            "Refrigerio": "Según turno",
+            "Sábado": "Mismos turnos rotativos",
+            "Jornada": "48 hrs",
+        },
+    ],
+}
+
 IMAGENES_PUESTO = {
     "ayudante": "ayudante.png",
     "chofer": "chofer.jpg",
@@ -319,14 +450,15 @@ NIVELES = [
                 ],
             },
             {
-                "titulo": "Horario laboral",
+                "titulo": "Horario laboral 2026",
                 "icono": "🕗",
                 "puntos": [
-                    "La puntualidad es uno de los principales indicadores de evaluación.",
-                    "El tiempo de tolerancia solo aplica en situaciones excepcionales y debidamente justificadas.",
-                    "La impuntualidad reiterada es motivo de separación del equipo de trabajo.",
-                    "Si marcas tu salida, la puntualidad rige tanto para el inicio como para el fin de la jornada.",
-                    "Los horarios se entregan de acuerdo al puesto de trabajo.",
+                    "Puntualidad: Es un indicador principal de evaluación. La tolerancia solo aplica en casos excepcionales debidamente justificados.",
+                    "Área Administrativa: Caja & Banco (L-V 08:00-17:45, Sáb 08:00-11:00) | Contabilidad (L-V 07:30-17:45) | Capital Humano (L-V 07:30-17:15, Sáb 08:00-11:00).",
+                    "Servicios Administrativos: SST (L-V 07:00-19:00, Sáb 07:00-12:30) | Liquidadores (L-V 08:00-17:45 / 16:00-00:45) | Limpieza (L-S 07:00-16:45).",
+                    "Área de Almacén: Supervisor (L-S 07:30-16:15) | Controladores, Operarios y Montacargas laboran en turnos rotativos (T1, T2, T3) completando 48 hrs semanales.",
+                    "Ventas y Distribución: Analista (L-S 07:00-19:00 con pausa) | Gestores, Supervisores y Monitores con registro matinal (06:45/07:00 AM) no sujetos a fiscalización horaria.",
+                    "Cómputo de Refrigerio: El tiempo de almuerzo o descanso no se incluye dentro del cómputo de la jornada laboral de 48 horas semanales.",
                 ],
             },
             {
