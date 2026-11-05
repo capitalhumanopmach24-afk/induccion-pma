@@ -95,7 +95,7 @@ BLOQUES = [
         "insignia": "Puntual y profesional",
         "tarjetas": [
             T("Tipos de contrato"),
-            T("Horario laboral"),
+            T("Horario laboral 2026"),  # Corregido aquí
             {"tipo": "marcacion", "titulo": "Marcación de asistencia", "icono": "🖐️", "puntos": []},
             T("Reglamento Interno de Trabajo (RIT)"),
             T("Proceso sancionador"),
