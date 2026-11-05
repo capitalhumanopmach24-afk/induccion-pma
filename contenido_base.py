@@ -450,7 +450,7 @@ NIVELES = [
                 ],
             },
             {
-                "titulo": "Horario laboral 2026",
+                "titulo": "Horario laboral 2026", # <-- CORREGIDO AQUÍ TAMBIÉN
                 "icono": "🕗",
                 "puntos": [
                     "Puntualidad: Es un indicador principal de evaluación. La tolerancia solo aplica en casos excepcionales debidamente justificados.",
