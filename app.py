@@ -125,12 +125,22 @@ def enviar_a_hoja(envios):
     url = _secreto("HOJA_URL")
     if not url:
         return None
+        
+    # Limpiamos la URL por si hay espacios o saltos de línea invisibles
+    url = url.strip() 
+    
     cuerpo = json.dumps({"token": _secreto("HOJA_TOKEN"), "envios": envios}).encode("utf-8")
-    req = urllib.request.Request(url, data=cuerpo, headers={"Content-Type": "text/plain; charset=utf-8"})
+    req = urllib.request.Request(url, data=cuerpo, headers={"Content-Type": "application/json; charset=utf-8"})
+    
     try:
         with urllib.request.urlopen(req, timeout=25) as r:
-            return r.read().decode("utf-8", "ignore").strip().lower().startswith("ok")
-    except Exception:
+            respuesta = r.read().decode("utf-8", "ignore").strip()
+            # Mostramos la respuesta en pantalla temporalmente para diagnosticar
+            st.warning(f"Respuesta de Google: {respuesta}")
+            return respuesta.lower().startswith("ok")
+    except Exception as e:
+        # Mostramos el error real en pantalla para diagnosticar
+        st.error(f"Error de conexión real: {str(e)}")
         return False
 
 
