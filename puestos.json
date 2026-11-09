@@ -1,131 +1,21 @@
 [
  {
-  "nombre": "Gerente General",
-  "reporta_a": [],
-  "le_reportan": [
-   "Jefe de operaciones",
-   "Sub Contador"
-  ],
-  "mision": "Dirigir la empresa, tomar decisiones, supervisar y ser un líder dentro de ésta. Controlar las actividades planificadas comparándolas con lo realizado y detectar las desviaciones o diferencias.",
-  "horario": [
-   "Lunes a Viernes 7:00 a.m. a 12:30 p.m. - 4:00 p.m. a 7:30 p.m."
-  ],
-  "req_generales": [
-   "LICENCIA DE CONDUCIR: No es necesario."
-  ],
-  "req_conocimientos": [
-   "FORMACION ACADÉMICA:",
-   "Estudios Universitarios Completos en Administración, Economía, Contabilidad o afines.",
-   "Maestría en Gestión Financiera, finanzas o afines no menor a un año (01) año",
-   "Office a nivel básico (deseable).",
-   "Inglés básico (deseable)"
-  ],
-  "req_experiencia": [
-   "Experiencia mínima de 5 años en el puesto"
-  ],
-  "sig": [
-   "Seguir los procedimientos establecidos, identificando, comunicando situaciones para los cuales no existen procedimientos o no son los adecuados.",
-   "Tomar conciencia de la Política de Calidad, Seguridad, Salud en el trabajo y Medio Ambiente; y el cumplimiento de los objetivos SIG pertinentes.",
-   "Ser conscientes de su contribución a la eficacia del sistema de gestión de la calidad, incluidos los beneficios de la mejora de su desempeño y las implicancias que conllevarían el incumplimiento de los requisitos del SIG.",
-   "Colaborar con la identificación de riesgos y oportunidades el SIG.",
-   "Reportar cualquier planteamiento de inquietudes, incumplimiento de la Política de antisoborno.",
-   "Participar en las Capacitaciones relacionadas al Sistema Integrado de Gestión.",
-   "No aceptar regalos, atenciones, donaciones y otros beneficios similares para beneficios propios"
-  ],
-  "funciones": [
-   {
-    "grupo": "Funciones principales",
-    "items": [
-     "Gestionar las actividades de la organización estableciendo tareas, objetivos y prioridades:",
-     "Crear un plan de acción detallado proyectando los pasos a seguir y organizándolos en un orden lógico.",
-     "Determinar los objetivos de la organización y definir las maneras de lograrlos.",
-     "Difundir la misión y visión de la empresa a los empleados.",
-     "Gestionar la correcta distribución de recursos, asegurando que la correcta cantidad de responsabilidades sea asignada a las personas correspondientes en los departamentos correspondientes.",
-     "Ofrecer orientación y delegar su autoridad en caso de ser necesario.",
-     "Monitorear y supervisar el progreso de proyectos, objetivos y costos de acuerdo con los presupuestos y plazos de tiempo establecidos.",
-     "Identificar problemas y deficiencias, asegurando que se tomen todas las medidas necesarias para que se corrijan.",
-     "Revisar e interpretar la información presupuestaria y los datos financieros.",
-     "Monitorear los gastos y realizar un análisis de rentabilidad.",
-     "Evaluar y manejar cualquier riesgo financiero.",
-     "Asegurar que los libros contables y otros controles cumplan con la normativa vigente.",
-     "Motivar, inspirar y comunicarse con los empleados.",
-     "Representar a la empresa o delegar a otra persona para que actúe en su nombre durante negociaciones, eventos corporativos, actividades de Relaciones Públicas y otros eventos oficiales.",
-     "Solucionar conflictos en cuanto ocurran para asegurar el buen funcionamiento de la organización.",
-     "Ser el líder que garantice la seguridad y salud de todos los trabajadores."
-    ]
-   }
-  ],
-  "area": "Gerencia y apoyo",
-  "no_fiscaliza": false,
-  "descanso": "Sábados y Domingos",
-  "licencia": "No es necesario"
- },
- {
-  "nombre": "Asistente de Gerencia",
-  "reporta_a": [
-   "Gerente General",
-   "Jefe de operaciones"
-  ],
-  "le_reportan": [],
-  "mision": "Asegurar el buen funcionamiento de una oficina o empresa realizando labores administrativas, tales como archivar, planificar y coordinar las actividades generales de la oficina, además de redactar los reportes correspondientes.",
-  "horario": [
-   "Lunes a Viernes de 7:00 a.m. a 12:30 p.m - 3:00 pm. a 6:00 pm."
-  ],
-  "req_generales": [
-   "LICENCIA DE CONDUCIR: No es necesario."
-  ],
-  "req_conocimientos": [
-   "FORMACION ACADÉMICA:",
-   "Estudios técnicos, o universitarios en Administración, Asistente de Gerencia, Economía, Contabilidad o afines.",
-   "Office a nivel básico (deseable).",
-   "Inglés básico (deseable)"
-  ],
-  "req_experiencia": [
-   "Experiencia mínima de 6 meses en el puesto"
-  ],
-  "sig": [
-   "Seguir los procedimientos establecidos, identificando, comunicando situaciones para los cuales no existen procedimientos o no son los adecuados.",
-   "Tomar conciencia de la Política de Calidad, Seguridad, Salud en el trabajo y Medio Ambiente; y el cumplimiento de los objetivos SIG pertinentes.",
-   "Ser conscientes de su contribución a la eficacia del sistema de gestión de la calidad, incluidos los beneficios de la mejora de su desempeño y las implicancias que conllevarían el incumplimiento de los requisitos del SIG.",
-   "Colaborar con la identificación de riesgos y oportunidades el SIG.",
-   "Reportar cualquier planteamiento de inquietudes, incumplimiento de la Política de antisoborno.",
-   "Participar en las Capacitaciones relacionadas al Sistema Integrado de Gestión.",
-   "No aceptar regalos, atenciones, donaciones y otros beneficios similares para beneficios propios"
-  ],
-  "funciones": [
-   {
-    "grupo": "Funciones principales",
-    "items": [
-     "Recepción y atención de clientes en oficina y por teléfono.",
-     "Gestión de citas (organizar, derivar y confirmar las citas creadas por la Gerencia)",
-     "Cumplir con las pautas de calidad para atención por teléfono derivar las llamadas al funcionario requerido.",
-     "Encargarse de la gestión y debido orden de los documentos asignados (carpetas de clientes)",
-     "Llevar la agenda de la gerencia de manera actualizada y programada y coordinaciones con la gerencia.",
-     "Diseñar cartas correos y presentaciones encomendadas por la Gerencia.",
-     "Otras labores encomendadas a través de su jefatura."
-    ]
-   }
-  ],
-  "area": "Gerencia y apoyo",
-  "no_fiscaliza": false,
-  "descanso": "Sábados y Domingos",
-  "licencia": "No es necesario"
- },
- {
-  "nombre": "Jefe de Operaciones",
+  "nombre": "Administrador",
   "reporta_a": [
    "Gerente General"
   ],
   "le_reportan": [
-   "Asistente SAC",
-   "Jefe de Capital Humano",
-   "Supervisor de SST",
-   "Responsable SIG",
-   "Analista de Compras",
-   "Analista de Sistemas",
    "Supervisor de Almacén",
-   "Supervisor de Distribución",
-   "Jefe de Ventas"
+   "Monitor de Distribución",
+   "Supervisor de Capital Humano",
+   "Supervisor de SSO",
+   "Supervisor de Mantenimiento",
+   "Analista de la Información",
+   "Enfermera Ocupacional",
+   "Asistente de Caja y Banco",
+   "Asistente Contable",
+   "Analista Financiero",
+   "Operador Logístico"
   ],
   "mision": "Controlar y supervisar las actividades de las operaciones y administración del CDA, elaborando e interpretando las herramientas contables, tales como: registros, estados de cuenta, cuadros demostrativos, estados financieros, presupuesto y otras necesarias para garantizar la efectiva distribución y administración de los recursos materiales y financieros.",
   "horario": [
@@ -186,590 +76,21 @@
     ]
    }
   ],
-  "area": "Gerencia y apoyo",
+  "area": "Administración",
   "no_fiscaliza": false,
   "descanso": "Sábados y Domingos",
-  "licencia": "A I (deseable)"
+  "licencia": "A I (deseable)",
+  "cargo_bd": "ADMINISTRADOR",
+  "marcacion": "entrada_salida",
+  "provisional": false,
+  "provisional_creada": false,
+  "reporta_confirmado": true,
+  "nota": "Información tomada del puesto «Jefe de Operaciones» del MOF, que en Chimbote se llama Administrador."
  },
  {
-  "nombre": "Asistente SAC",
+  "nombre": "Analista Financiero",
   "reporta_a": [
-   "Jefe de Operaciones"
-  ],
-  "le_reportan": [
-   "Analista de Distribución",
-   "Monitores de Distribución"
-  ],
-  "mision": "Ejecutar los procesos administrativos del área, aplicando las normas y procedimientos definidos, elaborando documentación necesaria; encargándose asertivamente de atender los reclamos de los clientes, logrando resultados oportunos, garantizando la prestación efectiva del servicio.",
-  "horario": [
-   "Lunes a Viernes de 7:00 a.m. a 01:00 p.m - 3:00 pm. a 6:00 pm."
-  ],
-  "req_generales": [
-   "LICENCIA DE CONDUCIR: A I (deseable)."
-  ],
-  "req_conocimientos": [
-   "FORMACION ACADÉMICA:",
-   "Técnico o Superior completa de Administración, Contabilidad y/o carreras afines.",
-   "FORMACION COMPLEMENTARIA:",
-   "Principios administrativos, leyes, normas y reglamentos que rigen los procesos administrativos (De Preferencia)",
-   "FORMACION ESPECIFICOS:",
-   "Ofimática a nivel intermedio (Indispensable).",
-   "Inglés básico (deseable)"
-  ],
-  "req_experiencia": [
-   "Experiencia anterior no menor a 6 meses en el cargo y/ o afines."
-  ],
-  "sig": [
-   "Seguir los procedimientos establecidos, identificando, comunicando situaciones para los cuales no existen procedimientos o no son los adecuados.",
-   "Tomar conciencia de la Política de Calidad, Seguridad, Salud en el trabajo y Medio Ambiente; y el cumplimiento de los objetivos SIG pertinentes.",
-   "Ser conscientes de su contribución a la eficacia del sistema de gestión de la calidad, incluidos los beneficios de la mejora de su desempeño y las implicancias que conllevarían el incumplimiento de los requisitos del SIG.",
-   "Colaborar con la identificación de riesgos y oportunidades el SIG.",
-   "Reportar cualquier planteamiento de inquietudes, incumplimiento de la Política de antisoborno.",
-   "Participar en las Capacitaciones relacionadas al Sistema Integrado de Gestión.",
-   "No aceptar regalos, atenciones, donaciones y otros beneficios similares para beneficios propios"
-  ],
-  "funciones": [
-   {
-    "grupo": "Funciones principales",
-    "items": [
-     "Asistir al del área de Gerencia y Administración.",
-     "Asistir al cliente brindando una solución eficiente logrando llegar a una negociación efectiva.",
-     "Coordinar las diferentes actividades a realizarse en la Empresa.",
-     "Recibir las llamadas y atender las solicitudes de Reclamo de los Clientes.",
-     "Identificar y evaluar la gravedad de los incidentes suscitados en el área de ventas o distribución.",
-     "Manejo del sistema SAC.",
-     "Coordinar la solución a los reclamos de los Clientes con el área Comercial y de Distribución.",
-     "Realización de documentos, solicitudes, oficios.",
-     "Brindar una buena atención y trato amable al cliente.",
-     "Conocer los procedimientos, instructivos aprobados y que se tengan en el Sistema Documentario, y que se hayan facilitado por intermedio de su Jefe inmediato y/o responsable SIG.",
-     "Participar de las capacitaciones y realizar las evaluaciones correspondientes a fin de garantizar el aprendizaje del tema impartido."
-    ]
-   }
-  ],
-  "area": "Gerencia y apoyo",
-  "no_fiscaliza": false,
-  "descanso": "Domingos",
-  "licencia": "A I (deseable)"
- },
- {
-  "nombre": "Jefe de Capital Humano",
-  "reporta_a": [
-   "Gerente General",
-   "Jefe de Operaciones"
-  ],
-  "le_reportan": [
-   "Supervisor y Analista de Capital Humano",
-   "Asistente Social",
-   "Médico Ocupacional",
-   "Interactúa con Jefes de Área y personal"
-  ],
-  "mision": "Ajustar las políticas de personal a la estrategia y el negocio de la compañía. Para hacerlo, debe gestionar la selección, evaluación, retribución, formación, desarrollo y administración de la plantilla. Alinear a los empleados con la estrategia de la organización y con el negocio.",
-  "horario": [
-   "Lunes a Viernes de 7:00 a.m. a 12:30 p.m - 4:00 pm. a 7:00 pm, Sábados 7:00 a.m a 12:00 p.m"
-  ],
-  "req_generales": [
-   "LICENCIA DE CONDUCIR: A I (deseable)."
-  ],
-  "req_conocimientos": [
-   "FORMACION ACADÉMICA:",
-   "Titulado o Colegiado en las carreras de Administración, Ingeniería Industrial o Psicología Organizacional.",
-   "FORMACION COMPLEMENTARIA:",
-   "Especialidad y/o Diplomado en Gestión del Potencial Humano.",
-   "Conocimientos en leyes laborales y temas de Seguridad y Salud en el Trabajo.",
-   "FORMACION ESPECIFICOS:",
-   "Ofimática a nivel avanzado o intermedio (Indispensable).",
-   "Inglés básico (deseable)"
-  ],
-  "req_experiencia": [
-   "Experiencia mínima de 3 años en el puesto."
-  ],
-  "sig": [
-   "Seguir los procedimientos establecidos, identificando, comunicando situaciones para los cuales no existen procedimientos o no son los adecuados.",
-   "Tomar conciencia de la Política de Calidad, Seguridad, Salud en el trabajo y Medio Ambiente; y el cumplimiento de los objetivos SIG pertinentes.",
-   "Ser conscientes de su contribución a la eficacia del sistema de gestión de la calidad, incluidos los beneficios de la mejora de su desempeño y las implicancias que conllevarían el incumplimiento de los requisitos del SIG.",
-   "Colaborar con la identificación de riesgos y oportunidades el SIG.",
-   "Reportar cualquier planteamiento de inquietudes, incumplimiento de la Política de antisoborno.",
-   "Participar en las Capacitaciones relacionadas al Sistema Integrado de Gestión.",
-   "No aceptar regalos, atenciones, donaciones y otros beneficios similares para beneficios propios"
-  ],
-  "funciones": [
-   {
-    "grupo": "Funciones principales",
-    "items": [
-     "Implantar y velar por el cumplimiento de la normativa laboral dentro del CDA, tanto la de carácter general como la propia de la organización.",
-     "Monitorear y ejecutar el cumplimiento de las formalidades para la contratación del personal (en planilla y bajo contrato). Garantizar la formalización del personal. Disminuir las contingencias laborales / Fidelizar al personal.",
-     "Dirigir, evaluar y controlar el pago de remuneraciones del CDA, asegurando una liquidación correcta y oportuna a todo el personal.",
-     "Realizar y mantener actualizados los organigramas del CDA (incluidos todos los depósitos en caso de tener más de uno).",
-     "Elaborar y mantener actualizado el file de NOMINA completa del CDA. Realiza las altas, bajas y modificaciones del personal.",
-     "Realizar y mantener actualizados las descripciones de puestos del CDA.",
-     "Desarrollar y ejecutar el proceso de desvinculación de personal, asegurando la correcta salida.",
-     "Atender consultas y reclamos individuales en el marco laboral respecto a horarios, salarios, contratación, etc.",
-     "Analizar la rotación del personal dentro y fuera de planilla.",
-     "Monitorea el cumplimiento del Programa de Capacitaciones y su evaluación post curso.",
-     "Revisa el Programa anual de capacitaciones para el personal del CDA. Aplica instrumentos de evaluación post capacitación. Mantiene actualizado el registro de instructores. Coordina la selección del personal a capacitar. Contacta instructores, determina lugar, fecha y hora de la actividad. Coordina la reproducción del material de apoyo, en caso necesario. Elabora y distribuye certificados. Coordina el pago a instructores.",
-     "Dirigir y evaluar el sistema de control de asistencias del personal: control de ausentismo, partes de enfermedad y accidentes, entradas y salidas del personal, licencias, vacaciones.",
-     "Elaborar e implementar la evaluación de desempeño, así mismo desarrolla Plan de Sucesión de Puestos claves.",
-     "Remitir informes periódicos respecto a las relaciones laborales, efectuando evaluaciones y diagnósticos situacionales y sus previsiones a corto y mediano plazo.",
-     "Cumplir con los requisitos indispensables para garantizar la seguridad del CDA. En caso de tener empresa tercerizada que brinde el servicio. Llevar control y seguimiento de la misma.",
-     "Elaborar el programa anual de vacaciones y coordinar con las diferentes áreas los reemplazos necesarios, controlando el cumplimiento del cronograma establecido.",
-     "Asegurar una adecuada administración de la documentación referida al personal y su historial, con el objetivo de responder oportunamente ante requerimientos de información.",
-     "Brindar asesoría en materia de contratación de personal, políticas salariales, rotación del personal, compensaciones y beneficios y salidas de personal a fin de contribuir en el conocimiento de las obligaciones y derechos del empleador y sus trabajadores.",
-     "Desarrollar un plan de retención de talentos. Identificar los talentos dentro del CDA. Relevar beneficios que sean tentadoras a los trabajadores. Realizar listado de posibles variables: planes de carrera, capacitaciones, movilidad organizacional, cuadro de reemplazos, incentivos económicos, etc"
-    ]
-   }
-  ],
-  "area": "Capital Humano, SST y SIG",
-  "no_fiscaliza": false,
-  "descanso": "Domingos",
-  "licencia": "A I (deseable)"
- },
- {
-  "nombre": "Supervisor de Capital Humano",
-  "reporta_a": [
-   "Jefe de Capital Humano"
-  ],
-  "le_reportan": [
-   "Interactúa con Jefes de Área y personal"
-  ],
-  "mision": "Ejecutar planes y programas pertinentes a la administración de personal, aplicando técnicas administrativas relacionadas con el recurso humano, a fin de contribuir con el desarrollo de los procesos administrativos relacionados con la gestión de recursos humanos",
-  "horario": [
-   "Lunes a Viernes de 7:00 a.m. a 01:00 p.m - 2:00 pm. a 4:30 pm,Sábados 7:00 a.m a 12:00 p.m"
-  ],
-  "req_generales": [
-   "LICENCIA DE CONDUCIR: A I (deseable)."
-  ],
-  "req_conocimientos": [
-   "FORMACION ACADÉMICA:",
-   "Titulado o Colegiado en las carreras de Administración, Ingeniería Industrial o Psicología Organizacional.",
-   "FORMACION COMPLEMENTARIA:",
-   "Especialidad y/o Diplomado en Gestión del Potencial Humano.",
-   "Conocimientos en leyes laborales y temas de Seguridad y Salud en el Trabajo.",
-   "FORMACION ESPECIFICOS:",
-   "Ofimática a nivel avanzado o intermedio (Indispensable).",
-   "Inglés básico (deseable)"
-  ],
-  "req_experiencia": [
-   "Experiencia anterior no menor a 2 años en el cargo y/ o afines."
-  ],
-  "sig": [
-   "Seguir los procedimientos establecidos, identificando, comunicando situaciones para los cuales no existen procedimientos o no son los adecuados.",
-   "Tomar conciencia de la Política de Calidad, Seguridad, Salud en el trabajo y Medio Ambiente; y el cumplimiento de los objetivos SIG pertinentes.",
-   "Ser conscientes de su contribución a la eficacia del sistema de gestión de la calidad, incluidos los beneficios de la mejora de su desempeño y las implicancias que conllevarían el incumplimiento de los requisitos del SIG.",
-   "Colaborar con la identificación de riesgos y oportunidades el SIG.",
-   "Reportar cualquier planteamiento de inquietudes, incumplimiento de la Política de antisoborno.",
-   "Participar en las Capacitaciones relacionadas al Sistema Integrado de Gestión.",
-   "No aceptar regalos, atenciones, donaciones y otros beneficios similares para beneficios propios"
-  ],
-  "funciones": [
-   {
-    "grupo": "Funciones principales",
-    "items": [
-     "Realizar y mantener actualizados las descripciones de puestos del CDA y el organigrama.",
-     "Realizar el proceso de reclutamiento y selección de personal. (Publicaciones, perifoneo, entrevistas, perfil de requisitos mínimos del puesto, evaluación y presentación de la terna a la gerencia, verificar).",
-     "Desarrollar y ejecutar el proceso de inducción general al candidato seleccionado.",
-     "Registrar al colaborador.",
-     "Elabora informes periódicos de las actividades realizadas.",
-     "Atender consultas y reclamos individuales en el marco laboral respecto a horarios, salarios, contratación, etc.",
-     "Actualiza y registra en los expedientes del personal, reposos, permisos, inasistencias y demás información relacionada con el personal del CDA.",
-     "Colaborar con el Programa Anual de Capacitaciones para el personal del CDA. Aplica instrumentos de evaluación post capacitación. Mantiene actualizado el registro de instructores. Coordina la selección del personal a capacitar. Contacta instructores, determina lugar, fecha y hora de la actividad. Coordina la reproducción del material de apoyo, en caso necesario. Elabora y distribuye certificados. Coordina el pago a instructores.",
-     "Brindar apoyo en la elaboración e implementar la evaluación de desempeño.",
-     "Administrar la evaluación de clima laboral a todo el personal del CDA.",
-     "Responsable de ingresar y dar de baja en el T- REGISTRO a los trabajadores Titulares y sus Derechohabientes.",
-     "Mantener la documentación actualizada de los trabajadores."
-    ]
-   }
-  ],
-  "area": "Capital Humano, SST y SIG",
-  "no_fiscaliza": false,
-  "descanso": "Domingos",
-  "licencia": "A I (deseable)"
- },
- {
-  "nombre": "Analista de Capital Humano",
-  "reporta_a": [
-   "Jefe de Capital Humano"
-  ],
-  "le_reportan": [
-   "Interactúa con Jefes de Área y personal"
-  ],
-  "mision": "Brindar asesoría y atención personalizada a los colaboradores de la empresa en temas relacionados con bienestar social y beneficios que otorga la empresa.",
-  "horario": [
-   "Lunes a Viernes de 7:00 a.m. a 01:00 p.m - 2:00 pm. a 4:30 pm, Sábados 7:00 a.m a 12:00 p.m"
-  ],
-  "req_generales": [
-   "LICENCIA DE CONDUCIR: No es necesario"
-  ],
-  "req_conocimientos": [
-   "FORMACION ACADÉMICA:",
-   "Titulado o Bachiller en las carreras de Trabajo Social, Administración, Ingeniería Industrial o Psicología Organizacional.",
-   "FORMACION COMPLEMENTARIA:",
-   "Especialidad y/o Diplomado en Gestión del Potencial Humano y Seguridad y Salud en el trabajo (deseable).",
-   "FORMACION ESPECIFICOS:",
-   "Ofimática a nivel intermedio (Indispensable)."
-  ],
-  "req_experiencia": [
-   "Experiencia anterior no menor a 2 años en el cargo y/ o afines."
-  ],
-  "sig": [
-   "Seguir los procedimientos establecidos, identificando, comunicando situaciones para los cuales no existen procedimientos o no son los adecuados.",
-   "Tomar conciencia de la Política de Calidad, Seguridad, Salud en el trabajo y Medio Ambiente; y el cumplimiento de los objetivos SIG pertinentes.",
-   "Ser conscientes de su contribución a la eficacia del sistema de gestión de la calidad, incluidos los beneficios de la mejora de su desempeño y las implicancias que conllevarían el incumplimiento de los requisitos del SIG.",
-   "Colaborar con la identificación de riesgos y oportunidades el SIG.",
-   "Reportar cualquier planteamiento de inquietudes, incumplimiento de la Política de antisoborno.",
-   "Participar en las Capacitaciones relacionadas al Sistema Integrado de Gestión.",
-   "No aceptar regalos, atenciones, donaciones y otros beneficios similares para beneficios propios"
-  ],
-  "funciones": [
-   {
-    "grupo": "Funciones principales",
-    "items": [
-     "Realizar y mantener actualizados las descripciones de puestos del CDA y el organigrama.",
-     "Programar, organizar, coordinar, desarrollar y evaluar las acciones de bienestar social, en beneficio de los trabajadores y de sus familiares directos.",
-     "Atender los casos sociales del personal, recomendando las acciones necesarias a fin de brindar un apoyo adecuado.",
-     "Coordinar la ejecución de jornadas de salud preventiva para los trabajadores semestralmente.",
-     "Realizar estudios socio-económicos del personal, a fin de determinar sus necesidades y proponer programas de asistencia social y bienestar.",
-     "Desarrollar acciones y coordinar con el Seguro Social de Salud lo referente a los aspectos de acreditación de derechos y las prestaciones asistenciales y económicas al personal activo.",
-     "Administrar la Póliza de Asistencia Médica Familiar de los Trabajadores.",
-     "Organizar, coordinar y desarrollar programas de bienestar en fechas importantes y oportunidades definidas por la superioridad.",
-     "Organizar, promover, coordinar y desarrollar actividades de carácter cultural, deportivo y recreativas dirigidas al personal de la Entidad con proyección a sus familiares directos.",
-     "Brindar apoyo técnico en los aspectos de servicio social y bienestar requeridos por las diversas unidades orgánicas de la Institución.",
-     "Informar permanentemente al Jefe de Capital Humano acerca del desarrollo de las actividades.",
-     "Conocer los procedimientos implementados, en relación a sus competencias.",
-     "Realizar la ejecución de procedimientos e instructivos en el área y revisarlos en conjunto con el/la responsable SIG por lo menos una vez al año, o cuando se presenten modificaciones en el sistema.",
-     "Participar de las capacitaciones, así como realizar las evaluaciones correspondientes a fin de garantizar la comprensión del tema impartido.",
-     "Desempeñar las demás funciones inherentes a su cargo que le sean asignadas."
-    ]
-   }
-  ],
-  "area": "Capital Humano, SST y SIG",
-  "no_fiscaliza": false,
-  "descanso": "Domingos",
-  "licencia": "No es necesario"
- },
- {
-  "nombre": "Supervisor de Seguridad y Salud en el Trabajo",
-  "reporta_a": [
-   "Jefe de Operaciones"
-  ],
-  "le_reportan": [
-   "Vigilancia",
-   "Personal de Aseo",
-   "Interactúa con Jefes de Área y personal"
-  ],
-  "mision": "Controlar los procesos de preservación de la seguridad en el CDA y SSO fomentando de acuerdo a los lineamientos establecidos el compromiso de fomentar la cultura de Seguridad de la organización.",
-  "horario": [
-   "Lunes a Viernes de 7:00 a.m. a 12:30 p.m - 2:00 pm. a 4:00 pm, Sábados 7:00 a.m a 12:00 p.m"
-  ],
-  "req_generales": [
-   "LICENCIA DE CONDUCIR: A I (deseable)."
-  ],
-  "req_conocimientos": [
-   "FORMACIÓN ACADÉMICA:",
-   "Titulado o Colegiado en las carreras de Administración, Ingeniería Industrial, Relaciones Industriales y/o carreras afines.",
-   "FORMACIÓN COMPLEMENTARIA:",
-   "Especialidad y/o Diplomado en Seguridad y Salud en el Trabajo o Sistema Integrado de Gestión.",
-   "FORMACIÓN ESPECIFICOS:",
-   "Ofimática a nivel intermedio (Indispensable)."
-  ],
-  "req_experiencia": [
-   "Experiencia mínima de 2 años en el cargo."
-  ],
-  "sig": [
-   "Seguir los procedimientos establecidos, identificando, comunicando situaciones para los cuales no existen procedimientos o no son los adecuados.",
-   "Tomar conciencia de la Política de Calidad, Seguridad, Salud en el trabajo y Medio Ambiente; y el cumplimiento de los objetivos SIG pertinentes.",
-   "Ser conscientes de su contribución a la eficacia del sistema de gestión de la calidad, incluidos los beneficios de la mejora de su desempeño y las implicancias que conllevarían el incumplimiento de los requisitos del SIG.",
-   "Colaborar con la identificación de riesgos y oportunidades el SIG.",
-   "Reportar cualquier planteamiento de inquietudes, incumplimiento de la Política de antisoborno.",
-   "Participar en las Capacitaciones relacionadas al Sistema Integrado de Gestión.",
-   "No aceptar regalos, atenciones, donaciones y otros beneficios similares para beneficios propios"
-  ],
-  "funciones": [
-   {
-    "grupo": "Funciones principales",
-    "items": [
-     "Supervisar que todo el personal cumpla con las Normas de Seguridad.",
-     "Llevar el control de estadísticas de Accidentes e Incidentes de Trabajo.",
-     "Supervisar el Orden y Limpieza en la Empresa.",
-     "Controlar el Ingreso de Visitas y Proveedores a la Empresa.",
-     "Participar en la elaboración del Plan y Programa Anual de Seguridad.",
-     "Seguimiento al Control de Plagas.",
-     "Fomentar, verificar y supervisar que personal propio y de Empresas Contratistas que prestan servicios, cumplan con los estándares de Seguridad.",
-     "Participar en las reuniones del Comité de Seguridad y Salud Ocupacional.",
-     "Capacitar de manera permanente al personal en temas de Seguridad y Salud Ocupacional de acuerdo a lo establecido en el programa.",
-     "Velar por el cumplimiento de lo establecido en la Ley No. 29783 LEY DE SEGURIDAD Y SALUD EN EL TRABAJO y DS-009-2005-TR y sus modificatorias.",
-     "Emitir informe una vez por mes de los hallazgos de inspecciones e indicadores de seguridad y salud en el trabajo.",
-     "Participar en la elaboración del programa anual de inspecciones de seguridad y salud en el trabajo.",
-     "Realizar la ejecución de procedimientos e instructivos en el área y revisarlos en conjunto con el/la responsable SIG por lo menos una vez al año, o cuando se presenten modificaciones en el sistema."
-    ]
-   }
-  ],
-  "area": "Capital Humano, SST y SIG",
-  "no_fiscaliza": false,
-  "descanso": "Domingos",
-  "licencia": "A I (deseable)"
- },
- {
-  "nombre": "Responsable SIG",
-  "reporta_a": [
-   "Jefe de Operaciones"
-  ],
-  "le_reportan": [
-   "Interactúa con Jefes de Área y personal"
-  ],
-  "mision": "Facilitar a la organización, la interpretación, implementación y cumplimiento de las normas del Sistema Integrado de Gestión que tienen como alcance las normas ISO 9001, ISO 14001, ISO 45001, FSSC 22000 Sistema Internacional de Seguridad Alimentaria, Requisitos KORE Sistema de Coca-Cola a fin de asegurar el cumplimiento de requisitos Legales Aplicables y requisitos exigidos por ACL",
-  "horario": [
-   "Lunes a Viernes de 7:00 a.m. a 01:00 p.m - 2:30 pm. a 6:00 pm"
-  ],
-  "req_generales": [
-   "LICENCIA DE CONDUCIR: No es necesario"
-  ],
-  "req_conocimientos": [
-   "FORMACIÓN ACADÉMICA:",
-   "Titulado o Colegiado en las carreras de Administración, Ingeniería Industrial, Relaciones Industriales y/o carreras ingenierías a fines.",
-   "FORMACIÓN COMPLEMENTARIA:",
-   "Especialidad y/o Diplomado de Sistema Integrado de Gestión.",
-   "FORMACIÓN ESPECIFICOS:",
-   "Ofimática a nivel intermedio (Indispensable)."
-  ],
-  "req_experiencia": [
-   "Experiencia mínima de 2 años en el cargo."
-  ],
-  "sig": [
-   "Seguir los procedimientos establecidos, identificando, comunicando situaciones para los cuales no existen procedimientos o no son los adecuados.",
-   "Tomar conciencia de la Política de Calidad, Seguridad, Salud en el trabajo y Medio Ambiente; y el cumplimiento de los objetivos SIG pertinentes.",
-   "Ser conscientes de su contribución a la eficacia del sistema de gestión de la calidad, incluidos los beneficios de la mejora de su desempeño y las implicancias que conllevarían el incumplimiento de los requisitos del SIG.",
-   "Colaborar con la identificación de riesgos y oportunidades el SIG.",
-   "Reportar cualquier planteamiento de inquietudes, incumplimiento de la Política de antisoborno.",
-   "Participar en las Capacitaciones relacionadas al Sistema Integrado de Gestión.",
-   "No aceptar regalos, atenciones, donaciones y otros beneficios similares para beneficios propios"
-  ],
-  "funciones": [
-   {
-    "grupo": "Funciones principales",
-    "items": [
-     "Supervisar y asesorar en materia de Calidad, Seguridad, Salud Ocupacional y Medio ambiente de acuerdo a la normativa vigente y a las políticas de la Organización, Controlar las actividades vinculadas al Sistema",
-     "Asesorar en forma permanente a todos los líderes de procesos de la empresa para elaborar, revisar, mejorar o crear procedimientos, instructivos, formatos y otros documentos, para garantizar la obtención y mantenimiento eficaz de la certificación, su seguimiento y renovación constante.",
-     "Verificar la conformidad del sistema documentario (manuales, procedimientos, registros y otros) del SIG, en las diversas áreas de la organización.",
-     "Realizar seguimiento de actualización a la Lista Maestra de documentos internos, Lista maestra de documentos externos, Lista maestra de registros y matriz de requisitos legales aplicable a los procesos de la Distribuidora.",
-     "Participa activa y responsablemente en la difusión de las normas, Política del SIG, Objetivos del SIG, Controles operacionales en materia ambiental y de seguridad y salud ocupacional.",
-     "Participa en la ejecución y seguimiento de las auditorías internas.",
-     "Participa en las auditorías realizadas por ACL y realiza el seguimiento al cumplimiento de las acciones correctivas que se tengan de los hallazgos encontrados en éstas.",
-     "Participar en la implementación, mantenimiento y mejora continua del Sistema de Gestión Integrado, teniendo especial cuidado de no apartarse de los procedimientos, asegurar el control y la seguridad de las operaciones, para prevenir cualquier actividad ilícita."
-    ]
-   }
-  ],
-  "area": "Capital Humano, SST y SIG",
-  "no_fiscaliza": false,
-  "descanso": "Sábados y Domingos",
-  "licencia": "No es necesario"
- },
- {
-  "nombre": "Médico Ocupacional",
-  "reporta_a": [
-   "Jefe de Operaciones"
-  ],
-  "le_reportan": [
-   "Interactúa con Jefes de Área y personal"
-  ],
-  "mision": "Mantener en óptimo estado de salud al trabajador para asegurar la continuidad de la fuerza laboral y por tanto el éxito de la organización.",
-  "horario": [
-   "Lunes a Sábados de 7:00 a.m. a 01:00 p.m"
-  ],
-  "req_generales": [
-   "LICENCIA DE CONDUCIR: A I (Deseable)."
-  ],
-  "req_conocimientos": [
-   "FORMACIÓN ACADÉMICA:",
-   "Médico Colegiado y habilitado.",
-   "FORMACIÓN COMPLEMENTARIA:",
-   "Egresado de la especialidad de Medicina Ocupacional y medio ambiente, o Medicina del Trabajo; o en su defecto debe tener grado o ser egresado de Maestría en Salud Ocupacional, medicina ocupacional o seguridad y salud en el trabajo o equivalentes.",
-   "FORMACIÓN ESPECIFICOS:",
-   "Ofimática a nivel intermedio (Indispensable)."
-  ],
-  "req_experiencia": [
-   "Experiencia mínima de 1 años en el puesto y/o afines."
-  ],
-  "sig": [
-   "Seguir los procedimientos establecidos, identificando, comunicando situaciones para los cuales no existen procedimientos o no son los adecuados.",
-   "Tomar conciencia de la Política de Calidad, Seguridad, Salud en el trabajo y Medio Ambiente; y el cumplimiento de los objetivos SIG pertinentes.",
-   "Ser conscientes de su contribución a la eficacia del sistema de gestión de la calidad, incluidos los beneficios de la mejora de su desempeño y las implicancias que conllevarían el incumplimiento de los requisitos del SIG.",
-   "Colaborar con la identificación de riesgos y oportunidades el SIG.",
-   "Reportar cualquier planteamiento de inquietudes, incumplimiento de la Política de antisoborno.",
-   "Participar en las Capacitaciones relacionadas al Sistema Integrado de Gestión.",
-   "No aceptar regalos, atenciones, donaciones y otros beneficios similares para beneficios propios"
-  ],
-  "funciones": [
-   {
-    "grupo": "Funciones principales",
-    "items": [
-     "Realizar la vigilancia médico ocupacional en el marco de la emergencia sanitaria por COVID-19 para salvaguardar la salud y bienestar de los trabajadores.",
-     "Elaborar y/o revisar planes, protocolos, instructivos y otros documentos orientados a la vigilancia, prevención y control del COVID-19, así como los relativos a la Salud en el Trabajo para dar cumplimiento a la normativa vigente.",
-     "Elaborar una línea base de las condiciones de salud de los trabajadores en las áreas de la Distribuidora.",
-     "Realizar el seguimiento al cumplimiento del Plan de Vigilancia, Prevención y Control del COVID-19, en coordinación con el CSST, SSO y SIG.",
-     "Elaborar el Programa Anual de Capacitación Anual en materia de Salud Ocupacional y en temas específicos al COVID-19.",
-     "Generar mecanismos de prevención de contagio de coronavirus en la Distribuidora para garantizar el cumplimiento de la normativa vigente.",
-     "Validar mediante un certificado de aptitud médica, el regreso al trabajo del personal con factor de riesgo que solicite su reincorporación mediante la",
-     "Capacitar y sensibilizar en temas referentes al COVID-19 a los colaboradores de la Distribuidora para fomentar la prevención de contagio del coronavirus, así como en temas relacionados a la Salud en el Trabajo.",
-     "Atender y dar seguimiento a los casos sospechosos y confirmados de COVID 19, utilizando los formatos establecidos en la normativa vigente para la elaboración de informes, según corresponda.",
-     "Atender y dar seguimiento a los casos de personal que cuente con comorbilidades o se encuentren dentro de los factores de riesgo decretados por el Gobierno.",
-     "Emitir opinión técnica relacionada a cualquier actividad en el marco de la emergencia sanitaria para mantener informada a la Gerencia.",
-     "Realizar inspecciones para detectar factores de riesgo ocupacionales y ambientales en Salud, de acuerdo a la normatividad vigente.",
-     "Ejecutar el programa anual de Salud ocupacional y demás programas de acuerdo a su competencia.",
-     "Elaborar y realizar el seguimiento y control de los indicadores de Salud ocupacional.",
-     "Atender la urgencia y emergencia de los trabajadores, de acuerdo a la normativa vigente.",
-     "Atender al trabajador con enfermedad profesional o enfermedad relacionada al trabajo de acuerdo a la normatividad vigente.",
-     "Administrar el servicio de salud en el trabajo de acuerdo a la normatividad vigente.",
-     "Detectar factores de riesgos ocupacionales y ambientales en salud,",
-     "Detectar daños según enfermedades profesionales relacionadas al trabajo y normativa vigente.",
-     "Emitir informes sobre el análisis de los descansos médicos del personal.",
-     "Supervisar al Profesional de Enfermería en las actividades a desarrollar para garantizar la atención de la emergencia sanitaria y las emergencias que pudieran generarse.",
-     "Conocer los procedimientos implementados y difundirlos con todo su personal a cargo, garantizando que su aprendizaje en cada uno de éstos.",
-     "Responsable de la inducción específica de su personal a cargo tanto teórica como práctica, así mismo realizar la retroalimentación correspondiente cada cierto tiempo, mediante la evaluación de desempeño.",
-     "Realizar la ejecución de procedimientos e instructivos del área, revisarlos en conjunto con el/la responsable SIG al menos una vez al año, o cuando se presenten modificaciones del sistema.",
-     "Cumplir con la difusión de las capacitaciones de su área de acuerdo al Programa de Capacitación anual establecido.",
-     "Otras funciones que le designe su Jefe Inmediato."
-    ]
-   }
-  ],
-  "area": "Capital Humano, SST y SIG",
-  "no_fiscaliza": false,
-  "descanso": "Domingos",
-  "licencia": "A I (Deseable)"
- },
- {
-  "nombre": "Enfermera Ocupacional",
-  "reporta_a": [
-   "Jefe de Operaciones",
-   "Médico Ocupacional"
-  ],
-  "le_reportan": [
-   "Interactúa con Jefes de Área y personal"
-  ],
-  "mision": "Conservación de la salud del trabajador, prevención y atención de accidentes de trabajo, protegiendo así al personal de enfermedades y daños derivados de su actividad laboral",
-  "horario": [
-   "Lunes a Sábados de 7:00 a.m. a 01:00 p.m"
-  ],
-  "req_generales": [
-   "LICENCIA DE CONDUCIR: A I (Deseable)."
-  ],
-  "req_conocimientos": [
-   "FORMACIÓN ACADÉMICA:",
-   "Licenciada en Enfermería Colegiado y habilitado.",
-   "FORMACIÓN COMPLEMENTARIA:",
-   "Diplomado en Salud Ocupacional, seguridad y salud en el trabajo o gestión de riesgo de desastres o equivalentes.",
-   "FORMACIÓN ESPECIFICOS:",
-   "Ofimática a nivel intermedio (Indispensable)."
-  ],
-  "req_experiencia": [
-   "Experiencia mínima de 1 años en el puesto y/o afines."
-  ],
-  "sig": [
-   "Seguir los procedimientos establecidos, identificando, comunicando situaciones para los cuales no existen procedimientos o no son los adecuados.",
-   "Tomar conciencia de la Política de Calidad, Seguridad, Salud en el trabajo y Medio Ambiente; y el cumplimiento de los objetivos SIG pertinentes.",
-   "Ser conscientes de su contribución a la eficacia del sistema de gestión de la calidad, incluidos los beneficios de la mejora de su desempeño y las implicancias que conllevarían el incumplimiento de los requisitos del SIG.",
-   "Colaborar con la identificación de riesgos y oportunidades el SIG.",
-   "Reportar cualquier planteamiento de inquietudes, incumplimiento de la Política de antisoborno.",
-   "Participar en las Capacitaciones relacionadas al Sistema Integrado de Gestión.",
-   "No aceptar regalos, atenciones, donaciones y otros beneficios similares para beneficios propios"
-  ],
-  "funciones": [
-   {
-    "grupo": "Funciones principales",
-    "items": [
-     "Brindar atención primaria en accidentes, incidentes o algún padecimiento leve que pudiera presentar el trabajador, bajo las indicaciones del médico ocupacional.",
-     "Prevenir situaciones que pongan en riesgo a los trabajadores y promover una cultura de salud en la organización, prestando mayor atención a trabajadores que tengan mayor factor de riesgo.",
-     "Realizar investigaciones relacionadas con temas de salud en el trabajo, revisión y control de los certificados médicos o ausencias por problemas de salud.",
-     "Contribuir a la solución de los problemas de salud de los colaboradores de la entidad, a través de asesoría técnica impartiendo talleres en relación a conductas de riesgo laboral y extra laboral (promoción de hábitos saludables).",
-     "Capacitar al personal, haciéndose en el personal con factor de riesgo, por obesidad sobre los hábitos saludables de alimentación.",
-     "Realizar control y seguimiento del peso del personal, comunicando oportunamente y tomando las medidas necesarias, de corresponder, a los que incrementen su índice de masa corporal, bajo las órdenes y visto bueno del médico ocupacional.",
-     "Gestionar y planificar protocolos y procedimientos que garanticen un ambiente saludable para todos los miembros de Ia organización.",
-     "Brindar los primeros auxilios en las situaciones de emergencias o desastres.",
-     "Participar en las actividades necesarias para la realización de los exámenes médicos ocupacionales.",
-     "Analizar las condiciones higiénicas y de salubridad de los espacios comunes de trabajo e instalaciones generales del centro laboral (comedores, servicios higiénicos, zonal de descanso, equipos de refrigeración, instalaciones de agua potable, etc.) a fin de brindar a cada trabajador una educación sanitaria según el puesto de trabajo y los riesgos laborales al que está expuesto.",
-     "Cumplir con el programa de vacunación para la prevención de enfermedades comunes y ocupacionales.",
-     "Participar en las investigaciones de accidentes de trabajo y de otros daños a la salud del trabajador.",
-     "Apoyar en la evaluación de la condición de salud de los colaboradores previo al regreso o reincorporación a sus labores en la institución en el marco de la emergencia por el COVID-19.",
-     "Apoyar la gestión y ejecución de los pasos normados por el MINSA y la Organización con relación al COVID-19.",
-     "Vigilancia y seguimiento de la salud de los colaboradores en el contexto del COVID-19, de acuerdo con lo normado por el MINSA, la institución y el médico a cargo.",
-     "Ejecutar acciones de sensibilización de la prevención del contagio del COVID-19 en el trabajo, familia y sociedad.",
-     "Seguimiento de las medidas preventivas de protección que son de aplicación colectiva y acciones sanitarias implementadas en el trabajo para la prevención del contagio del COVID-19.",
-     "Apoyar en las demás actividades de la División de Seguridad y Salud en el Trabajo y la División de Bienestar Social.",
-     "Conocer los procedimientos implementados.",
-     "Cumplir con la asistencia a las capacitaciones impartidas, y realizar las evaluaciones correspondientes, a fin de garantizar el entendimiento y comprensión en el tema brindado.",
-     "Otras funciones que le designe su Jefe Inmediato."
-    ]
-   }
-  ],
-  "area": "Capital Humano, SST y SIG",
-  "no_fiscaliza": false,
-  "descanso": "Domingos",
-  "licencia": "A I (Deseable)"
- },
- {
-  "nombre": "Sub-Contador",
-  "reporta_a": [
-   "Gerente General",
-   "Administración"
-  ],
-  "le_reportan": [
-   "Asistentes contables",
-   "Asiste de Caja y Bancos"
-  ],
-  "mision": "Analizar la información contenida en los documentos contables generados del proceso de contabilidad en una determinada dependencia, verificando su exactitud, a fin de garantizar estados financieros confiables y oportunos.",
-  "horario": [
-   "Lunes a Viernes de 7:00 a.m. a 01:00 p.m a 2:30 p.m. a 6:00 p.m."
-  ],
-  "req_generales": [
-   "LICENCIA DE CONDUCIR: No es necesario"
-  ],
-  "req_conocimientos": [
-   "FORMACIÓN ACADÉMICA:",
-   "Contador Público Colegiado",
-   "FORMACIÓN COMPLEMENTARIA:",
-   "Diplomado y/o Maestría en Tributación.",
-   "FORMACIÓN ESPECIFICOS:",
-   "Ofimática a nivel avanzado o intermedio (Indispensable)."
-  ],
-  "req_experiencia": [
-   "Experiencia mínima de 3 años en el cargo."
-  ],
-  "sig": [
-   "Seguir los procedimientos establecidos, identificando, comunicando situaciones para los cuales no existen procedimientos o no son los adecuados.",
-   "Tomar conciencia de la Política de Calidad, Seguridad, Salud en el trabajo y Medio Ambiente; y el cumplimiento de los objetivos SIG pertinentes.",
-   "Ser conscientes de su contribución a la eficacia del sistema de gestión de la calidad, incluidos los beneficios de la mejora de su desempeño y las implicancias que conllevarían el incumplimiento de los requisitos del SIG.",
-   "Colaborar con la identificación de riesgos y oportunidades el SIG.",
-   "Reportar cualquier planteamiento de inquietudes, incumplimiento de la Política de antisoborno.",
-   "Participar en las Capacitaciones relacionadas al Sistema Integrado de Gestión.",
-   "No aceptar regalos, atenciones, donaciones y otros beneficios similares para beneficios propios"
-  ],
-  "funciones": [
-   {
-    "grupo": "Funciones principales",
-    "items": [
-     "Contabilización de los asientos de planillas",
-     "Provisiones de los asientos de CTS, gratificaciones, vacaciones y depreciación de activo fijo.",
-     "Liquidación de impuestos, presentación de PDT (621, 697, 626), PLAME. Así como PDT Detalle de Operaciones, DAOT y Renta Anual a SUNAT.",
-     "Análisis de cuentas contables y sus respectivas sub cuentas (33, 32, 16, 39, 40, 41 y 45).",
-     "Presentación y exposición de los estados financieros a gerencia en forma mensual.",
-     "Control, manejo y revisión de la documentación contable.",
-     "Control de las letras, prestamos por pagar y fraccionamientos con CLSA, entidades financieras, SUNAT y ministerio de trabajo respectivamente",
-     "Control y manejo del activo fijo",
-     "Presentación de encuesta mensual y anual al INEI.",
-     "Presentación de la documentación a entidades financieras para la solicitud de líneas de crédito. (leasing, préstamos, carta fianza, etc)",
-     "Reporte a Gerencia información del P & L, y en elaboración de información financiera a ACL.",
-     "Cumplir con la asistencia a las capacitaciones impartidas, y realizar las evaluaciones correspondientes, a fin de garantizar el entendimiento y comprensión en el tema brindado."
-    ]
-   }
-  ],
-  "area": "Administración y finanzas",
-  "no_fiscaliza": false,
-  "descanso": "Sábados y Domingos",
-  "licencia": "No es necesario"
- },
- {
-  "nombre": "Asistente Contable 1",
-  "reporta_a": [
-   "SUB CONTADOR"
+   "Administrador"
   ],
   "le_reportan": [
    "Asiste de Caja y Bancos",
@@ -830,15 +151,83 @@
     ]
    }
   ],
-  "area": "Administración y finanzas",
+  "area": "Administración",
   "no_fiscaliza": false,
   "descanso": "Sábados y Domingos",
-  "licencia": "No es necesario"
+  "licencia": "No es necesario",
+  "cargo_bd": "ANALISTA FINANCIERO",
+  "marcacion": "entrada_salida",
+  "provisional": false,
+  "provisional_creada": false,
+  "reporta_confirmado": true,
+  "nota": "Información tomada del puesto «Asistente Contable» del MOF."
  },
  {
-  "nombre": "Asistente Contable 2",
+  "nombre": "Asistente de Caja y Banco",
   "reporta_a": [
-   "SUB CONTADOR"
+   "Administrador"
+  ],
+  "le_reportan": [
+   "Interactúa con todas las áreas."
+  ],
+  "mision": "Garantizar las operaciones de una unidad de caja, efectuando actividades de recepción, entrega y custodia de dinero en efectivo, cheques, giros y demás documentos de valor, a fin de lograr la recaudación de ingresos al CDA y la cancelación de los pagos que correspondan a través de caja.",
+  "horario": [
+   "Lunes a Viernes de 8:00 a.m. a 1:30 p.m a 4:00 p.m. a 7:00 p.m., Sábados 7:00 a.m a 12:00 p.m."
+  ],
+  "req_generales": [
+   "LICENCIA DE CONDUCIR: No es necesario"
+  ],
+  "req_conocimientos": [
+   "FORMACIÓN ACADÉMICA:",
+   "Ing. de Sistemas, Administrador y/o Contador Público Colegiado/Técnico Contable.",
+   "FORMACIÓN COMPLEMENTARIA:",
+   "Indispensable, manejo de conteo y verificación de dinero.",
+   "FORMACIÓN ESPECIFICOS:",
+   "Ofimática a nivel avanzado o intermedio (Indispensable)."
+  ],
+  "req_experiencia": [
+   "Experiencia mínima de 2 años en el puesto."
+  ],
+  "sig": [
+   "Seguir los procedimientos establecidos, identificando, comunicando situaciones para los cuales no existen procedimientos o no son los adecuados.",
+   "Tomar conciencia de la Política de Calidad, Seguridad, Salud en el trabajo y Medio Ambiente; y el cumplimiento de los objetivos SIG pertinentes.",
+   "Ser conscientes de su contribución a la eficacia del sistema de gestión de la calidad, incluidos los beneficios de la mejora de su desempeño y las implicancias que conllevarían el incumplimiento de los requisitos del SIG.",
+   "Colaborar con la identificación de riesgos y oportunidades el SIG.",
+   "Reportar cualquier planteamiento de inquietudes, incumplimiento de la Política de antisoborno.",
+   "Participar en las Capacitaciones relacionadas al Sistema Integrado de Gestión.",
+   "No aceptar regalos, atenciones, donaciones y otros beneficios similares para beneficios propios"
+  ],
+  "funciones": [
+   {
+    "grupo": "Funciones principales",
+    "items": [
+     "Recepcionar el dinero de las ventas diarias y de las cobranzas de créditos.",
+     "Remitir todo el dinero ingresado al Banco vía HERMES.",
+     "Liquidar a todos los fleteros.",
+     "Hacer el cuadre de caja diario e informar vía correo el cuadre de caja a Gerencia y Administración.",
+     "Depósito de cheques al Banco de forma diaria.",
+     "Reembolso del fondo fijo constantemente.",
+     "Atender gastos y vales autorizados por Gerencia y Administración.",
+     "Girar cheques para cancelación de proveedores.",
+     "Pago de facturas a choferes en forma semanal, así mismo de pagar letras al Banco."
+    ]
+   }
+  ],
+  "area": "Administración",
+  "no_fiscaliza": false,
+  "descanso": "Domingos",
+  "licencia": "No es necesario",
+  "cargo_bd": "ASISTENTE C&B",
+  "marcacion": "entrada_salida",
+  "provisional": false,
+  "provisional_creada": false,
+  "reporta_confirmado": true,
+  "nota": ""
+ },
+ {
+  "nombre": "Asistente Contable",
+  "reporta_a": [
+   "Administrador"
   ],
   "le_reportan": [
    "Asiste de Caja y Bancos",
@@ -890,43 +279,103 @@
      "Registro de las cobranzas a clientes en el sistema contable.",
      "Provisión de la planilla (CTS, VACACIONES, GRATIFICACIONES)",
      "Archivo de la documentación contable de acuerdo a lo establecido.",
-     "Inventarios de Activo Fijo, también del ingreso de información al Excel de los gastos.",
+     "Inventarios de Activo Fijo, así mismo de ingreso de información al Excel de los gastos.",
      "Provisión de los gastos en el sistema contable.",
+     "Provisión de las compras de Mercadería de ACL.",
      "Archivo de la documentación contable de acuerdo a lo establecido.",
-     "Cumplir con la asistencia a las capacitaciones impartidas, y realizar las evaluaciones correspondientes, a fin de garantizar el entendimiento y comprensión en el tema brindado"
+     "Elaboración de presupuesto mensual vs. P&L.",
+     "Cumplir con la asistencia a las capacitaciones impartidas, y realizar las evaluaciones correspondientes, a fin de garantizar el entendimiento y comprensión en el tema brindado."
     ]
    }
   ],
-  "area": "Administración y finanzas",
+  "area": "Administración",
   "no_fiscaliza": false,
   "descanso": "Sábados y Domingos",
-  "licencia": "No es necesario"
+  "licencia": "No es necesario",
+  "cargo_bd": "ASISTENTE CONTABLE",
+  "marcacion": "entrada_salida",
+  "provisional": false,
+  "provisional_creada": false,
+  "reporta_confirmado": true,
+  "nota": ""
  },
  {
-  "nombre": "Asistente de Caja y Banco",
+  "nombre": "Auxiliar Administrativo",
+  "area": "Administración",
+  "cargo_bd": "AUXILIAR ADMINISTRATIVO",
+  "mision": "Asistir en todas las actividades que requiera el área de Capital Humano, brindando apoyo administrativo, documentario y operativo.",
   "reporta_a": [
-   "Sub Contador"
+   "Supervisor de Capital Humano"
   ],
   "le_reportan": [
-   "Interactúa con todas las áreas."
+   "Interactúa con las demás áreas y con el personal de la empresa."
   ],
-  "mision": "Garantizar las operaciones de una unidad de caja, efectuando actividades de recepción, entrega y custodia de dinero en efectivo, cheques, giros y demás documentos de valor, a fin de lograr la recaudación de ingresos al CDA y la cancelación de los pagos que correspondan a través de caja.",
+  "funciones": [
+   {
+    "grupo": "Apoyo administrativo y documentario",
+    "items": [
+     "Mantener organizados y actualizados los legajos y expedientes del personal.",
+     "Registrar los ingresos y ceses y mantener actualizadas las bases de datos del personal.",
+     "Preparar, registrar y archivar contratos, memorándums y demás documentos del personal."
+    ]
+   },
+   {
+    "grupo": "Apoyo en los procesos de Capital Humano",
+    "items": [
+     "Apoyar en el control de asistencia, en los reportes y en los trámites del personal ante entidades externas, como seguros y planilla.",
+     "Atender y orientar al personal en consultas administrativas básicas.",
+     "Apoyar en la organización de inducciones, capacitaciones y actividades de bienestar.",
+     "Asistir en las demás actividades que el área de Capital Humano requiera."
+    ]
+   }
+  ],
+  "horario": [],
+  "descanso": "",
+  "no_fiscaliza": false,
+  "marcacion": null,
+  "req_generales": [],
+  "req_conocimientos": [],
+  "req_experiencia": [],
+  "sig": [
+   "Seguir los procedimientos establecidos, identificando, comunicando situaciones para los cuales no existen procedimientos o no son los adecuados.",
+   "Tomar conciencia de la Política de Calidad, Seguridad, Salud en el trabajo y Medio Ambiente; y el cumplimiento de los objetivos SIG pertinentes.",
+   "Ser conscientes de su contribución a la eficacia del sistema de gestión de la calidad, incluidos los beneficios de la mejora de su desempeño y las implicancias que conllevarían el incumplimiento de los requisitos del SIG.",
+   "Colaborar con la identificación de riesgos y oportunidades el SIG.",
+   "Reportar cualquier planteamiento de inquietudes, incumplimiento de la Política de antisoborno.",
+   "Participar en las Capacitaciones relacionadas al Sistema Integrado de Gestión.",
+   "No aceptar regalos, atenciones, donaciones y otros beneficios similares para beneficios propios"
+  ],
+  "licencia": "",
+  "provisional": true,
+  "provisional_creada": true,
+  "reporta_confirmado": true,
+  "nota": "Ficha provisional: la preparó Capital Humano de forma referencial mientras se oficializa el MOF de tu cargo. Consulta cualquier duda con tu jefe."
+ },
+ {
+  "nombre": "Enfermera Ocupacional",
+  "reporta_a": [
+   "Administrador"
+  ],
+  "le_reportan": [
+   "Interactúa con Jefes de Área y personal"
+  ],
+  "mision": "Conservación de la salud del trabajador, prevención y atención de accidentes de trabajo, protegiendo así al personal de enfermedades y daños derivados de su actividad laboral",
   "horario": [
-   "Lunes a Viernes de 8:00 a.m. a 1:30 p.m a 4:00 p.m. a 7:00 p.m., Sábados 7:00 a.m a 12:00 p.m."
+   "Lunes a Sábados de 7:00 a.m. a 01:00 p.m"
   ],
   "req_generales": [
-   "LICENCIA DE CONDUCIR: No es necesario"
+   "LICENCIA DE CONDUCIR: A I (Deseable)."
   ],
   "req_conocimientos": [
    "FORMACIÓN ACADÉMICA:",
-   "Ing. de Sistemas, Administrador y/o Contador Público Colegiado/Técnico Contable.",
+   "Licenciada en Enfermería Colegiado y habilitado.",
    "FORMACIÓN COMPLEMENTARIA:",
-   "Indispensable, manejo de conteo y verificación de dinero.",
+   "Diplomado en Salud Ocupacional, seguridad y salud en el trabajo o gestión de riesgo de desastres o equivalentes.",
    "FORMACIÓN ESPECIFICOS:",
-   "Ofimática a nivel avanzado o intermedio (Indispensable)."
+   "Ofimática a nivel intermedio (Indispensable)."
   ],
   "req_experiencia": [
-   "Experiencia mínima de 2 años en el puesto."
+   "Experiencia mínima de 1 años en el puesto y/o afines."
   ],
   "sig": [
    "Seguir los procedimientos establecidos, identificando, comunicando situaciones para los cuales no existen procedimientos o no son los adecuados.",
@@ -941,28 +390,99 @@
    {
     "grupo": "Funciones principales",
     "items": [
-     "Recepcionar el dinero de las ventas diarias y de las cobranzas de créditos.",
-     "Remitir todo el dinero ingresado al Banco vía HERMES.",
-     "Liquidar a todos los fleteros.",
-     "Hacer el cuadre de caja diario e informar vía correo el cuadre de caja a Gerencia y Administración.",
-     "Depósito de cheques al Banco de forma diaria.",
-     "Reembolso del fondo fijo constantemente.",
-     "Atender gastos y vales autorizados por Gerencia y Administración.",
-     "Girar cheques para cancelación de proveedores.",
-     "Pago de facturas a choferes en forma semanal, así mismo de pagar letras al Banco."
+     "Brindar atención primaria en accidentes, incidentes o algún padecimiento leve que pudiera presentar el trabajador, bajo las indicaciones del profesional médico responsable.",
+     "Prevenir situaciones que pongan en riesgo a los trabajadores y promover una cultura de salud en la organización, prestando mayor atención a trabajadores que tengan mayor factor de riesgo.",
+     "Realizar investigaciones relacionadas con temas de salud en el trabajo, revisión y control de los certificados médicos o ausencias por problemas de salud.",
+     "Contribuir a la solución de los problemas de salud de los colaboradores de la entidad, a través de asesoría técnica impartiendo talleres en relación a conductas de riesgo laboral y extra laboral (promoción de hábitos saludables).",
+     "Capacitar al personal, haciéndose en el personal con factor de riesgo, por obesidad sobre los hábitos saludables de alimentación.",
+     "Realizar control y seguimiento del peso del personal, comunicando oportunamente y tomando las medidas necesarias, de corresponder, a los que incrementen su índice de masa corporal, bajo las órdenes y visto bueno del profesional médico responsable.",
+     "Gestionar y planificar protocolos y procedimientos que garanticen un ambiente saludable para todos los miembros de Ia organización.",
+     "Brindar los primeros auxilios en las situaciones de emergencias o desastres.",
+     "Participar en las actividades necesarias para la realización de los exámenes médicos ocupacionales.",
+     "Analizar las condiciones higiénicas y de salubridad de los espacios comunes de trabajo e instalaciones generales del centro laboral (comedores, servicios higiénicos, zonal de descanso, equipos de refrigeración, instalaciones de agua potable, etc.) a fin de brindar a cada trabajador una educación sanitaria según el puesto de trabajo y los riesgos laborales al que está expuesto.",
+     "Cumplir con el programa de vacunación para la prevención de enfermedades comunes y ocupacionales.",
+     "Participar en las investigaciones de accidentes de trabajo y de otros daños a la salud del trabajador.",
+     "Apoyar en la evaluación de la condición de salud de los colaboradores previo al regreso o reincorporación a sus labores en la institución en el marco de la emergencia por el COVID-19.",
+     "Apoyar la gestión y ejecución de los pasos normados por el MINSA y la Organización con relación al COVID-19.",
+     "Vigilancia y seguimiento de la salud de los colaboradores en el contexto del COVID-19, de acuerdo con lo normado por el MINSA, la institución y el médico a cargo.",
+     "Ejecutar acciones de sensibilización de la prevención del contagio del COVID-19 en el trabajo, familia y sociedad.",
+     "Seguimiento de las medidas preventivas de protección que son de aplicación colectiva y acciones sanitarias implementadas en el trabajo para la prevención del contagio del COVID-19.",
+     "Apoyar en las demás actividades de la División de Seguridad y Salud en el Trabajo y la División de Bienestar Social.",
+     "Conocer los procedimientos implementados.",
+     "Cumplir con la asistencia a las capacitaciones impartidas, y realizar las evaluaciones correspondientes, a fin de garantizar el entendimiento y comprensión en el tema brindado.",
+     "Otras funciones que le designe su Jefe Inmediato."
     ]
    }
   ],
-  "area": "Administración y finanzas",
+  "area": "Administración",
   "no_fiscaliza": false,
   "descanso": "Domingos",
-  "licencia": "No es necesario"
+  "licencia": "A I (Deseable)",
+  "cargo_bd": "ENFERMERA OCUPACIONAL",
+  "marcacion": "entrada_salida",
+  "provisional": false,
+  "provisional_creada": false,
+  "reporta_confirmado": true,
+  "nota": ""
+ },
+ {
+  "nombre": "Operario de Limpieza",
+  "reporta_a": [
+   "Supervisor de SSO"
+  ],
+  "le_reportan": [
+   "Interactúa con todo el personal de PMA."
+  ],
+  "mision": "Mantener la Infraestructura, oficinas, equipos, muebles y enseres de la Distribuidora, en óptimas condiciones de limpieza para garantizar la higiene de las instalaciones.",
+  "horario": [
+   "Lunes a Sábados de 5:00 AM– 2:00 PM 10:00 AM – 07:00 PM."
+  ],
+  "req_generales": [
+   "LICENCIA DE CONDUCIR: No es necesaria."
+  ],
+  "req_conocimientos": [
+   "FORMACIÓN ACADÉMICA:",
+   "Estudios primarios y/o secundarios culminados."
+  ],
+  "req_experiencia": [
+   "Requiere experiencia anterior no menor a 6 meses en el cargo y/ o afines."
+  ],
+  "sig": [
+   "Seguir los procedimientos establecidos, identificando, comunicando situaciones para los cuales no existen procedimientos o no son los adecuados.",
+   "Tomar conciencia de la Política de Calidad, Seguridad, Salud en el trabajo y Medio Ambiente; y el cumplimiento de los objetivos SIG pertinentes.",
+   "Ser conscientes de su contribución a la eficacia del sistema de gestión de la calidad, incluidos los beneficios de la mejora de su desempeño y las implicancias que conllevarían el incumplimiento de los requisitos del SIG.",
+   "Colaborar con la identificación de riesgos y oportunidades el SIG.",
+   "Reportar cualquier planteamiento de inquietudes, incumplimiento de la Política de antisoborno.",
+   "Participar en las Capacitaciones relacionadas al Sistema Integrado de Gestión.",
+   "No aceptar regalos, atenciones, donaciones y otros beneficios similares para beneficios propios"
+  ],
+  "funciones": [
+   {
+    "grupo": "Funciones principales",
+    "items": [
+     "Garantizar que los ambientes interiores y exteriores de la entidad, los equipos y muebles de las unidades orgánicas, estén siempre limpios en correspondencia al ambiente laboral.",
+     "Mantener la limpieza continua, y que no interfiera con las labores del personal, prestando apoyo necesario en caso se requiera.",
+     "Brindar apoyo para la seguridad de la infraestructura, oficinas, equipos, muebles y enseres de la entidad.",
+     "Otras funciones compatibles o inherentes al cargo."
+    ]
+   }
+  ],
+  "area": "Administración",
+  "no_fiscaliza": false,
+  "descanso": "Domingos",
+  "licencia": "No es necesaria",
+  "cargo_bd": "LIMPIEZA",
+  "marcacion": "entrada_salida",
+  "provisional": false,
+  "provisional_creada": false,
+  "reporta_confirmado": true,
+  "nota": ""
  },
  {
   "nombre": "Liquidador",
   "reporta_a": [
    "Supervisor de Almacén",
-   "Jefe de Operaciones"
+   "Administrador"
   ],
   "le_reportan": [
    "Interactúa con área de Distribución y Contabilidad"
@@ -1013,37 +533,111 @@
     ]
    }
   ],
-  "area": "Administración y finanzas",
+  "area": "Administración",
   "no_fiscaliza": false,
   "descanso": "Domingos",
-  "licencia": "No es necesario"
+  "licencia": "No es necesario",
+  "cargo_bd": "LIQUIDADOR",
+  "marcacion": "entrada_salida",
+  "provisional": false,
+  "provisional_creada": false,
+  "reporta_confirmado": true,
+  "nota": ""
  },
  {
-  "nombre": "Liquidador OL",
+  "nombre": "Supervisor de Capital Humano",
   "reporta_a": [
-   "Supervisor de Almacén",
-   "Jefe de Operaciones"
+   "Administrador"
   ],
   "le_reportan": [
-   "Interactúa con área de Distribución y Contabilidad"
+   "Interactúa con Jefes de Área y personal"
   ],
-  "mision": "Realizar eficientemente la generación, registro y cuadre de liquidación de las guías de remisión, boletas y facturas que les son asignadas a los transportistas del Canal OL.",
+  "mision": "Ejecutar planes y programas pertinentes a la administración de personal, aplicando técnicas administrativas relacionadas con el recurso humano, a fin de contribuir con el desarrollo de los procesos administrativos relacionados con la gestión de recursos humanos",
   "horario": [
-   "Lunes a Sábados 6:00 p.m a 02:45 a.m."
+   "Lunes a Viernes de 7:00 a.m. a 01:00 p.m - 2:00 pm. a 4:30 pm,Sábados 7:00 a.m a 12:00 p.m"
   ],
   "req_generales": [
-   "LICENCIA DE CONDUCIR: No es necesario"
+   "LICENCIA DE CONDUCIR: A I (deseable)."
+  ],
+  "req_conocimientos": [
+   "FORMACION ACADÉMICA:",
+   "Titulado o Colegiado en las carreras de Administración, Ingeniería Industrial o Psicología Organizacional.",
+   "FORMACION COMPLEMENTARIA:",
+   "Especialidad y/o Diplomado en Gestión del Potencial Humano.",
+   "Conocimientos en leyes laborales y temas de Seguridad y Salud en el Trabajo.",
+   "FORMACION ESPECIFICOS:",
+   "Ofimática a nivel avanzado o intermedio (Indispensable).",
+   "Inglés básico (deseable)"
+  ],
+  "req_experiencia": [
+   "Experiencia anterior no menor a 2 años en el cargo y/ o afines."
+  ],
+  "sig": [
+   "Seguir los procedimientos establecidos, identificando, comunicando situaciones para los cuales no existen procedimientos o no son los adecuados.",
+   "Tomar conciencia de la Política de Calidad, Seguridad, Salud en el trabajo y Medio Ambiente; y el cumplimiento de los objetivos SIG pertinentes.",
+   "Ser conscientes de su contribución a la eficacia del sistema de gestión de la calidad, incluidos los beneficios de la mejora de su desempeño y las implicancias que conllevarían el incumplimiento de los requisitos del SIG.",
+   "Colaborar con la identificación de riesgos y oportunidades el SIG.",
+   "Reportar cualquier planteamiento de inquietudes, incumplimiento de la Política de antisoborno.",
+   "Participar en las Capacitaciones relacionadas al Sistema Integrado de Gestión.",
+   "No aceptar regalos, atenciones, donaciones y otros beneficios similares para beneficios propios"
+  ],
+  "funciones": [
+   {
+    "grupo": "Funciones principales",
+    "items": [
+     "Realizar y mantener actualizados las descripciones de puestos del CDA y el organigrama.",
+     "Realizar el proceso de reclutamiento y selección de personal. (Publicaciones, perifoneo, entrevistas, perfil de requisitos mínimos del puesto, evaluación y presentación de la terna a la gerencia, verificar).",
+     "Desarrollar y ejecutar el proceso de inducción general al candidato seleccionado.",
+     "Registrar al colaborador.",
+     "Elabora informes periódicos de las actividades realizadas.",
+     "Atender consultas y reclamos individuales en el marco laboral respecto a horarios, salarios, contratación, etc.",
+     "Actualiza y registra en los expedientes del personal, reposos, permisos, inasistencias y demás información relacionada con el personal del CDA.",
+     "Colaborar con el Programa Anual de Capacitaciones para el personal del CDA. Aplica instrumentos de evaluación post capacitación. Mantiene actualizado el registro de instructores. Coordina la selección del personal a capacitar. Contacta instructores, determina lugar, fecha y hora de la actividad. Coordina la reproducción del material de apoyo, en caso necesario. Elabora y distribuye certificados. Coordina el pago a instructores.",
+     "Brindar apoyo en la elaboración e implementar la evaluación de desempeño.",
+     "Administrar la evaluación de clima laboral a todo el personal del CDA.",
+     "Responsable de ingresar y dar de baja en el T- REGISTRO a los trabajadores Titulares y sus Derechohabientes.",
+     "Mantener la documentación actualizada de los trabajadores."
+    ]
+   }
+  ],
+  "area": "Administración",
+  "no_fiscaliza": false,
+  "descanso": "Domingos",
+  "licencia": "A I (deseable)",
+  "cargo_bd": "SUPERVISOR DE CAPITAL HUMANO",
+  "marcacion": "entrada_salida",
+  "provisional": false,
+  "provisional_creada": false,
+  "reporta_confirmado": true,
+  "nota": ""
+ },
+ {
+  "nombre": "Supervisor de SSO",
+  "reporta_a": [
+   "Administrador"
+  ],
+  "le_reportan": [
+   "Vigilancia",
+   "Personal de Aseo",
+   "Interactúa con Jefes de Área y personal"
+  ],
+  "mision": "Controlar los procesos de preservación de la seguridad en el CDA y SSO fomentando de acuerdo a los lineamientos establecidos el compromiso de fomentar la cultura de Seguridad de la organización.",
+  "horario": [
+   "Lunes a Viernes de 7:00 a.m. a 12:30 p.m - 2:00 pm. a 4:00 pm, Sábados 7:00 a.m a 12:00 p.m"
+  ],
+  "req_generales": [
+   "LICENCIA DE CONDUCIR: A I (deseable)."
   ],
   "req_conocimientos": [
    "FORMACIÓN ACADÉMICA:",
-   "Administrador, Economista y/o Contador Público Colegiado.",
+   "Titulado o Colegiado en las carreras de Administración, Ingeniería Industrial, Relaciones Industriales y/o carreras afines.",
    "FORMACIÓN COMPLEMENTARIA:",
-   "Indispensable, manejo de conteo y verificación de dinero.",
+   "Especialidad y/o Diplomado en Seguridad y Salud en el Trabajo o Sistema Integrado de Gestión.",
    "FORMACIÓN ESPECIFICOS:",
    "Ofimática a nivel intermedio (Indispensable)."
   ],
   "req_experiencia": [
-   "Experiencia mínima de 2 años en el puesto."
+   "Experiencia mínima de 2 años en el cargo."
   ],
   "sig": [
    "Seguir los procedimientos establecidos, identificando, comunicando situaciones para los cuales no existen procedimientos o no son los adecuados.",
@@ -1058,54 +652,54 @@
    {
     "grupo": "Funciones principales",
     "items": [
-     "Ingresa en el sistema comercial guía de remisión de venta al contado.",
-     "Emite vale a nombre del transportista vendedor.",
-     "Verificar el correcto llenado de la guía de remisión en la descarga de productos y envases.",
-     "Realizar la liquidación del transportista de acuerdo a las órdenes de carga.",
-     "Registrar en el sistema comercial devoluciones y/o cambio de mercadería de acuerdo a lo consignado en las guías de remisión, boletas de rechazo y factura.",
-     "Imprimir documentos de devolución y/o rechazo en el sistema comercial.",
-     "Registrar facturas y/o boletas de venta en el sistema comercial.",
-     "Realizar el cuadre de liquidación.",
-     "Eliminar del listado del sistema comercial los productos críticos.",
-     "Generar órdenes de carga y guías de remisión, boletas y facturas en el sistema comercial para cada uno de los transportistas.",
-     "Elaborar el reporte de gestión de despacho de las unidades de transporte.",
-     "Cumplir con la asistencia a las capacitaciones impartidas, y realizar las evaluaciones correspondientes, a fin de garantizar el entendimiento y comprensión en el tema. brindado"
+     "Supervisar que todo el personal cumpla con las Normas de Seguridad.",
+     "Llevar el control de estadísticas de Accidentes e Incidentes de Trabajo.",
+     "Supervisar el Orden y Limpieza en la Empresa.",
+     "Controlar el Ingreso de Visitas y Proveedores a la Empresa.",
+     "Participar en la elaboración del Plan y Programa Anual de Seguridad.",
+     "Seguimiento al Control de Plagas.",
+     "Fomentar, verificar y supervisar que personal propio y de Empresas Contratistas que prestan servicios, cumplan con los estándares de Seguridad.",
+     "Participar en las reuniones del Comité de Seguridad y Salud Ocupacional.",
+     "Capacitar de manera permanente al personal en temas de Seguridad y Salud Ocupacional de acuerdo a lo establecido en el programa.",
+     "Velar por el cumplimiento de lo establecido en la Ley No. 29783 LEY DE SEGURIDAD Y SALUD EN EL TRABAJO y DS-009-2005-TR y sus modificatorias.",
+     "Emitir informe una vez por mes de los hallazgos de inspecciones e indicadores de seguridad y salud en el trabajo.",
+     "Participar en la elaboración del programa anual de inspecciones de seguridad y salud en el trabajo.",
+     "Realizar la ejecución de procedimientos e instructivos en el área y revisarlos en conjunto con el/la responsable SIG por lo menos una vez al año, o cuando se presenten modificaciones en el sistema."
     ]
    }
   ],
-  "area": "Administración y finanzas",
+  "area": "Administración",
   "no_fiscaliza": false,
   "descanso": "Domingos",
-  "licencia": "No es necesario"
+  "licencia": "A I (deseable)",
+  "cargo_bd": "SUPERVISOR DE SSO",
+  "marcacion": "entrada_salida",
+  "provisional": false,
+  "provisional_creada": false,
+  "reporta_confirmado": true,
+  "nota": ""
  },
  {
-  "nombre": "Analista de Compras (Jefe de Mantenimiento en Cda Pma Trujillo y Supervisor de Mantenimiento en Cda Pma Chimbote)",
+  "nombre": "Vigilante",
   "reporta_a": [
-   "Jefe de Operaciones (Trujillo)",
-   "Administrador (Chimbote)"
+   "Supervisor de SSO"
   ],
   "le_reportan": [
-   "Mecánico Automotriz",
-   "Mecánico eléctrico Automotriz",
-   "Interactúa con los choferes de reparto"
+   "Interactúa con todo el personal de PMA, proveedores, contratistas."
   ],
-  "mision": "Planificar, coordinar y supervisar las labores de reparación y mantenimiento de las unidades de reparto del CDA, asegurando su óptimo funcionamiento para realizar eficientemente la operación.",
+  "mision": "Vigilancia y protección de bienes muebles/inmuebles, y las personas que ingresen y permanezcan dentro del CDA.",
   "horario": [
-   "Lunes a Sábados 7:00 a.m a 01:00 p.m. y de 3:00 p.m a 6:00 p.m"
+   "Lunes a Sábados de 7:00 AM– 7:00 PM"
   ],
   "req_generales": [
-   "LICENCIA DE CONDUCIR: No es necesario"
+   "LICENCIA DE CONDUCIR: No es necesaria."
   ],
   "req_conocimientos": [
    "FORMACIÓN ACADÉMICA:",
-   "Secundaria completa y/o Técnico en Mecánica Automotriz.",
-   "FORMACIÓN COMPLEMENTARIA:",
-   "Curso de Mecánica Automotriz básica.",
-   "FORMACIÓN ESPECIFICOS:",
-   "Ofimática a nivel básico o intermedio (Indispensable)."
+   "Estudios primarios y/o secundarios culminados."
   ],
   "req_experiencia": [
-   "Experiencia mínima de 3 años en el puesto."
+   "Requiere experiencia anterior no menor a 6 meses en el cargo y/ o afines."
   ],
   "sig": [
    "Seguir los procedimientos establecidos, identificando, comunicando situaciones para los cuales no existen procedimientos o no son los adecuados.",
@@ -1120,45 +714,123 @@
    {
     "grupo": "Funciones principales",
     "items": [
-     "Coordinación y supervisión de las labores de mantenimiento de los camiones de reparto y montacargas de todo el CDA.",
-     "Verificar que los materiales y/o repuestos solicitados reúnan los requisitos y especificaciones técnicas para las unidades.",
-     "Coordinar, supervisar y evaluar los trabajos de reparaciones y mantenimiento realizado por terceros.",
-     "Supervisar los programas de mantenimiento preventivo y correctivo de las unidades.",
-     "Coordinar y supervisar la actualización de la hoja clínica de cada uno de las unidades.",
-     "Coordinar y confeccionar el presupuesto anual del área, proyectando cálculos sobre gastos de mantenimiento y suministro de materiales y repuestos.",
-     "Verificar permanentemente el normal funcionamiento de las unidades con la finalidad de mantener los niveles de operación.",
-     "Revisar e implementar procedimientos de trabajo.",
-     "Analiza las fallas de los equipos a efectos de prevenir incidentes.",
-     "Coordinar y manejar las compras con los proveedores.",
-     "Cumplir con el Programa Anual del área.",
-     "Cumplir con la asistencia a las capacitaciones impartidas, y realizar las evaluaciones correspondientes, a fin de garantizar el entendimiento y comprensión en el tema brindado."
+     "Efectúa el relevo verificando la existencia física de los cargos plasmados en el Cuaderno de Ocurrencias; así como de las consignas recibidas en su servicio; firmando ambos (saliente y entrante) la aceptación de conformidad del relevo.",
+     "Es responsable de la protección de los bienes y activos de la empresa cliente; por lo que tiene el control y seguridad perimétrica del CDA.",
+     "Cumple y hace cumplir los indicados en la “REGLAS DE ORO” y reporta en forma inmediata al Supervisor de SSO de los ACTOS y CONDICIONES Sub Estándar e incidentes ocurridos en el PUESTO DE VIGILANCIA de su responsabilidad.",
+     "Verifica que los vehículos de carga se encuentren con tacos, conos, conductores permanezcan en el vehículo, conductores entreguen la llave de contacto al colaborador de turno, permanezcan con su EPP y deslicen la cortina sólo cuando el montacargas se haya detenido.",
+     "En el turno nocturno diariamente realiza ronda por la instalación evidenciando en el formato correspondiente las ocurrencias encontradas al Seguridad SSO.",
+     "Desde su puesto de servicio mantendrá permanente observación de las áreas inmediatas con la finalidad de determinar o establecer la presencia de personas sospechosas o en abandono moral y que pudieran constituir algún riesgo para el personal, instalaciones o bienes de la empresa.",
+     "Permitir el Ingreso del personal después del horario establecido solamente con autorización del jefe del área a que pertenece, y las salidas antes del horario tendrá que hacerse mediante una papeleta de autorización firmada por Jefe de área y Capital Humano.",
+     "Llevar un control de salida e ingreso de vehículos de PMA mediante el formato establecido.",
+     "Revisa la documentación de los vehículos de clientes, visitas y proveedores que ingresen a las instalaciones.",
+     "Llevar un control del personal de visita, registrando fecha, hora de ingreso y salida, nombre completo, DNI, nombre de la persona visitada.",
+     "Solamente se dejará ingresar a las personas previa autorización de la que va a ser visitada, y por ningún motivo estará circulando por las oficinas.",
+     "No permitir la salida de paquetes, cajas etc. Sin guía de salida o previa verificación de lo que lleva.",
+     "Visualizar las cámaras de seguridad como soporte a su gestión.",
+     "Apoyo para que las vías de acceso estén despejadas para grantizar un tránsito seguro de las unidades.",
+     "Apoyo en la aplicación del test de alcoholemia, en casos que el supervisor de SSO no pueda realizar esta práctica.",
+     "Chequeo de cabina y carrocería de las unidades."
     ]
    }
   ],
-  "area": "Mantenimiento y sistemas",
+  "area": "Administración",
   "no_fiscaliza": false,
   "descanso": "Domingos",
-  "licencia": "No es necesario"
+  "licencia": "No es necesaria",
+  "cargo_bd": "VIGILANTE",
+  "marcacion": "entrada_salida",
+  "provisional": false,
+  "provisional_creada": false,
+  "reporta_confirmado": true,
+  "nota": ""
  },
  {
-  "nombre": "Analista de Sistemas",
+  "nombre": "Controlador de Almacén",
   "reporta_a": [
-   "Jefe de Operaciones"
+   "Supervisor de Almacén"
+  ],
+  "le_reportan": [
+   "Supervisa a todo el personal de Almacén.",
+   "Interactúa con los responsables del área Ventas, Distribución y Distribución ACL."
+  ],
+  "mision": "Gestionar y controlar todas las funciones del almacén y garantizar el funcionamiento correcto de todas las actividades. Así mismo, se encarga del manejo y gestión de los trabajadores del almacén y la adhesión a la seguridad necesaria.",
+  "horario": [
+   "Existen 03 turnos:",
+   "Lunes a Sábados de 7:00 a.m.- 3:00 p.m. / 3:00 p.m. - 11:00 p.m. / 11:00 p.m. - 7:00 a.m."
+  ],
+  "req_generales": [
+   "LICENCIA DE CONDUCIR: AI, AIIB (No indispensable)"
+  ],
+  "req_conocimientos": [
+   "FORMACIÓN ACADÉMICA:",
+   "Secundaria completa / Estudios técnicos completos o incompletos y/o carreras afines",
+   "FORMACIÓN COMPLEMENTARIA:",
+   "Curso o diplomado (De preferencia)",
+   "FORMACIÓN ESPECIFICOS:",
+   "Ofimática a nivel básico o intermedio (De preferencia).",
+   "Conocimientos en normas de Seguridad y Salud en el trabajo."
+  ],
+  "req_experiencia": [
+   "Experiencia mínima de 1 año en el puesto y/o afines"
+  ],
+  "sig": [
+   "Seguir los procedimientos establecidos, identificando, comunicando situaciones para los cuales no existen procedimientos o no son los adecuados.",
+   "Tomar conciencia de la Política de Calidad, Seguridad, Salud en el trabajo y Medio Ambiente; y el cumplimiento de los objetivos SIG pertinentes.",
+   "Ser conscientes de su contribución a la eficacia del sistema de gestión de la calidad, incluidos los beneficios de la mejora de su desempeño y las implicancias que conllevarían el incumplimiento de los requisitos del SIG.",
+   "Colaborar con la identificación de riesgos y oportunidades el SIG.",
+   "Reportar cualquier planteamiento de inquietudes, incumplimiento de la Política de antisoborno.",
+   "Participar en las Capacitaciones relacionadas al Sistema Integrado de Gestión.",
+   "No aceptar regalos, atenciones, donaciones y otros beneficios similares para beneficios propios"
+  ],
+  "funciones": [
+   {
+    "grupo": "Funciones principales",
+    "items": [
+     "Emitir guías y controlar el ingreso y salida del producto y envase del almacén.",
+     "Realiza la toma de inventarios y el cuadre de PTER y Envases",
+     "Supervisión de que el personal cumpla sus funciones operativas eficientemente.",
+     "Supervisión del personal a cargo que cumpla las medidas y normas de seguridad.",
+     "Lleva el control de asistencia del personal a su cargo, reportando ausencias y solicitando los suplentes respectivos.",
+     "Capacita al personal bajo su cargo.",
+     "Realiza cualquier otra tarea a fin que le sea asignada.",
+     "Control y seguimiento del producto no conforme."
+    ]
+   }
+  ],
+  "area": "Almacén",
+  "no_fiscaliza": false,
+  "descanso": "Domingos",
+  "licencia": "AI, AIIB (No indispensable)",
+  "cargo_bd": "CONTROLADOR DE ALMACEN",
+  "marcacion": "entrada_salida",
+  "provisional": false,
+  "provisional_creada": false,
+  "reporta_confirmado": true,
+  "nota": ""
+ },
+ {
+  "nombre": "Montacarguista",
+  "reporta_a": [
+   "Supervisor de Almacén",
+   "Controlador de Almacén"
   ],
   "le_reportan": [],
-  "mision": "Asegurar la continuidad operativa de los servicios y aplicaciones soportadas, manteniendo los niveles de seguridad establecidos y la disponibilidad de los sistemas de información, atender los requerimientos de programas de mantención, desarrollo de software y/o soluciones tecnológicas, acorde a las funciones encomendadas.",
+  "mision": "Responsable de operar eficientemente el montacargas en los procesos de carga y descarga de los pallets con productos dentro y fuera de las unidades de reparto T2, así como las de Transporte primario T1.",
   "horario": [
-   "Lunes a Sábados 7:00 a.m a 12:30 p.m. y de 4:00 p.m a 7:00 p.m"
+   "Turnos que designe la empresa."
   ],
   "req_generales": [
-   "LICENCIA DE CONDUCIR: No es necesario"
+   "LICENCIA DE CONDUCIR: AI (indispensable)."
   ],
   "req_conocimientos": [
    "FORMACIÓN ACADÉMICA:",
-   "Ingeniero de Sistemas"
+   "Secundaria completa o Incompleta.",
+   "Estudios técnicos completos o incompletos y/o carreras afines",
+   "FORMACIÓN COMPLEMENTARIA:",
+   "Curso de Manejo de Montacargas. (indispensable)."
   ],
   "req_experiencia": [
-   "Experiencia mínima de 1 años en el puesto."
+   "Experiencia anterior no menor a 1 año en el puesto. (indispensable)."
   ],
   "sig": [
    "Seguir los procedimientos establecidos, identificando, comunicando situaciones para los cuales no existen procedimientos o no son los adecuados.",
@@ -1173,46 +845,48 @@
    {
     "grupo": "Funciones principales",
     "items": [
-     "Gestionar y administrar a los recursos tecnológicos para dar respuesta oportuna a las solicitudes y requerimientos de los clientes internos.",
-     "Ejecutar y monitorear actividades de operación sobre los sistemas, de acuerdo a los procedimientos establecidos.",
-     "Asistir y/o asesorar técnicamente a los usuarios de la plataforma tecnológica.",
-     "Asistir y elaborar soluciones a problemáticas que se presentan en plataformas tecnológicas a nivel de software o comunicación de datos, entre otros.",
-     "Identificar propuestas e iniciativas de mejora de procesos y operación del departamento.",
-     "Brindar apoyo técnico a su jefatura directa en materias de su competencia."
+     "Al iniciar su turno deberá revisar el estado de los montacargas (niveles de aceite, niveles de agua, hidrolina, etc.), a través de la aplicación de check list de inspección de montacarga.",
+     "Cumplir con las normas de Seguridad e Higiene Industrial Implantadas por la empresa.",
+     "Efectuar el ordenamiento del almacén respetando la Regla FEFO, despacho del más cercano a su fecha de vencimiento.",
+     "Efectuará el ordenamiento de los Pallets en la zona de envases, plataformas y plásticos.",
+     "Realizar la carga y descarga de los productos ubicados en las unidades en forma segura y eficiente.",
+     "Reportar las averías que pueden existir los vehículos ocasionados por los mismos trabajadores de almacén (Operarios de Almacén y/o montacarguistas)",
+     "Cumplir con las demás funciones que en materia de su competencia, le sean asignadas por su Jefe inmediato."
     ]
    }
   ],
-  "area": "Mantenimiento y sistemas",
+  "area": "Almacén",
   "no_fiscaliza": false,
   "descanso": "Domingos",
-  "licencia": "No es necesario"
+  "licencia": "AI (indispensable)",
+  "cargo_bd": "MONTACARGUISTA",
+  "marcacion": "entrada_salida",
+  "provisional": false,
+  "provisional_creada": false,
+  "reporta_confirmado": true,
+  "nota": ""
  },
  {
-  "nombre": "Mecánico Automotriz",
+  "nombre": "Operario de Almacén",
   "reporta_a": [
-   "Analista de compras"
+   "Controlador de Almacén"
   ],
   "le_reportan": [
-   "Choferes de Reparto y Jaladores.",
-   "Interactúa con choferes y contratistas"
+   "Interacción con los demás Operarios, Montacarguistas, Controlador de Almacén y Supervisor de Almacén."
   ],
-  "mision": "Asistir al Analista de Compras en las actividades de prevención y mantenimiento de unidades, brindando soporte en el control de inventarios de repuestos y materiales.",
+  "mision": "Ejecutar eficientemente y de manera responsable actividades de recepción y almacenamiento de producto y envase manteniendo estándares de calidad y buenas prácticas.",
   "horario": [
-   "Lunes a Sábados 6:00 a.m. a 9:00 a.m. - 4:00 p.m. a 9:00 p.m."
+   "Turnos que designe la empresa."
   ],
   "req_generales": [
-   "LICENCIA DE CONDUCIR: A II (No indispensable)"
+   "LICENCIA DE CONDUCIR: No es necesaria."
   ],
   "req_conocimientos": [
    "FORMACIÓN ACADÉMICA:",
-   "Técnico en Mecánica Automotriz.",
-   "FORMACIÓN COMPLEMENTARIA:",
-   "Curso de Mecánica Automotriz básica.",
-   "FORMACIÓN ESPECIFICOS:",
-   "Ofimática a nivel básico o intermedio (Indispensable)."
+   "Secundaria completa o Estudios técnicos completos o incompletos y/o carreras afines"
   ],
   "req_experiencia": [
-   "Experiencia mínima de 1 año en el puesto y/o afines."
+   "Experiencia mínima de 3 meses en el puesto y/o afines."
   ],
   "sig": [
    "Seguir los procedimientos establecidos, identificando, comunicando situaciones para los cuales no existen procedimientos o no son los adecuados.",
@@ -1227,75 +901,30 @@
    {
     "grupo": "Funciones principales",
     "items": [
-     "Coordinar y programar las actividades de mantenimiento de los camiones.",
-     "Verificar que las unidades que ingresan al CDA después de su jornada laboral estén en óptimas condiciones.",
-     "Coordinar con el mecánico de turno cualquier incidente con las unidades de reparto desde las 6:00 p.m. a 11:00 a.m.",
-     "Brindar ayuda oportuna a los camiones en caso de avería en su turno."
+     "Armado de cajas.",
+     "Limpieza de almacén.",
+     "Ordenamiento del producto y envase.",
+     "Aseo de envase.",
+     "Encargado de clasear el envase.",
+     "Armado de Carga y recargas."
     ]
    }
   ],
-  "area": "Mantenimiento y sistemas",
+  "area": "Almacén",
   "no_fiscaliza": false,
   "descanso": "Domingos",
-  "licencia": "A II (No indispensable)"
- },
- {
-  "nombre": "Mecánico Eléctrico Automotriz",
-  "reporta_a": [
-   "Analista de compras"
-  ],
-  "le_reportan": [
-   "Choferes de Reparto",
-   "Jaladores.",
-   "Interactúa con choferes y contratistas"
-  ],
-  "mision": "Asistir al Analista de Compras en las actividades de prevención y mantenimiento de unidades, brindando soporte en el control de inventarios de repuestos y materiales.",
-  "horario": [
-   "Lunes a Sábados 6:00 a.m. a 9:00 a.m. - 4:00 p.m. a 9:00 p.m."
-  ],
-  "req_generales": [
-   "LICENCIA DE CONDUCIR: A II (No indispensable)"
-  ],
-  "req_conocimientos": [
-   "FORMACIÓN ACADÉMICA:",
-   "Técnico en Mecánica Electromotriz",
-   "FORMACIÓN COMPLEMENTARIA:",
-   "Curso de Mecánica Automotriz básica.",
-   "FORMACIÓN ESPECIFICOS:",
-   "Ofimática a nivel básico o intermedio (Indispensable)."
-  ],
-  "req_experiencia": [
-   "Experiencia mínima de 1 año en el puesto y/o afines."
-  ],
-  "sig": [
-   "Seguir los procedimientos establecidos, identificando, comunicando situaciones para los cuales no existen procedimientos o no son los adecuados.",
-   "Tomar conciencia de la Política de Calidad, Seguridad, Salud en el trabajo y Medio Ambiente; y el cumplimiento de los objetivos SIG pertinentes.",
-   "Ser conscientes de su contribución a la eficacia del sistema de gestión de la calidad, incluidos los beneficios de la mejora de su desempeño y las implicancias que conllevarían el incumplimiento de los requisitos del SIG.",
-   "Colaborar con la identificación de riesgos y oportunidades el SIG.",
-   "Reportar cualquier planteamiento de inquietudes, incumplimiento de la Política de antisoborno.",
-   "Participar en las Capacitaciones relacionadas al Sistema Integrado de Gestión.",
-   "No aceptar regalos, atenciones, donaciones y otros beneficios similares para beneficios propios"
-  ],
-  "funciones": [
-   {
-    "grupo": "Funciones principales",
-    "items": [
-     "Coordinar y programar las actividades de mantenimiento de los camiones.",
-     "Verificar que las unidades que ingresan al CDA después de su jornada laboral estén en óptimas condiciones.",
-     "Coordinar con el mecánico de turno cualquier incidente con las unidades de reparto desde las 6:00 p.m. a 11:00 a.m.",
-     "Brindar ayuda oportuna a los camiones en caso de avería en su turno."
-    ]
-   }
-  ],
-  "area": "Mantenimiento y sistemas",
-  "no_fiscaliza": false,
-  "descanso": "Domingos",
-  "licencia": "A II (No indispensable)"
+  "licencia": "No es necesaria",
+  "cargo_bd": "OPERARIO DE ALMACEN",
+  "marcacion": "entrada_salida",
+  "provisional": false,
+  "provisional_creada": false,
+  "reporta_confirmado": true,
+  "nota": ""
  },
  {
   "nombre": "Supervisor de Almacén",
   "reporta_a": [
-   "Jefe de Operaciones"
+   "Administrador"
   ],
   "le_reportan": [
    "Supervisa a todo el personal de Almacén.",
@@ -1351,188 +980,39 @@
   "area": "Almacén",
   "no_fiscaliza": false,
   "descanso": "Sábados y Domingos",
-  "licencia": "No es necesario"
+  "licencia": "No es necesario",
+  "cargo_bd": "SUPERVISOR DE ALMACEN",
+  "marcacion": "entrada_salida",
+  "provisional": false,
+  "provisional_creada": false,
+  "reporta_confirmado": true,
+  "nota": ""
  },
  {
-  "nombre": "Controlador de Almacén",
+  "nombre": "Analista de la Información",
   "reporta_a": [
-   "Supervisor de almacén"
+   "Administrador"
   ],
   "le_reportan": [
-   "Supervisa a todo el personal de Almacén.",
-   "Interactúa con los responsables del área Ventas, Distribución y Distribución ACL."
+   "Interactúa con los monitores de distribución y Distribución ACL."
   ],
-  "mision": "Gestionar y controlar todas las funciones del almacén y garantizar el funcionamiento correcto de todas las actividades. Así mismo, se encarga del manejo y gestión de los trabajadores del almacén y la adhesión a la seguridad necesaria.",
+  "mision": "Generar e informar indicadores de gestión del área de Distribución.",
   "horario": [
-   "Existen 03 turnos:",
-   "Lunes a Sábados de 7:00 a.m.- 3:00 p.m. / 3:00 p.m. - 11:00 p.m. / 11:00 p.m. - 7:00 a.m."
-  ],
-  "req_generales": [
-   "LICENCIA DE CONDUCIR: AI, AIIB (No indispensable)"
-  ],
-  "req_conocimientos": [
-   "FORMACIÓN ACADÉMICA:",
-   "Secundaria completa / Estudios técnicos completos o incompletos y/o carreras afines",
-   "FORMACIÓN COMPLEMENTARIA:",
-   "Curso o diplomado (De preferencia)",
-   "FORMACIÓN ESPECIFICOS:",
-   "Ofimática a nivel básico o intermedio (De preferencia).",
-   "Conocimientos en normas de Seguridad y Salud en el trabajo."
-  ],
-  "req_experiencia": [
-   "Experiencia mínima de 1 año en el puesto y/o afines"
-  ],
-  "sig": [
-   "Seguir los procedimientos establecidos, identificando, comunicando situaciones para los cuales no existen procedimientos o no son los adecuados.",
-   "Tomar conciencia de la Política de Calidad, Seguridad, Salud en el trabajo y Medio Ambiente; y el cumplimiento de los objetivos SIG pertinentes.",
-   "Ser conscientes de su contribución a la eficacia del sistema de gestión de la calidad, incluidos los beneficios de la mejora de su desempeño y las implicancias que conllevarían el incumplimiento de los requisitos del SIG.",
-   "Colaborar con la identificación de riesgos y oportunidades el SIG.",
-   "Reportar cualquier planteamiento de inquietudes, incumplimiento de la Política de antisoborno.",
-   "Participar en las Capacitaciones relacionadas al Sistema Integrado de Gestión.",
-   "No aceptar regalos, atenciones, donaciones y otros beneficios similares para beneficios propios"
-  ],
-  "funciones": [
-   {
-    "grupo": "Funciones principales",
-    "items": [
-     "Emitir guías y controlar el ingreso y salida del producto y envase del almacén.",
-     "Realiza la toma de inventarios y el cuadre de PTER y Envases",
-     "Supervisión de que el personal cumpla sus funciones operativas eficientemente.",
-     "Supervisión del personal a cargo que cumpla las medidas y normas de seguridad.",
-     "Lleva el control de asistencia del personal a su cargo, reportando ausencias y solicitando los suplentes respectivos.",
-     "Capacita al personal bajo su cargo.",
-     "Realiza cualquier otra tarea a fin que le sea asignada.",
-     "Control y seguimiento del producto no conforme."
-    ]
-   }
-  ],
-  "area": "Almacén",
-  "no_fiscaliza": false,
-  "descanso": "Domingos",
-  "licencia": "AI, AIIB (No indispensable)"
- },
- {
-  "nombre": "Asistente de Inventario",
-  "reporta_a": [
-   "Supervisor de almacén"
-  ],
-  "le_reportan": [],
-  "mision": "Colaborar en la clasificación, codificación y rotulación de materiales y equipos que ingresan al almacén. Otras de las funciones que debe de realizar es registra y lleva el control de materiales y equipos que ingresan y egresan del almacén.",
-  "horario": [
-   "Lunes a Sábados de 7:00 a.m.- 3:00 p.m."
-  ],
-  "req_generales": [
-   "LICENCIA DE CONDUCIR: No es necesario."
-  ],
-  "req_conocimientos": [
-   "FORMACIÓN ACADÉMICA:",
-   "Ingeniero de Sistemas.",
-   "Técnico en Sistemas e Informatica"
-  ],
-  "req_experiencia": [
-   "Experiencia mínima de 1 año en el puesto."
-  ],
-  "sig": [
-   "Seguir los procedimientos establecidos, identificando, comunicando situaciones para los cuales no existen procedimientos o no son los adecuados.",
-   "Tomar conciencia de la Política de Calidad, Seguridad, Salud en el trabajo y Medio Ambiente; y el cumplimiento de los objetivos SIG pertinentes.",
-   "Ser conscientes de su contribución a la eficacia del sistema de gestión de la calidad, incluidos los beneficios de la mejora de su desempeño y las implicancias que conllevarían el incumplimiento de los requisitos del SIG.",
-   "Colaborar con la identificación de riesgos y oportunidades el SIG.",
-   "Reportar cualquier planteamiento de inquietudes, incumplimiento de la Política de antisoborno.",
-   "Participar en las Capacitaciones relacionadas al Sistema Integrado de Gestión.",
-   "No aceptar regalos, atenciones, donaciones y otros beneficios similares para beneficios propios"
-  ],
-  "funciones": [
-   {
-    "grupo": "Funciones principales",
-    "items": [
-     "Coordina con almacén todas las actividades que se requiere para el control de inventarios.",
-     "Coordina la preparación de las áreas para los inventarios cíclicos según cronograma.",
-     "Realiza el seguimiento de la transferencia de mercadería entre almacén y planta.",
-     "Reportar a su jefe directo el status final de los inventarios generados.",
-     "Analizar distorsiones del inventario.",
-     "Asegurar el flujo correcto de las devoluciones diarias.",
-     "Otras funciones inherentes a su cargo."
-    ]
-   }
-  ],
-  "area": "Almacén",
-  "no_fiscaliza": false,
-  "descanso": "Domingos",
-  "licencia": "No es necesario"
- },
- {
-  "nombre": "Montacarguista",
-  "reporta_a": [
-   "Supervisor de almacén.",
-   "Controlador de almacén."
-  ],
-  "le_reportan": [],
-  "mision": "Responsable de operar eficientemente el montacargas en los procesos de carga y descarga de los pallets con productos dentro y fuera de las unidades de reparto T2, así como las de Transporte primario T1.",
-  "horario": [
-   "Turnos que designe la empresa."
-  ],
-  "req_generales": [
-   "LICENCIA DE CONDUCIR: AI (indispensable)."
-  ],
-  "req_conocimientos": [
-   "FORMACIÓN ACADÉMICA:",
-   "Secundaria completa o Incompleta.",
-   "Estudios técnicos completos o incompletos y/o carreras afines",
-   "FORMACIÓN COMPLEMENTARIA:",
-   "Curso de Manejo de Montacargas. (indispensable)."
-  ],
-  "req_experiencia": [
-   "Experiencia anterior no menor a 1 año en el puesto. (indispensable)."
-  ],
-  "sig": [
-   "Seguir los procedimientos establecidos, identificando, comunicando situaciones para los cuales no existen procedimientos o no son los adecuados.",
-   "Tomar conciencia de la Política de Calidad, Seguridad, Salud en el trabajo y Medio Ambiente; y el cumplimiento de los objetivos SIG pertinentes.",
-   "Ser conscientes de su contribución a la eficacia del sistema de gestión de la calidad, incluidos los beneficios de la mejora de su desempeño y las implicancias que conllevarían el incumplimiento de los requisitos del SIG.",
-   "Colaborar con la identificación de riesgos y oportunidades el SIG.",
-   "Reportar cualquier planteamiento de inquietudes, incumplimiento de la Política de antisoborno.",
-   "Participar en las Capacitaciones relacionadas al Sistema Integrado de Gestión.",
-   "No aceptar regalos, atenciones, donaciones y otros beneficios similares para beneficios propios"
-  ],
-  "funciones": [
-   {
-    "grupo": "Funciones principales",
-    "items": [
-     "Al iniciar su turno deberá revisar el estado de los montacargas (niveles de aceite, niveles de agua, hidrolina, etc.), a través de la aplicación de check list de inspección de montacarga.",
-     "Cumplir con las normas de Seguridad e Higiene Industrial Implantadas por la empresa.",
-     "Efectuar el ordenamiento del almacén respetando la Regla FEFO, despacho del más cercano a su fecha de vencimiento.",
-     "Efectuará el ordenamiento de los Pallets en la zona de envases, plataformas y plásticos.",
-     "Realizar la carga y descarga de los productos ubicados en las unidades en forma segura y eficiente.",
-     "Reportar las averías que pueden existir los vehículos ocasionados por los mismos trabajadores de almacén (Operarios de Almacén y/o montacarguistas)",
-     "Cumplir con las demás funciones que en materia de su competencia, le sean asignadas por su Jefe inmediato."
-    ]
-   }
-  ],
-  "area": "Almacén",
-  "no_fiscaliza": false,
-  "descanso": "Domingos",
-  "licencia": "AI (indispensable)"
- },
- {
-  "nombre": "Operario de Almacén",
-  "reporta_a": [
-   "Controlador de almacén"
-  ],
-  "le_reportan": [
-   "Interacción con los demás Operarios, Montacarguistas, Controlador de Almacén y Supervisor de Almacén."
-  ],
-  "mision": "Ejecutar eficientemente y de manera responsable actividades de recepción y almacenamiento de producto y envase manteniendo estándares de calidad y buenas prácticas.",
-  "horario": [
-   "Turnos que designe la empresa."
+   "Lunes a Sábados de 7:00 a.m. a 1:00 p.m. - 3:00 p.m. a 6:00 p.m."
   ],
   "req_generales": [
    "LICENCIA DE CONDUCIR: No es necesaria."
   ],
   "req_conocimientos": [
    "FORMACIÓN ACADÉMICA:",
-   "Secundaria completa o Estudios técnicos completos o incompletos y/o carreras afines"
+   "Estudios Universitarios en la carrera de Ingeniería industrial, sistemas, administración.",
+   "FORMACIÓN COMPLEMENTARIA:",
+   "Diplomados y/o Maestría",
+   "FORMACIÓN ESPECIFICOS:",
+   "Conocimientos en Excel nivel intermedio."
   ],
   "req_experiencia": [
-   "Experiencia mínima de 3 meses en el puesto y/o afines."
+   "Requiere experiencia anterior no menor a 1 años en el cargo y/ o afines."
   ],
   "sig": [
    "Seguir los procedimientos establecidos, identificando, comunicando situaciones para los cuales no existen procedimientos o no son los adecuados.",
@@ -1547,24 +1027,312 @@
    {
     "grupo": "Funciones principales",
     "items": [
-     "Armado de cajas.",
-     "Limpieza de almacén.",
-     "Ordenamiento del producto y envase.",
-     "Aseo de envase.",
-     "Encargado de clasear el envase.",
-     "Armado de Carga y recargas."
+     "Control de llegada de camiones de planta y salida de camiones al mercado (frecuencia diaria).",
+     "Control de ausentismo y deserción laboral del personal de distribución.",
+     "Control y mejora de entrega de productos a mayoristas",
+     "Control de rechazos.",
+     "Control de reportes de cumplimiento de indicadores de gestión del área",
+     "Elaboración de sistema de desempeño de Ayudantes y choferes en el mercado.",
+     "Reporte de comportamiento de ayudante y choferes en el mercado (muestreo)",
+     "Control de llegada de los camiones a liquidar",
+     "Estudio de tiempos y movimientos en todos los procesos, con la finalidad de obtener mejoras.",
+     "Otros de libre decisión del área o aportes propios del profesional.",
+     "Informe mensual de indicadores del área para Gerencia, Administración y Capital Humano",
+     "Llevar control y manejo de la documentación.",
+     "Conocer los procedimientos, instructivos aprobados y que se tengan en el Sistema Documentario, y que se hayan facilitado por intermedio de su Jefe inmediato.",
+     "Participar de las capacitaciones y realizar las evaluaciones correspondientes a fin de garantizar el aprendizaje del tema impartido."
     ]
    }
   ],
-  "area": "Almacén",
+  "area": "Distribución",
   "no_fiscaliza": false,
   "descanso": "Domingos",
-  "licencia": "No es necesaria"
+  "licencia": "No es necesaria",
+  "cargo_bd": "ANALISTA DE LA INFORMACION",
+  "marcacion": "entrada_salida",
+  "provisional": false,
+  "provisional_creada": false,
+  "reporta_confirmado": true,
+  "nota": "Información tomada del puesto «Analista de Distribución» del MOF."
+ },
+ {
+  "nombre": "Ayudante de Reparto",
+  "reporta_a": [
+   "Monitor de Distribución"
+  ],
+  "le_reportan": [
+   "Interactúa con los clientes."
+  ],
+  "mision": "Realizar el carguío, la entrega y acomodo de productos en el PDV, apoyando al chofer repartidor, manteniendo un alto nivel de atención y servicio al cliente, reduciendo las pérdidas en la entrega de la mercadería.",
+  "horario": [
+   "Colaborador Sujeto a No Fiscalización Horaria."
+  ],
+  "req_generales": [
+   "LICENCIA DE CONDUCIR: No es necesaria."
+  ],
+  "req_conocimientos": [
+   "FORMACIÓN ACADÉMICA:",
+   "Estudios primarios y/o secundarios culminados."
+  ],
+  "req_experiencia": [
+   "No requiere experiencia anterior.",
+   "Buen estado físico y disposición para realizar trabajo de campo, cargando productos y dejarlo en el PDV."
+  ],
+  "sig": [
+   "Seguir los procedimientos establecidos, identificando, comunicando situaciones para los cuales no existen procedimientos o no son los adecuados.",
+   "Tomar conciencia de la Política de Calidad, Seguridad, Salud en el trabajo y Medio Ambiente; y el cumplimiento de los objetivos SIG pertinentes.",
+   "Ser conscientes de su contribución a la eficacia del sistema de gestión de la calidad, incluidos los beneficios de la mejora de su desempeño y las implicancias que conllevarían el incumplimiento de los requisitos del SIG.",
+   "Colaborar con la identificación de riesgos y oportunidades el SIG.",
+   "Reportar cualquier planteamiento de inquietudes, incumplimiento de la Política de antisoborno.",
+   "Participar en las Capacitaciones relacionadas al Sistema Integrado de Gestión.",
+   "No aceptar regalos, atenciones, donaciones y otros beneficios similares para beneficios propios"
+  ],
+  "funciones": [
+   {
+    "grupo": "Venta / Entrega",
+    "items": [
+     "Entregar pedido al cliente.",
+     "Recibir pago del cliente.",
+     "Entregar al cliente comprobante de pago."
+    ]
+   },
+   {
+    "grupo": "Servicio al cliente",
+    "items": [
+     "Brindar una buena atención y trato amable al cliente.",
+     "Devolver producto fuera de norma.",
+     "Asegurar la integridad de la carga.",
+     "Resguardo de activos fijos de la empresa (vehículos).",
+     "Verificar integridad de la unidad de reparto.",
+     "Devolver carga sobrante.",
+     "Validar datos del cliente.",
+     "Limpieza de las unidades de transporte."
+    ]
+   },
+   {
+    "grupo": "Seguridad",
+    "items": [
+     "Conocer y ejecutar el instructivo de maniobra de reversa asistida",
+     "Cumplimiento de las Normas de Seguridad No Negociables establecidas por la Distribuidora.",
+     "Uso Obligatorio de sus EPP durante su jornada horaria",
+     "Conocer los procedimientos, instructivos aprobados y que se tengan en el Sistema Documentario, y que se hayan facilitado por intermedio de su Jefe inmediato.",
+     "Participar de las capacitaciones y realizar las evaluaciones correspondientes a fin de garantizar el aprendizaje del tema impartido."
+    ]
+   }
+  ],
+  "area": "Distribución",
+  "no_fiscaliza": true,
+  "descanso": "Domingos",
+  "licencia": "No es necesaria",
+  "cargo_bd": "AYUDANTE DE REPARTO",
+  "marcacion": "entrada",
+  "provisional": false,
+  "provisional_creada": false,
+  "reporta_confirmado": true,
+  "nota": ""
+ },
+ {
+  "nombre": "Chofer de Reparto",
+  "reporta_a": [
+   "Monitor de Distribución"
+  ],
+  "le_reportan": [
+   "Ayudantes de reparto.",
+   "Interactúa con los clientes."
+  ],
+  "mision": "Responsable de la conducción del camión de reparto y de la entrega puntual de la mercadería al PDV, manteniendo un alto nivel de trabajo en equipo.",
+  "horario": [
+   "Colaborador Sujeto a No Fiscalización Horaria."
+  ],
+  "req_generales": [
+   "LICENCIA DE CONDUCIR: AIIB - AIIIB - AIIIC.",
+   "Vehículos T1 y T2: Papeletas No menor a 3 años",
+   "Vehículos menores: Papeletas No menor a 2 años",
+   "No estar involucrado en atropello a peatones, y otros accidentes con responsabilidad directa o contribuyente"
+  ],
+  "req_conocimientos": [
+   "FORMACIÓN ACADÉMICA:",
+   "Estudios secundarios culminados.",
+   "FORMACIÓN COMPLEMENTARIA:",
+   "Curso en mecánica automotriz, (deseable).",
+   "FORMACIÓN ESPECIFICOS:",
+   "Conocimiento en mecánica básica y manejo de equipos."
+  ],
+  "req_experiencia": [
+   "Requiere experiencia anterior no menor a 6 meses en reparto horizontal de productos de consumo masivo.",
+   "Vehículos T1 y T2: No menor a 3 años",
+   "Vehículos menores: No menor a 2 años"
+  ],
+  "sig": [
+   "Seguir los procedimientos establecidos, identificando, comunicando situaciones para los cuales no existen procedimientos o no son los adecuados.",
+   "Tomar conciencia de la Política de Calidad, Seguridad, Salud en el trabajo y Medio Ambiente; y el cumplimiento de los objetivos SIG pertinentes.",
+   "Ser conscientes de su contribución a la eficacia del sistema de gestión de la calidad, incluidos los beneficios de la mejora de su desempeño y las implicancias que conllevarían el incumplimiento de los requisitos del SIG.",
+   "Colaborar con la identificación de riesgos y oportunidades el SIG.",
+   "Reportar cualquier planteamiento de inquietudes, incumplimiento de la Política de antisoborno.",
+   "Participar en las Capacitaciones relacionadas al Sistema Integrado de Gestión.",
+   "No aceptar regalos, atenciones, donaciones y otros beneficios similares para beneficios propios"
+  ],
+  "funciones": [
+   {
+    "grupo": "Funciones principales",
+    "items": [
+     "Participar en la charla de 5 minutos programadas por los Monitores de Distribución.",
+     "Usar obligatorio y correcto de los EPPs",
+     "Asegurar el correcto uso de EPPs de los ayudantes de reparto a su cargo.",
+     "Recoger guías y facturas antes de la salida a ruta.",
+     "Realizar la verificación de carga vs guía antes de salir del CD.",
+     "Ejecutar check list de \"condiciones mecánicas de unidad T2\" y comunicar incidencias a su jefe directo.",
+     "Ejecutar check list de \"cantidad y condiciones de carretas\" y comunicar incidencias a su jefe.",
+     "Dar inicio y termino al aplicativo de Ruta Simple.",
+     "Clikear los Puntos de Reparto correctamente.",
+     "Cumplir con los Indicadores de Venta Perdida, Jornada laboral",
+     "Asignar labores a los ayudantes de reparto a su cargo.",
+     "Validar que los ayudantes de reparto estén ubicados en una zona segura y/o con cinturón de seguridad antes de poner el camión en marcha.",
+     "Conducir correctamente la unidad y respetar la normativa vigente del MTC.",
+     "Organizar los comprobantes de pago de los clientes según la ruta óptima.",
+     "Asegurar que los ayudantes de reparto coloquen los implementos de seguridad en cada parada (conos, tacos, luces de emergencia, etc.)",
+     "Participar en el ordenamiento de la carga.",
+     "Participar en el armado de pedidos en cada parada.",
+     "Llevar el control de la entrega de pedidos durante la jornada de reparto. *Uso opcional del formato \"Control Entrega de Pedidos\"",
+     "Contar el dinero que recibe cada AR en los puntos de venta y verificar que coincida con el comprobante de pago.",
+     "Depositar el dinero a caja fuerte. (No tener más de S/. 80 soles fuera de la caja fuerte del camión).",
+     "Informar al Monitor y al Asesor Universal cada vez que tenga un pedido rechazado.",
+     "Validar y registrar correctamente el motivo de rechazo en los comprobantes de venta.",
+     "Verificar que el envase que recoge el ayudante de reparto esté clasificado y en buen estado.",
+     "Asegurar que la zona (vía pública) que utilizaron para clasificar los envases quede limpia de cartones, plásticos, etc.",
+     "Participar en la clasificación de envases, cambios y rechazos al finalizar la ruta de reparto.",
+     "Limpieza de las unidades de transporte."
+    ]
+   },
+   {
+    "grupo": "Ejecutar el proceso de liquidación",
+    "items": [
+     "I. Realizar el cuadre de envases y productos con los comprobantes anulados y entregados. (en el mercado).",
+     "II. Realizar el conteo de dinero separando monedas y billetes.",
+     "III. Registrar el monto de dinero en formularios.",
+     "IV. Entregar efectivo recolectado a Hermes.",
+     "V. Realizar la liquidación cuadre de envases con efectivo.",
+     "Conocer y ejecutar el instructivo de maniobra de reversa asistida.",
+     "Cumplimiento de las Normas No Negociables de Seguridad establecidas por la Distribuidora.",
+     "Conocer los procedimientos, instructivos aprobados y que se tengan en el Sistema Documentario, y que se hayan facilitado por intermedio de su Jefe inmediato.",
+     "Participar de las capacitaciones y realizar las evaluaciones correspondientes a fin de garantizar el aprendizaje del tema impartido."
+    ]
+   }
+  ],
+  "area": "Distribución",
+  "no_fiscaliza": true,
+  "descanso": "Domingos",
+  "licencia": "AIIB - AIIIB - AIIIC",
+  "cargo_bd": "CHOFER DE REPARTO",
+  "marcacion": "entrada",
+  "provisional": false,
+  "provisional_creada": false,
+  "reporta_confirmado": true,
+  "nota": ""
+ },
+ {
+  "nombre": "Chofer de Reparto - Movilizador",
+  "reporta_a": [
+   "Monitor de Distribución"
+  ],
+  "le_reportan": [
+   "Ayudantes de reparto.",
+   "Interactúa con los clientes."
+  ],
+  "mision": "Responsable de la conducción del camión de reparto y de la entrega puntual de la mercadería al PDV, manteniendo un alto nivel de trabajo en equipo.",
+  "horario": [
+   "Colaborador Sujeto a No Fiscalización Horaria."
+  ],
+  "req_generales": [
+   "LICENCIA DE CONDUCIR: AIIB - AIIIB - AIIIC.",
+   "Vehículos T1 y T2: Papeletas No menor a 3 años",
+   "Vehículos menores: Papeletas No menor a 2 años",
+   "No estar involucrado en atropello a peatones, y otros accidentes con responsabilidad directa o contribuyente"
+  ],
+  "req_conocimientos": [
+   "FORMACIÓN ACADÉMICA:",
+   "Estudios secundarios culminados.",
+   "FORMACIÓN COMPLEMENTARIA:",
+   "Curso en mecánica automotriz, (deseable).",
+   "FORMACIÓN ESPECIFICOS:",
+   "Conocimiento en mecánica básica y manejo de equipos."
+  ],
+  "req_experiencia": [
+   "Requiere experiencia anterior no menor a 6 meses en reparto horizontal de productos de consumo masivo.",
+   "Vehículos T1 y T2: No menor a 3 años",
+   "Vehículos menores: No menor a 2 años"
+  ],
+  "sig": [
+   "Seguir los procedimientos establecidos, identificando, comunicando situaciones para los cuales no existen procedimientos o no son los adecuados.",
+   "Tomar conciencia de la Política de Calidad, Seguridad, Salud en el trabajo y Medio Ambiente; y el cumplimiento de los objetivos SIG pertinentes.",
+   "Ser conscientes de su contribución a la eficacia del sistema de gestión de la calidad, incluidos los beneficios de la mejora de su desempeño y las implicancias que conllevarían el incumplimiento de los requisitos del SIG.",
+   "Colaborar con la identificación de riesgos y oportunidades el SIG.",
+   "Reportar cualquier planteamiento de inquietudes, incumplimiento de la Política de antisoborno.",
+   "Participar en las Capacitaciones relacionadas al Sistema Integrado de Gestión.",
+   "No aceptar regalos, atenciones, donaciones y otros beneficios similares para beneficios propios"
+  ],
+  "funciones": [
+   {
+    "grupo": "Funciones principales",
+    "items": [
+     "Participar en la charla de 5 minutos programadas por los Monitores de Distribución.",
+     "Usar obligatorio y correcto de los EPPs",
+     "Asegurar el correcto uso de EPPs de los ayudantes de reparto a su cargo.",
+     "Recoger guías y facturas antes de la salida a ruta.",
+     "Realizar la verificación de carga vs guía antes de salir del CD.",
+     "Ejecutar check list de \"condiciones mecánicas de unidad T2\" y comunicar incidencias a su jefe directo.",
+     "Ejecutar check list de \"cantidad y condiciones de carretas\" y comunicar incidencias a su jefe.",
+     "Dar inicio y termino al aplicativo de Ruta Simple.",
+     "Clikear los Puntos de Reparto correctamente.",
+     "Cumplir con los Indicadores de Venta Perdida, Jornada laboral",
+     "Asignar labores a los ayudantes de reparto a su cargo.",
+     "Validar que los ayudantes de reparto estén ubicados en una zona segura y/o con cinturón de seguridad antes de poner el camión en marcha.",
+     "Conducir correctamente la unidad y respetar la normativa vigente del MTC.",
+     "Organizar los comprobantes de pago de los clientes según la ruta óptima.",
+     "Asegurar que los ayudantes de reparto coloquen los implementos de seguridad en cada parada (conos, tacos, luces de emergencia, etc.)",
+     "Participar en el ordenamiento de la carga.",
+     "Participar en el armado de pedidos en cada parada.",
+     "Llevar el control de la entrega de pedidos durante la jornada de reparto. *Uso opcional del formato \"Control Entrega de Pedidos\"",
+     "Contar el dinero que recibe cada AR en los puntos de venta y verificar que coincida con el comprobante de pago.",
+     "Depositar el dinero a caja fuerte. (No tener más de S/. 80 soles fuera de la caja fuerte del camión).",
+     "Informar al Monitor y al Asesor Universal cada vez que tenga un pedido rechazado.",
+     "Validar y registrar correctamente el motivo de rechazo en los comprobantes de venta.",
+     "Verificar que el envase que recoge el ayudante de reparto esté clasificado y en buen estado.",
+     "Asegurar que la zona (vía pública) que utilizaron para clasificar los envases quede limpia de cartones, plásticos, etc.",
+     "Participar en la clasificación de envases, cambios y rechazos al finalizar la ruta de reparto.",
+     "Limpieza de las unidades de transporte."
+    ]
+   },
+   {
+    "grupo": "Ejecutar el proceso de liquidación",
+    "items": [
+     "I. Realizar el cuadre de envases y productos con los comprobantes anulados y entregados. (en el mercado).",
+     "II. Realizar el conteo de dinero separando monedas y billetes.",
+     "III. Registrar el monto de dinero en formularios.",
+     "IV. Entregar efectivo recolectado a Hermes.",
+     "V. Realizar la liquidación cuadre de envases con efectivo.",
+     "Conocer y ejecutar el instructivo de maniobra de reversa asistida.",
+     "Cumplimiento de las Normas No Negociables de Seguridad establecidas por la Distribuidora.",
+     "Conocer los procedimientos, instructivos aprobados y que se tengan en el Sistema Documentario, y que se hayan facilitado por intermedio de su Jefe inmediato.",
+     "Participar de las capacitaciones y realizar las evaluaciones correspondientes a fin de garantizar el aprendizaje del tema impartido."
+    ]
+   }
+  ],
+  "area": "Distribución",
+  "no_fiscaliza": true,
+  "descanso": "Domingos",
+  "licencia": "AIIB - AIIIB - AIIIC",
+  "cargo_bd": "CHOFER DE REPARTO - MOVILIZADOR",
+  "marcacion": "entrada",
+  "provisional": true,
+  "provisional_creada": false,
+  "reporta_confirmado": false,
+  "nota": "Tu cargo es una variante del puesto «Chofer de Reparto». Mostramos las funciones del MOF de ese puesto base; Capital Humano confirmará las diferencias de tu cargo."
  },
  {
   "nombre": "Jalador",
   "reporta_a": [
-   "Supervisor de Distribución"
+   "Monitor de Distribución"
   ],
   "le_reportan": [
    "Interacción con Controlador de Almacén y Supervisor de Seguridad"
@@ -1610,41 +1378,43 @@
     ]
    }
   ],
-  "area": "Almacén",
+  "area": "Distribución",
   "no_fiscaliza": false,
   "descanso": "Domingos",
-  "licencia": "AIIB - AIIIB - AIIIC"
+  "licencia": "AIIB - AIIIB - AIIIC",
+  "cargo_bd": "JALADOR",
+  "marcacion": "entrada_salida",
+  "provisional": false,
+  "provisional_creada": false,
+  "reporta_confirmado": true,
+  "nota": ""
  },
  {
-  "nombre": "Jefe de Ventas",
+  "nombre": "Monitor de Distribución",
   "reporta_a": [
-   "Jefe de Operaciones"
+   "Administrador"
   ],
   "le_reportan": [
-   "Lideres comerciales.",
-   "Asesores universales.",
-   "Mercaderistas.",
-   "Interacción con los Supervisores, Vendedores, Clientes, Choferes de Reparto, Ayudantes y Personal ACL"
+   "Choferes de Reparto.",
+   "Interactúa con choferes de reparto, ayudantes de reparto, clientes y Distribución ACL.",
+   "Supervisa a todo el personal de distribución."
   ],
-  "mision": "Liderar responsablemente el área de Ventas, elaborando planes estratégicos de las ventas, presupuestos y demás paquetes contables que la organización necesite, además de realizar reportes mensuales de las ventas realizadas en la compañía mediante registros, facturas, archivos y otros documentos que hacen parte del departamento de ventas.",
+  "mision": "Supervisar la entrega y cumplimiento de manera eficiente la distribución de productos de bebidas gaseosas y néctares a los clientes, generando alternativas de crecimiento mutuo, en línea con las estrategias de la compañía, gestionando y mejorando la efectividad y calidad del servicio de distribución.",
   "horario": [
    "Colaborador Sujeto a No Fiscalización Horaria."
   ],
   "req_generales": [
-   "LICENCIA DE CONDUCIR: A I"
+   "LICENCIA DE CONDUCIR: AIIB (No indispensable)"
   ],
   "req_conocimientos": [
    "FORMACIÓN ACADÉMICA:",
-   "Estudios técnicos terminados o formación universitaria completa o incompleta, en administración, marketing economía o carrera afín.",
+   "Estudios técnicos y/o Universitarios completos o incompletos.",
    "FORMACIÓN COMPLEMENTARIA:",
-   "Conocimiento del Sistema de Gestión Comercial Coca Cola. Conocimiento en manejo comercial del Mercado. (de preferencia).",
-   "FORMACIÓN ESPECIFICOS:",
-   "Conocimientos en el manejo del Sistema de Gestión Comercial.",
-   "Conocimientos de cómputo (Aplicaciones de Microsoft: procesador de texto, hoja de cálculo, presentaciones en PowerPoint), a nivel intermedio."
+   "Cursos y/o diplomados en Manejo de Personas, Liderazgo y Trabajo en Equipo. (No indispensable.)"
   ],
   "req_experiencia": [
-   "Experiencia mínima de 3 años en el puesto y/o en supervisión de equipos de venta de consumo masivo.",
-   "Indispensable contar con excelentes referencias personales, profesionales, y un excelente desempeño laboral."
+   "Requiere experiencia anterior no menor a 1 años en el cargo y/ o afines.",
+   "Debe conocer las normas de seguridad y salud en el trabajo."
   ],
   "sig": [
    "Seguir los procedimientos establecidos, identificando, comunicando situaciones para los cuales no existen procedimientos o no son los adecuados.",
@@ -1659,42 +1429,19 @@
    {
     "grupo": "Funciones principales",
     "items": [
-     "Venta / entrega",
-     "Supervisión de las herramientas de ventas con su personal.",
-     "Brindar soporte a los supervisores en la revisión de ruta y objetivos del día con su personal.",
-     "Comunica promociones y lanzamientos."
-    ]
-   },
-   {
-    "grupo": "Ejecución/Activación",
-    "items": [
-     "Verificar el SOVI General.",
-     "Verificar los acuerdos de primeras posiciones.",
-     "Verificar que se respeten los precios.",
-     "Verificar que se respete al equipo de frio.",
-     "Levantar información (precios, promociones, SOVI, puntos de contacto, etc.)"
-    ]
-   },
-   {
-    "grupo": "Servicio al cliente",
-    "items": [
-     "Recibir y canalizar quejas de los clientes.",
-     "Gestionar quejas del cliente en PdV.",
-     "Revisar y generar órdenes de trabajo.",
-     "Dar seguimiento a las órdenes de trabajo de los clientes visitados.",
-     "Atención a situaciones especiales con clientes."
-    ]
-   },
-   {
-    "grupo": "Administración",
-    "items": [
-     "Alinear los objetivos con el supervisor y el equipo de ventas.",
-     "Atención a salida de rutas.",
-     "Reestructurar/ Balancear rutas.",
-     "Realizar reuniones de coordinación con ventas y reparto.",
-     "Administrar al personal a su cargo (supervisores, preventas y mercaderistas).",
-     "Revisión de avances y resultados de ventas.",
-     "Implementación de planes de mejora.",
+     "Desarrollará reuniones de trabajo matinales en forma diaria con sus choferes y ayudantes de reparto.",
+     "Velar por el cumplimiento de la distribución de los productos de bebidas gaseosas y néctares.",
+     "Vigilará por la buena imagen que ellos representen, debiendo asegurarse que cumplan con el uso del uniforme y EPP de trabajo debidamente presentable y limpio.",
+     "Optimizar la utilización de la flota y capacidad de unidades de reparto a su cargo.",
+     "Responsable de cumplir con los Indicadores de Venta Perdida, Jornada Laboral y Ruta Simple y el óptimo rendimiento de combustible.",
+     "Mantener actualizado su archivo de equipos de reparto a cargo y velar por el cumplimiento de la puntualidad y asistencia.",
+     "Atender y coordinar la solución de reclamos de clientes (SAC)",
+     "Prestar el soporte necesario a la jefatura de Distribución, complementando su gestión en las tareas del área.",
+     "Brindar una buena atención y trato amable al cliente.",
+     "Alinear sus objetivos con el equipo de ventas.",
+     "Mantenimiento de Activos",
+     "Resguardo de activos fijos de la empresa (vehículos).",
+     "Verificar las buenas prácticas de los Choferes de Reparto y Ayudantes de Reparto para asegurar la integridad de la unidad de reparto.",
      "Conocer los procedimientos implementados y difundirlos con todo su personal a cargo, garantizando que su aprendizaje en cada uno de éstos.",
      "Responsable de la inducción específica de su personal a cargo tanto teórica como práctica, así mismo realizar la retroalimentación correspondiente cada cierto tiempo, mediante la evaluación de desempeño.",
      "Realizar la ejecución de procedimientos e instructivos en el área y revisarlos en conjunto con el/la responsable SIG por lo menos una vez al año, o cuando se presenten modificaciones.",
@@ -1702,37 +1449,44 @@
     ]
    }
   ],
-  "area": "Ventas",
+  "area": "Distribución",
   "no_fiscaliza": true,
   "descanso": "Domingos",
-  "licencia": "A I"
+  "licencia": "AIIB (No indispensable)",
+  "cargo_bd": "MONITOR DE DISTRIBUCION",
+  "marcacion": "entrada",
+  "provisional": false,
+  "provisional_creada": false,
+  "reporta_confirmado": true,
+  "nota": ""
  },
  {
-  "nombre": "Coordinador de Bebidas Emergentes",
+  "nombre": "Supervisor de Mantenimiento",
   "reporta_a": [
-   "Jefe de Ventas"
+   "Administrador"
   ],
   "le_reportan": [
-   "Lideres comerciales.",
-   "Asesores universales y Mercaderistas.",
-   "Interacción con los Supervisores, Vendedores, Clientes, Choferes de Reparto, Ayudantes y Personal ACL"
+   "Mecánico Automotriz",
+   "Mecánico eléctrico Automotriz",
+   "Interactúa con los choferes de reparto"
   ],
-  "mision": "Administrar, controlar y motivar a la fuerza de ventas del Centro de Distribución Autorizado (CDA) asignado, basado en las políticas y lineamientos del negocio, con el fin de cumplir con los objetivos establecidos y lograr la satisfacción de clientes y consumidores.",
+  "mision": "Planificar, coordinar y supervisar las labores de reparación y mantenimiento de las unidades de reparto del CDA, asegurando su óptimo funcionamiento para realizar eficientemente la operación.",
   "horario": [
-   "Colaborador Sujeto a No Fiscalización Horaria."
+   "Lunes a Sábados 7:00 a.m a 01:00 p.m. y de 3:00 p.m a 6:00 p.m"
   ],
   "req_generales": [
-   "LICENCIA DE CONDUCIR: A I"
+   "LICENCIA DE CONDUCIR: No es necesario"
   ],
   "req_conocimientos": [
    "FORMACIÓN ACADÉMICA:",
-   "Estudios técnicos terminados o formación universitaria completa o incompleta, en administración, marketing economía o carrera afín.",
+   "Secundaria completa y/o Técnico en Mecánica Automotriz.",
+   "FORMACIÓN COMPLEMENTARIA:",
+   "Curso de Mecánica Automotriz básica.",
    "FORMACIÓN ESPECIFICOS:",
-   "Conocimientos en el manejo del Sistema de Gestión Comercial.",
-   "Conocimientos de cómputo (Aplicaciones de Microsoft: procesador de texto, hoja de cálculo, presentaciones en PowerPoint), a nivel intermedio."
+   "Ofimática a nivel básico o intermedio (Indispensable)."
   ],
   "req_experiencia": [
-   "Experiencia mínima de 2 años en el puesto y/o en supervisión de equipos de venta de consumo masivo."
+   "Experiencia mínima de 3 años en el puesto."
   ],
   "sig": [
    "Seguir los procedimientos establecidos, identificando, comunicando situaciones para los cuales no existen procedimientos o no son los adecuados.",
@@ -1747,29 +1501,373 @@
    {
     "grupo": "Funciones principales",
     "items": [
-     "Administrar y gestionar la entrega de HP Stills y reportes para ejecución de matinal de supervisor y vendedores",
-     "Gestionar y analizar los principales indicadores de gestión del negocio (fundamentales), asegurando el cumplimiento de los objetivos de productividad del CDA.",
-     "Gestionar e identificar la salida a campo las acciones de la competencia.",
-     "Coordinar y comunicar con el equipo de ventas, las estrategias a desarrollar, promociones a controlar e Informar anomalías en RPS.",
-     "Coordinar y asegurar el envío de información de avance y ejecución de planes de trade marketing, garantizando la adherencia y cumplimiento de los mismos y mejora de los niveles de índice de calidad de ejecución del mercado."
+     "Coordinación y supervisión de las labores de mantenimiento de los camiones de reparto y montacargas de todo el CDA.",
+     "Verificar que los materiales y/o repuestos solicitados reúnan los requisitos y especificaciones técnicas para las unidades.",
+     "Coordinar, supervisar y evaluar los trabajos de reparaciones y mantenimiento realizado por terceros.",
+     "Supervisar los programas de mantenimiento preventivo y correctivo de las unidades.",
+     "Coordinar y supervisar la actualización de la hoja clínica de cada uno de las unidades.",
+     "Coordinar y confeccionar el presupuesto anual del área, proyectando cálculos sobre gastos de mantenimiento y suministro de materiales y repuestos.",
+     "Verificar permanentemente el normal funcionamiento de las unidades con la finalidad de mantener los niveles de operación.",
+     "Revisar e implementar procedimientos de trabajo.",
+     "Analiza las fallas de los equipos a efectos de prevenir incidentes.",
+     "Coordinar y manejar las compras con los proveedores.",
+     "Cumplir con el Programa Anual del área.",
+     "Cumplir con la asistencia a las capacitaciones impartidas, y realizar las evaluaciones correspondientes, a fin de garantizar el entendimiento y comprensión en el tema brindado."
+    ]
+   }
+  ],
+  "area": "Distribución",
+  "no_fiscaliza": false,
+  "descanso": "Domingos",
+  "licencia": "No es necesario",
+  "cargo_bd": "SUP. MANTENIMIENTO",
+  "marcacion": "entrada_salida",
+  "provisional": false,
+  "provisional_creada": false,
+  "reporta_confirmado": true,
+  "nota": "Información tomada del MOF para el Supervisor de Mantenimiento del CDA Chimbote."
+ },
+ {
+  "nombre": "Ayudante de Reparto KKAA",
+  "reporta_a": [
+   "Operador Logístico"
+  ],
+  "le_reportan": [
+   "Interactúa con los clientes."
+  ],
+  "mision": "Realizar el carguío, la entrega y acomodo de productos en el PDV, apoyando al chofer repartidor, manteniendo un alto nivel de atención y servicio al cliente, reduciendo las pérdidas en la entrega de la mercadería.",
+  "horario": [
+   "Colaborador Sujeto a No Fiscalización Horaria."
+  ],
+  "req_generales": [
+   "LICENCIA DE CONDUCIR: No es necesaria."
+  ],
+  "req_conocimientos": [
+   "FORMACIÓN ACADÉMICA:",
+   "Estudios primarios y/o secundarios culminados."
+  ],
+  "req_experiencia": [
+   "No requiere experiencia anterior.",
+   "Buen estado físico y disposición para realizar trabajo de campo, cargando productos y dejarlo en el PDV."
+  ],
+  "sig": [
+   "Seguir los procedimientos establecidos, identificando, comunicando situaciones para los cuales no existen procedimientos o no son los adecuados.",
+   "Tomar conciencia de la Política de Calidad, Seguridad, Salud en el trabajo y Medio Ambiente; y el cumplimiento de los objetivos SIG pertinentes.",
+   "Ser conscientes de su contribución a la eficacia del sistema de gestión de la calidad, incluidos los beneficios de la mejora de su desempeño y las implicancias que conllevarían el incumplimiento de los requisitos del SIG.",
+   "Colaborar con la identificación de riesgos y oportunidades el SIG.",
+   "Reportar cualquier planteamiento de inquietudes, incumplimiento de la Política de antisoborno.",
+   "Participar en las Capacitaciones relacionadas al Sistema Integrado de Gestión.",
+   "No aceptar regalos, atenciones, donaciones y otros beneficios similares para beneficios propios"
+  ],
+  "funciones": [
+   {
+    "grupo": "Venta / Entrega",
+    "items": [
+     "Entregar pedido al cliente.",
+     "Recibir pago del cliente.",
+     "Entregar al cliente comprobante de pago."
+    ]
+   },
+   {
+    "grupo": "Servicio al cliente",
+    "items": [
+     "Brindar una buena atención y trato amable al cliente.",
+     "Devolver producto fuera de norma.",
+     "Asegurar la integridad de la carga.",
+     "Resguardo de activos fijos de la empresa (vehículos).",
+     "Verificar integridad de la unidad de reparto.",
+     "Devolver carga sobrante.",
+     "Validar datos del cliente.",
+     "Limpieza de las unidades de transporte."
+    ]
+   },
+   {
+    "grupo": "Seguridad",
+    "items": [
+     "Conocer y ejecutar el instructivo de maniobra de reversa asistida",
+     "Cumplimiento de las Normas de Seguridad No Negociables establecidas por la Distribuidora.",
+     "Uso Obligatorio de sus EPP durante su jornada horaria",
+     "Conocer los procedimientos, instructivos aprobados y que se tengan en el Sistema Documentario, y que se hayan facilitado por intermedio de su Jefe inmediato.",
+     "Participar de las capacitaciones y realizar las evaluaciones correspondientes a fin de garantizar el aprendizaje del tema impartido."
+    ]
+   }
+  ],
+  "area": "Operador Logístico",
+  "no_fiscaliza": true,
+  "descanso": "Domingos",
+  "licencia": "No es necesaria",
+  "cargo_bd": "AYUDANTE DE REPARTO KKAA",
+  "marcacion": "entrada",
+  "provisional": true,
+  "provisional_creada": false,
+  "reporta_confirmado": false,
+  "nota": "Tu cargo es una variante del puesto «Ayudante de Reparto». Mostramos las funciones del MOF de ese puesto base; Capital Humano confirmará las diferencias de tu cargo."
+ },
+ {
+  "nombre": "Chofer de Reparto KKAA",
+  "reporta_a": [
+   "Operador Logístico"
+  ],
+  "le_reportan": [
+   "Ayudantes de reparto.",
+   "Interactúa con los clientes."
+  ],
+  "mision": "Responsable de la conducción del camión de reparto y de la entrega puntual de la mercadería al PDV, manteniendo un alto nivel de trabajo en equipo.",
+  "horario": [
+   "Colaborador Sujeto a No Fiscalización Horaria."
+  ],
+  "req_generales": [
+   "LICENCIA DE CONDUCIR: AIIB - AIIIB - AIIIC.",
+   "Vehículos T1 y T2: Papeletas No menor a 3 años",
+   "Vehículos menores: Papeletas No menor a 2 años",
+   "No estar involucrado en atropello a peatones, y otros accidentes con responsabilidad directa o contribuyente"
+  ],
+  "req_conocimientos": [
+   "FORMACIÓN ACADÉMICA:",
+   "Estudios secundarios culminados.",
+   "FORMACIÓN COMPLEMENTARIA:",
+   "Curso en mecánica automotriz, (deseable).",
+   "FORMACIÓN ESPECIFICOS:",
+   "Conocimiento en mecánica básica y manejo de equipos."
+  ],
+  "req_experiencia": [
+   "Requiere experiencia anterior no menor a 6 meses en reparto horizontal de productos de consumo masivo.",
+   "Vehículos T1 y T2: No menor a 3 años",
+   "Vehículos menores: No menor a 2 años"
+  ],
+  "sig": [
+   "Seguir los procedimientos establecidos, identificando, comunicando situaciones para los cuales no existen procedimientos o no son los adecuados.",
+   "Tomar conciencia de la Política de Calidad, Seguridad, Salud en el trabajo y Medio Ambiente; y el cumplimiento de los objetivos SIG pertinentes.",
+   "Ser conscientes de su contribución a la eficacia del sistema de gestión de la calidad, incluidos los beneficios de la mejora de su desempeño y las implicancias que conllevarían el incumplimiento de los requisitos del SIG.",
+   "Colaborar con la identificación de riesgos y oportunidades el SIG.",
+   "Reportar cualquier planteamiento de inquietudes, incumplimiento de la Política de antisoborno.",
+   "Participar en las Capacitaciones relacionadas al Sistema Integrado de Gestión.",
+   "No aceptar regalos, atenciones, donaciones y otros beneficios similares para beneficios propios"
+  ],
+  "funciones": [
+   {
+    "grupo": "Funciones principales",
+    "items": [
+     "Participar en la charla de 5 minutos programadas por los Monitores de Distribución.",
+     "Usar obligatorio y correcto de los EPPs",
+     "Asegurar el correcto uso de EPPs de los ayudantes de reparto a su cargo.",
+     "Recoger guías y facturas antes de la salida a ruta.",
+     "Realizar la verificación de carga vs guía antes de salir del CD.",
+     "Ejecutar check list de \"condiciones mecánicas de unidad T2\" y comunicar incidencias a su jefe directo.",
+     "Ejecutar check list de \"cantidad y condiciones de carretas\" y comunicar incidencias a su jefe.",
+     "Dar inicio y termino al aplicativo de Ruta Simple.",
+     "Clikear los Puntos de Reparto correctamente.",
+     "Cumplir con los Indicadores de Venta Perdida, Jornada laboral",
+     "Asignar labores a los ayudantes de reparto a su cargo.",
+     "Validar que los ayudantes de reparto estén ubicados en una zona segura y/o con cinturón de seguridad antes de poner el camión en marcha.",
+     "Conducir correctamente la unidad y respetar la normativa vigente del MTC.",
+     "Organizar los comprobantes de pago de los clientes según la ruta óptima.",
+     "Asegurar que los ayudantes de reparto coloquen los implementos de seguridad en cada parada (conos, tacos, luces de emergencia, etc.)",
+     "Participar en el ordenamiento de la carga.",
+     "Participar en el armado de pedidos en cada parada.",
+     "Llevar el control de la entrega de pedidos durante la jornada de reparto. *Uso opcional del formato \"Control Entrega de Pedidos\"",
+     "Contar el dinero que recibe cada AR en los puntos de venta y verificar que coincida con el comprobante de pago.",
+     "Depositar el dinero a caja fuerte. (No tener más de S/. 80 soles fuera de la caja fuerte del camión).",
+     "Informar al Monitor y al Asesor Universal cada vez que tenga un pedido rechazado.",
+     "Validar y registrar correctamente el motivo de rechazo en los comprobantes de venta.",
+     "Verificar que el envase que recoge el ayudante de reparto esté clasificado y en buen estado.",
+     "Asegurar que la zona (vía pública) que utilizaron para clasificar los envases quede limpia de cartones, plásticos, etc.",
+     "Participar en la clasificación de envases, cambios y rechazos al finalizar la ruta de reparto.",
+     "Limpieza de las unidades de transporte."
+    ]
+   },
+   {
+    "grupo": "Ejecutar el proceso de liquidación",
+    "items": [
+     "I. Realizar el cuadre de envases y productos con los comprobantes anulados y entregados. (en el mercado).",
+     "II. Realizar el conteo de dinero separando monedas y billetes.",
+     "III. Registrar el monto de dinero en formularios.",
+     "IV. Entregar efectivo recolectado a Hermes.",
+     "V. Realizar la liquidación cuadre de envases con efectivo.",
+     "Conocer y ejecutar el instructivo de maniobra de reversa asistida.",
+     "Cumplimiento de las Normas No Negociables de Seguridad establecidas por la Distribuidora.",
+     "Conocer los procedimientos, instructivos aprobados y que se tengan en el Sistema Documentario, y que se hayan facilitado por intermedio de su Jefe inmediato.",
+     "Participar de las capacitaciones y realizar las evaluaciones correspondientes a fin de garantizar el aprendizaje del tema impartido."
+    ]
+   }
+  ],
+  "area": "Operador Logístico",
+  "no_fiscaliza": true,
+  "descanso": "Domingos",
+  "licencia": "AIIB - AIIIB - AIIIC",
+  "cargo_bd": "CHOFER DE REPARTO KKAA",
+  "marcacion": "entrada",
+  "provisional": true,
+  "provisional_creada": false,
+  "reporta_confirmado": false,
+  "nota": "Tu cargo es una variante del puesto «Chofer de Reparto». Mostramos las funciones del MOF de ese puesto base; Capital Humano confirmará las diferencias de tu cargo."
+ },
+ {
+  "nombre": "Liquidador OL",
+  "reporta_a": [
+   "Supervisor de Almacén",
+   "Administrador"
+  ],
+  "le_reportan": [
+   "Interactúa con área de Distribución y Contabilidad"
+  ],
+  "mision": "Realizar eficientemente la generación, registro y cuadre de liquidación de las guías de remisión, boletas y facturas que les son asignadas a los transportistas del Canal OL.",
+  "horario": [
+   "Lunes a Sábados 6:00 p.m a 02:45 a.m."
+  ],
+  "req_generales": [
+   "LICENCIA DE CONDUCIR: No es necesario"
+  ],
+  "req_conocimientos": [
+   "FORMACIÓN ACADÉMICA:",
+   "Administrador, Economista y/o Contador Público Colegiado.",
+   "FORMACIÓN COMPLEMENTARIA:",
+   "Indispensable, manejo de conteo y verificación de dinero.",
+   "FORMACIÓN ESPECIFICOS:",
+   "Ofimática a nivel intermedio (Indispensable)."
+  ],
+  "req_experiencia": [
+   "Experiencia mínima de 2 años en el puesto."
+  ],
+  "sig": [
+   "Seguir los procedimientos establecidos, identificando, comunicando situaciones para los cuales no existen procedimientos o no son los adecuados.",
+   "Tomar conciencia de la Política de Calidad, Seguridad, Salud en el trabajo y Medio Ambiente; y el cumplimiento de los objetivos SIG pertinentes.",
+   "Ser conscientes de su contribución a la eficacia del sistema de gestión de la calidad, incluidos los beneficios de la mejora de su desempeño y las implicancias que conllevarían el incumplimiento de los requisitos del SIG.",
+   "Colaborar con la identificación de riesgos y oportunidades el SIG.",
+   "Reportar cualquier planteamiento de inquietudes, incumplimiento de la Política de antisoborno.",
+   "Participar en las Capacitaciones relacionadas al Sistema Integrado de Gestión.",
+   "No aceptar regalos, atenciones, donaciones y otros beneficios similares para beneficios propios"
+  ],
+  "funciones": [
+   {
+    "grupo": "Funciones principales",
+    "items": [
+     "Ingresa en el sistema comercial guía de remisión de venta al contado.",
+     "Emite vale a nombre del transportista vendedor.",
+     "Verificar el correcto llenado de la guía de remisión en la descarga de productos y envases.",
+     "Realizar la liquidación del transportista de acuerdo a las órdenes de carga.",
+     "Registrar en el sistema comercial devoluciones y/o cambio de mercadería de acuerdo a lo consignado en las guías de remisión, boletas de rechazo y factura.",
+     "Imprimir documentos de devolución y/o rechazo en el sistema comercial.",
+     "Registrar facturas y/o boletas de venta en el sistema comercial.",
+     "Realizar el cuadre de liquidación.",
+     "Eliminar del listado del sistema comercial los productos críticos.",
+     "Generar órdenes de carga y guías de remisión, boletas y facturas en el sistema comercial para cada uno de los transportistas.",
+     "Elaborar el reporte de gestión de despacho de las unidades de transporte.",
+     "Cumplir con la asistencia a las capacitaciones impartidas, y realizar las evaluaciones correspondientes, a fin de garantizar el entendimiento y comprensión en el tema. brindado"
+    ]
+   }
+  ],
+  "area": "Operador Logístico",
+  "no_fiscaliza": false,
+  "descanso": "Domingos",
+  "licencia": "No es necesario",
+  "cargo_bd": "LIQUIDADOR OL",
+  "marcacion": "entrada_salida",
+  "provisional": false,
+  "provisional_creada": false,
+  "reporta_confirmado": true,
+  "nota": ""
+ },
+ {
+  "nombre": "Asesor Universal",
+  "reporta_a": [
+   "Líder Comercial"
+  ],
+  "le_reportan": [
+   "Interacción con los demás Asesores Universales y con el Líder Comercial."
+  ],
+  "mision": "Gestionar oportunamente la atención directa de la venta: toma de pedido y actividades asociadas en el punto de venta de la zona asignada manteniendo un alto nivel de atención y servicio al cliente, asegurándose de mantener una relación comercial a largo plazo.",
+  "horario": [
+   "Colaborador Sujeto a No Fiscalización Horaria."
+  ],
+  "req_generales": [
+   "LICENCIA DE CONDUCIR: No es necesaria."
+  ],
+  "req_conocimientos": [
+   "FORMACIÓN ACADÉMICA:",
+   "Secundaria completa o Estudios técnicos de preferencia",
+   "FORMACIÓN ESPECIFICOS:",
+   "Con estudios en gestión de ventas, Calidad en el servicio al cliente (de preferencia)."
+  ],
+  "req_experiencia": [
+   "Experiencia mínima de 1 año en preventa de productos de consumo masivo, de preferencia.",
+   "Buen estado físico y disposición para realizar trabajo de campo."
+  ],
+  "sig": [
+   "Seguir los procedimientos establecidos, identificando, comunicando situaciones para los cuales no existen procedimientos o no son los adecuados.",
+   "Tomar conciencia de la Política de Calidad, Seguridad, Salud en el trabajo y Medio Ambiente; y el cumplimiento de los objetivos SIG pertinentes.",
+   "Ser conscientes de su contribución a la eficacia del sistema de gestión de la calidad, incluidos los beneficios de la mejora de su desempeño y las implicancias que conllevarían el incumplimiento de los requisitos del SIG.",
+   "Colaborar con la identificación de riesgos y oportunidades el SIG.",
+   "Reportar cualquier planteamiento de inquietudes, incumplimiento de la Política de antisoborno.",
+   "Participar en las Capacitaciones relacionadas al Sistema Integrado de Gestión.",
+   "No aceptar regalos, atenciones, donaciones y otros beneficios similares para beneficios propios"
+  ],
+  "funciones": [
+   {
+    "grupo": "Prospección",
+    "items": [
+     "Localizar y empadronar a clientes nuevos en la ruta asignada."
+    ]
+   },
+   {
+    "grupo": "Venta / Entrega",
+    "items": [
+     "Comunicar promociones y lanzamientos al cliente.",
+     "Impulsar la venta cumpliendo con sus Indicadores de Eficiencia Global, Volumen, Pedido Sugerido, ICE.",
+     "Informar al cliente sobre el monto de pedido y la fecha de entrega.",
+     "Dimensiona el Inventario de producto en el PDV.",
+     "Vender y promover envases retornables.",
+     "Negociar las primeras posiciones en equipo de frío (heladas).",
+     "Negociar primeras posiciones en almacenamiento al tiempo (sin helar).",
+     "Negociar y mantener el SOVI.",
+     "Negociar la comunicación de precios.",
+     "Negociar y verifircar los SKU's preferenciales del portafolio.",
+     "Gestionar la posición negociada de equipo de frio.",
+     "Colocar y Mantener POP.",
+     "Colocar y mantener comunicación de precios.",
+     "Censar los Equipos de Frio en la aplicación",
+     "Asegurar la no contaminación del equipo de frio en el PDV.",
+     "Llenar y limpiar el enfriador al 100%",
+     "Realizar sus Ordenes de Trabajo (OT) en los PDV asignadas por el SSVV",
+     "Asesorar a los Clientes en la aplicación de AC Digital",
+     "Verificar FEFO. (R)",
+     "Acomodar inventario en otros puntos de contactos (en PdV).",
+     "Reconocer, marcar y separar producto no conforme.",
+     "Entablar un diálogo de valor acorde al cliente.",
+     "Comunicar y reforzar lanzamientos y promociones especiales con los clientes prospectados.",
+     "Impulsar nivel óptimo de inventario.",
+     "Asesorar al Punto de Venta.",
+     "Comunicar beneficios de rotación de producto vs. Competencia.",
+     "Sugerir orden óptima.",
+     "Recibir, gestionar y canalizar quejas de los clientes.",
+     "Coordinación entre venta y reparto.",
+     "Mantenimiento de Activos",
+     "Mantenimiento de BD clientes",
+     "Validar datos del cliente.",
+     "Reportar baja del cliente.",
+     "Verificación y seguimiento de promociones y descuentos"
     ]
    }
   ],
   "area": "Ventas",
   "no_fiscaliza": true,
   "descanso": "Domingos",
-  "licencia": "A I"
+  "licencia": "No es necesaria",
+  "cargo_bd": "ASESOR UNIVERSAL",
+  "marcacion": "entrada",
+  "provisional": false,
+  "provisional_creada": false,
+  "reporta_confirmado": true,
+  "nota": ""
  },
  {
   "nombre": "Líder Comercial",
   "reporta_a": [
-   "Jefe de Ventas"
+   "Gerente Comercial"
   ],
   "le_reportan": [
-   "Lideres comerciales.",
    "Asesores universales.",
-   "Mercaderistas.",
-   "Interacción con los Supervisores, Vendedores, Clientes, Choferes de Reparto, Ayudantes y Personal ACL"
+   "Interacción con los Asesores Universales, Clientes, Choferes de Reparto, Ayudantes y Personal ACL"
   ],
   "mision": "Ser un agente de cambio con foco en el desarrollo del cliente, generando alternativas de crecimiento mutuo, en línea con las estrategias de la compañía, gestionando y mejorando la calidad del servicio, asegurándose de mantener una relación comercial oportuna y duradera a largo plazo.",
   "horario": [
@@ -1853,7 +1951,7 @@
     "items": [
      "Alinear los objetivos con el equipo de ventas.",
      "Seguimiento de órdenes de trabajo internas.",
-     "Capacitar activamente en PDV a vendedores.",
+     "Capacitar activamente en el PDV a los Asesores Universales.",
      "Verificación y asistencia de personal a cargo.",
      "Atención a salida de rutas.",
      "Reestructurar/ Balancear rutas.",
@@ -1875,619 +1973,12 @@
   "area": "Ventas",
   "no_fiscaliza": true,
   "descanso": "Domingos",
-  "licencia": "A I"
- },
- {
-  "nombre": "Asesor Universal",
-  "reporta_a": [
-   "Líder Comercial"
-  ],
-  "le_reportan": [
-   "Interacción con los demás gestores de venta y mercaderistas."
-  ],
-  "mision": "Gestionar oportunamente la atención directa de la venta: toma de pedido y actividades asociadas en el punto de venta de la zona asignada manteniendo un alto nivel de atención y servicio al cliente, asegurándose de mantener una relación comercial a largo plazo.",
-  "horario": [
-   "Colaborador Sujeto a No Fiscalización Horaria."
-  ],
-  "req_generales": [
-   "LICENCIA DE CONDUCIR: No es necesaria."
-  ],
-  "req_conocimientos": [
-   "FORMACIÓN ACADÉMICA:",
-   "Secundaria completa o Estudios técnicos de preferencia",
-   "FORMACIÓN ESPECIFICOS:",
-   "Con estudios en gestión de ventas, Calidad en el servicio al cliente (de preferencia)."
-  ],
-  "req_experiencia": [
-   "Experiencia mínima de 1 año en preventa de productos de consumo masivo, de preferencia.",
-   "Buen estado físico y disposición para realizar trabajo de campo."
-  ],
-  "sig": [
-   "Seguir los procedimientos establecidos, identificando, comunicando situaciones para los cuales no existen procedimientos o no son los adecuados.",
-   "Tomar conciencia de la Política de Calidad, Seguridad, Salud en el trabajo y Medio Ambiente; y el cumplimiento de los objetivos SIG pertinentes.",
-   "Ser conscientes de su contribución a la eficacia del sistema de gestión de la calidad, incluidos los beneficios de la mejora de su desempeño y las implicancias que conllevarían el incumplimiento de los requisitos del SIG.",
-   "Colaborar con la identificación de riesgos y oportunidades el SIG.",
-   "Reportar cualquier planteamiento de inquietudes, incumplimiento de la Política de antisoborno.",
-   "Participar en las Capacitaciones relacionadas al Sistema Integrado de Gestión.",
-   "No aceptar regalos, atenciones, donaciones y otros beneficios similares para beneficios propios"
-  ],
-  "funciones": [
-   {
-    "grupo": "Prospección",
-    "items": [
-     "Localizar y empadronar a clientes nuevos en la ruta asignada."
-    ]
-   },
-   {
-    "grupo": "Venta / Entrega",
-    "items": [
-     "Comunicar promociones y lanzamientos al cliente.",
-     "Impulsar la venta cumpliendo con sus Indicadores de Eficiencia Global, Volumen, Pedido Sugerido, ICE.",
-     "Informar al cliente sobre el monto de pedido y la fecha de entrega.",
-     "Dimensiona el Inventario de producto en el PDV.",
-     "Vender y promover envases retornables.",
-     "Negociar las primeras posiciones en equipo de frío (heladas).",
-     "Negociar primeras posiciones en almacenamiento al tiempo (sin helar).",
-     "Negociar y mantener el SOVI.",
-     "Negociar la comunicación de precios.",
-     "Negociar y verifircar los SKU's preferenciales del portafolio.",
-     "Gestionar la posición negociada de equipo de frio.",
-     "Colocar y Mantener POP.",
-     "Colocar y mantener comunicación de precios.",
-     "Censar los Equipos de Frio en la aplicación",
-     "Asegurar la no contaminación del equipo de frio en el PDV.",
-     "Llenar y limpiar el enfriador al 100%",
-     "Realizar sus Ordenes de Trabajo (OT) en los PDV asignadas por el SSVV",
-     "Asesorar a los Clientes en la aplicación de AC Digital",
-     "Verificar FEFO. (R)",
-     "Acomodar inventario en otros puntos de contactos (en PdV).",
-     "Reconocer, marcar y separar producto no conforme.",
-     "Entablar un diálogo de valor acorde al cliente.",
-     "Comunicar y reforzar lanzamientos y promociones especiales con los clientes prospectados.",
-     "Impulsar nivel óptimo de inventario.",
-     "Asesorar al Punto de Venta.",
-     "Comunicar beneficios de rotación de producto vs. Competencia.",
-     "Sugerir orden óptima.",
-     "Recibir, gestionar y canalizar quejas de los clientes.",
-     "Coordinación entre venta y reparto.",
-     "Mantenimiento de Activos",
-     "Mantenimiento de BD clientes",
-     "Validar datos del cliente.",
-     "Reportar baja del cliente.",
-     "Verificación y seguimiento de promociones y descuentos"
-    ]
-   }
-  ],
-  "area": "Ventas",
-  "no_fiscaliza": true,
-  "descanso": "Domingos",
-  "licencia": "No es necesaria"
- },
- {
-  "nombre": "Mercaderista",
-  "reporta_a": [
-   "Líder comercial"
-  ],
-  "le_reportan": [
-   "Interacción con los demás gestores de venta y mercaderistas."
-  ],
-  "mision": "Ejecutar la impulsión, activación y ejecución (ordenamiento y ambientación de productos en el PDV) de los productos en el Punto de Venta (PDV) asignado, manteniendo un alto nivel de atención y servicio al cliente.",
-  "horario": [
-   "Colaborador Sujeto a No Fiscalización Horaria."
-  ],
-  "req_generales": [
-   "LICENCIA DE CONDUCIR: No es necesaria."
-  ],
-  "req_conocimientos": [
-   "FORMACIÓN ACADÉMICA:",
-   "Secundaria completa o Estudios técnicos de preferencia",
-   "FORMACIÓN ESPECIFICOS:",
-   "Conocimiento de portafolio de productos y técnicas de merchandising. Deseable."
-  ],
-  "req_experiencia": [
-   "Experiencia mínima de 6 meses en mercadeo o venta de campo (de productos de consumo masivo en PDV, de preferencia).",
-   "Excelente estado físico y disposición para realizar trabajo de campo."
-  ],
-  "sig": [
-   "Seguir los procedimientos establecidos, identificando, comunicando situaciones para los cuales no existen procedimientos o no son los adecuados.",
-   "Tomar conciencia de la Política de Calidad, Seguridad, Salud en el trabajo y Medio Ambiente; y el cumplimiento de los objetivos SIG pertinentes.",
-   "Ser conscientes de su contribución a la eficacia del sistema de gestión de la calidad, incluidos los beneficios de la mejora de su desempeño y las implicancias que conllevarían el incumplimiento de los requisitos del SIG.",
-   "Colaborar con la identificación de riesgos y oportunidades el SIG.",
-   "Reportar cualquier planteamiento de inquietudes, incumplimiento de la Política de antisoborno.",
-   "Participar en las Capacitaciones relacionadas al Sistema Integrado de Gestión.",
-   "No aceptar regalos, atenciones, donaciones y otros beneficios similares para beneficios propios"
-  ],
-  "funciones": [
-   {
-    "grupo": "Ejecución/Activación",
-    "items": [
-     "Acomodar y mantener puntos de contacto básicos.",
-     "Colocar y Mantener POP.",
-     "Colocar y mantener comunicación de precios.",
-     "Asegurar la no contaminación del equipo de frio en el PDV.",
-     "Mantener SOVI frío y ambiente.",
-     "Limpiar el equipo de frío.",
-     "Verificar FEFO.",
-     "Llenar el enfriador al 100%.",
-     "Acomodar inventario en otros puntos de contactos (en PdV).",
-     "Verificar disponibilidad de SKU's Prioritarios.",
-     "Reconocer, marcar y separar producto no conforme.",
-     "Levantar información (precios, promociones, SOVI, puntos de contacto, etc.)",
-     "Entablar un diálogo de valor acorde al cliente.",
-     "Revisar status del producto y equipos.",
-     "Recibir y canalizar quejas de los clientes.",
-     "Alinear los objetivos con el equipo de ventas.",
-     "Asegurar integridad del equipo de frio en el PDV."
-    ]
-   }
-  ],
-  "area": "Ventas",
-  "no_fiscaliza": true,
-  "descanso": "Domingos",
-  "licencia": "No es necesaria"
- },
- {
-  "nombre": "Supervisor de Distribución",
-  "reporta_a": [
-   "Jefe de Operaciones"
-  ],
-  "le_reportan": [
-   "Monitores de Distribución.",
-   "Choferes de Reparto.",
-   "Interactúa con choferes y ayudantes de reparto, monitores de distribución, Administración y Distribución ACL.",
-   "Supervisa a todo el personal de distribución."
-  ],
-  "mision": "Entregar y cumplir de manera eficiente la distribución de productos de bebidas gaseosas y néctares a los clientes, generando alternativas de crecimiento mutuo, en línea con las estrategias de la compañía, gestionando y mejorando la efectividad y calidad del servicio de distribución.",
-  "horario": [
-   "Colaborador Sujeto a No Fiscalización Horaria."
-  ],
-  "req_generales": [
-   "LICENCIA DE CONDUCIR: AIIB (No indispensable)"
-  ],
-  "req_conocimientos": [
-   "FORMACIÓN ACADÉMICA:",
-   "Estudios universitarios completos o incompletos en economía, Administración y/o carreras afines.",
-   "FORMACIÓN COMPLEMENTARIA:",
-   "De preferencia Cursos y/o diplomados en Manejo de Personas, Liderazgo y Trabajo en Equipo. (Deseable)",
-   "FORMACIÓN ESPECIFICOS:",
-   "Conocimientos en Excel nivel intermedio y conocimientos en gestión de proyectos, indicadores y niveles de servicio."
-  ],
-  "req_experiencia": [
-   "Experiencia mínima de 3 años en gestión comercial (ventas y mercadeo) y logística (distribución), en empresas de consumo masivo de mediana envergadura",
-   "Debe conocer las normas de seguridad y salud en el trabajo."
-  ],
-  "sig": [
-   "Seguir los procedimientos establecidos, identificando, comunicando situaciones para los cuales no existen procedimientos o no son los adecuados.",
-   "Tomar conciencia de la Política de Calidad, Seguridad, Salud en el trabajo y Medio Ambiente; y el cumplimiento de los objetivos SIG pertinentes.",
-   "Ser conscientes de su contribución a la eficacia del sistema de gestión de la calidad, incluidos los beneficios de la mejora de su desempeño y las implicancias que conllevarían el incumplimiento de los requisitos del SIG.",
-   "Colaborar con la identificación de riesgos y oportunidades el SIG.",
-   "Reportar cualquier planteamiento de inquietudes, incumplimiento de la Política de antisoborno.",
-   "Participar en las Capacitaciones relacionadas al Sistema Integrado de Gestión.",
-   "No aceptar regalos, atenciones, donaciones y otros beneficios similares para beneficios propios"
-  ],
-  "funciones": [
-   {
-    "grupo": "Funciones principales",
-    "items": [
-     "Planificar, coordinar, dirigir y supervisar todas las actividades relacionadas al transporte, distribución del Producto terminado y activos fijos retornables a fin de garantizar la continuidad de los procesos productivos y comerciales en el CDA.",
-     "Promover y ejecutar propuestas de mejora que permitan optimizar los procesos y resultados del área a su cargo.",
-     "Supervisar y dirigir los procedimientos operativos de transporte y distribución.",
-     "Velar por la integridad de la mercadería que están bajo su custodia.",
-     "Asegurar el Cumplimiento de Normativas y Controles Establecidos.",
-     "Proyección a implementación y mejora continua de procesos en el área de su responsabilidad."
-    ]
-   },
-   {
-    "grupo": "Administración",
-    "items": [
-     "Coordinar con las áreas de Almacén y Ventas, las necesidades del mercado a fin de ajustar diariamente el desarrollo de los planes de distribución en función al cumplimiento de los objetivos de ventas.",
-     "Mantenimiento de Activos",
-     "Verificar las buenas prácticas de los Monitores de Distribución, Choferes de Reparto y Ayudantes de Reparto para asegurar la integridad de la unidad de reparto.",
-     "Conocer los procedimientos implementados y difundirlos con todo su personal a cargo, garantizando que su aprendizaje en cada uno de éstos.",
-     "Responsable de la inducción específica de su personal a cargo tanto teórica como práctica, así mismo realizar la retroalimentación correspondiente cada cierto tiempo, mediante la evaluación de desempeño.",
-     "Realizar la ejecución de procedimientos e instructivos en el área y revisarlos en conjunto con el/la responsable SIG por lo menos una vez al año, o cuando se presenten modificaciones .",
-     "Cumplir con la ejecución del Programa Anual de Capacitaciones de su área."
-    ]
-   }
-  ],
-  "area": "Distribución",
-  "no_fiscaliza": true,
-  "descanso": "Domingos",
-  "licencia": "AIIB (No indispensable)"
- },
- {
-  "nombre": "Analista de Distribución",
-  "reporta_a": [
-   "Jefe de Operaciones"
-  ],
-  "le_reportan": [
-   "Interactúa con los monitores de distribución y Distribución ACL."
-  ],
-  "mision": "Generar e informar indicadores de gestión del área de Distribución.",
-  "horario": [
-   "Lunes a Sábados de 7:00 a.m. a 1:00 p.m. - 3:00 p.m. a 6:00 p.m."
-  ],
-  "req_generales": [
-   "LICENCIA DE CONDUCIR: No es necesaria."
-  ],
-  "req_conocimientos": [
-   "FORMACIÓN ACADÉMICA:",
-   "Estudios Universitarios en la carrera de Ingeniería industrial, sistemas, administración.",
-   "FORMACIÓN COMPLEMENTARIA:",
-   "Diplomados y/o Maestría",
-   "FORMACIÓN ESPECIFICOS:",
-   "Conocimientos en Excel nivel intermedio."
-  ],
-  "req_experiencia": [
-   "Requiere experiencia anterior no menor a 1 años en el cargo y/ o afines."
-  ],
-  "sig": [
-   "Seguir los procedimientos establecidos, identificando, comunicando situaciones para los cuales no existen procedimientos o no son los adecuados.",
-   "Tomar conciencia de la Política de Calidad, Seguridad, Salud en el trabajo y Medio Ambiente; y el cumplimiento de los objetivos SIG pertinentes.",
-   "Ser conscientes de su contribución a la eficacia del sistema de gestión de la calidad, incluidos los beneficios de la mejora de su desempeño y las implicancias que conllevarían el incumplimiento de los requisitos del SIG.",
-   "Colaborar con la identificación de riesgos y oportunidades el SIG.",
-   "Reportar cualquier planteamiento de inquietudes, incumplimiento de la Política de antisoborno.",
-   "Participar en las Capacitaciones relacionadas al Sistema Integrado de Gestión.",
-   "No aceptar regalos, atenciones, donaciones y otros beneficios similares para beneficios propios"
-  ],
-  "funciones": [
-   {
-    "grupo": "Funciones principales",
-    "items": [
-     "Control de llegada de camiones de planta y salida de camiones al mercado (frecuencia diaria).",
-     "Control de ausentismo y deserción laboral del personal de distribución.",
-     "Control y mejora de entrega de productos a mayoristas",
-     "Control de rechazos.",
-     "Control de reportes de cumplimiento de indicadores de gestión del área",
-     "Elaboración de sistema de desempeño de Ayudantes y choferes en el mercado.",
-     "Reporte de comportamiento de ayudante y choferes en el mercado (muestreo)",
-     "Control de llegada de los camiones a liquidar",
-     "Estudio de tiempos y movimientos en todos los procesos, con la finalidad de obtener mejoras.",
-     "Otros de libre decisión del área o aportes propios del profesional.",
-     "Informe mensual de indicadores del área para Gerencia, Administración y Capital Humano",
-     "Llevar control y manejo de la documentación.",
-     "Conocer los procedimientos, instructivos aprobados y que se tengan en el Sistema Documentario, y que se hayan facilitado por intermedio de su Jefe inmediato.",
-     "Participar de las capacitaciones y realizar las evaluaciones correspondientes a fin de garantizar el aprendizaje del tema impartido."
-    ]
-   }
-  ],
-  "area": "Distribución",
-  "no_fiscaliza": false,
-  "descanso": "Domingos",
-  "licencia": "No es necesaria"
- },
- {
-  "nombre": "Monitor de Distribución",
-  "reporta_a": [
-   "Supervisor de Distribución"
-  ],
-  "le_reportan": [
-   "Choferes de Reparto.",
-   "Interactúa con choferes de reparto, ayudantes de reparto, clientes y Distribución ACL.",
-   "Supervisa a todo el personal de distribución."
-  ],
-  "mision": "Supervisar la entrega y cumplimiento de manera eficiente la distribución de productos de bebidas gaseosas y néctares a los clientes, generando alternativas de crecimiento mutuo, en línea con las estrategias de la compañía, gestionando y mejorando la efectividad y calidad del servicio de distribución.",
-  "horario": [
-   "Colaborador Sujeto a No Fiscalización Horaria."
-  ],
-  "req_generales": [
-   "LICENCIA DE CONDUCIR: AIIB (No indispensable)"
-  ],
-  "req_conocimientos": [
-   "FORMACIÓN ACADÉMICA:",
-   "Estudios técnicos y/o Universitarios completos o incompletos.",
-   "FORMACIÓN COMPLEMENTARIA:",
-   "Cursos y/o diplomados en Manejo de Personas, Liderazgo y Trabajo en Equipo. (No indispensable.)"
-  ],
-  "req_experiencia": [
-   "Requiere experiencia anterior no menor a 1 años en el cargo y/ o afines.",
-   "Debe conocer las normas de seguridad y salud en el trabajo."
-  ],
-  "sig": [
-   "Seguir los procedimientos establecidos, identificando, comunicando situaciones para los cuales no existen procedimientos o no son los adecuados.",
-   "Tomar conciencia de la Política de Calidad, Seguridad, Salud en el trabajo y Medio Ambiente; y el cumplimiento de los objetivos SIG pertinentes.",
-   "Ser conscientes de su contribución a la eficacia del sistema de gestión de la calidad, incluidos los beneficios de la mejora de su desempeño y las implicancias que conllevarían el incumplimiento de los requisitos del SIG.",
-   "Colaborar con la identificación de riesgos y oportunidades el SIG.",
-   "Reportar cualquier planteamiento de inquietudes, incumplimiento de la Política de antisoborno.",
-   "Participar en las Capacitaciones relacionadas al Sistema Integrado de Gestión.",
-   "No aceptar regalos, atenciones, donaciones y otros beneficios similares para beneficios propios"
-  ],
-  "funciones": [
-   {
-    "grupo": "Funciones principales",
-    "items": [
-     "Desarrollará reuniones de trabajo matinales en forma diaria con sus choferes y ayudantes de reparto.",
-     "Velar por el cumplimiento de la distribución de los productos de bebidas gaseosas y néctares.",
-     "Vigilará por la buena imagen que ellos representen, debiendo asegurarse que cumplan con el uso del uniforme y EPP de trabajo debidamente presentable y limpio.",
-     "Optimizar la utilización de la flota y capacidad de unidades de reparto a su cargo.",
-     "Responsable de cumplir con los Indicadores de Venta Perdida, Jornada Laboral y Ruta Simple y el óptimo rendimiento de combustible.",
-     "Mantener actualizado su archivo de equipos de reparto a cargo y velar por el cumplimiento de la puntualidad y asistencia.",
-     "Atender y coordinar la solución de reclamos de clientes (SAC)",
-     "Prestar el soporte necesario a la jefatura de Distribución, complementando su gestión en las tareas del área.",
-     "Brindar una buena atención y trato amable al cliente.",
-     "Alinear sus objetivos con el equipo de ventas.",
-     "Mantenimiento de Activos",
-     "Resguardo de activos fijos de la empresa (vehículos).",
-     "Verificar las buenas prácticas de los Choferes de Reparto y Ayudantes de Reparto para asegurar la integridad de la unidad de reparto.",
-     "Conocer los procedimientos implementados y difundirlos con todo su personal a cargo, garantizando que su aprendizaje en cada uno de éstos.",
-     "Responsable de la inducción específica de su personal a cargo tanto teórica como práctica, así mismo realizar la retroalimentación correspondiente cada cierto tiempo, mediante la evaluación de desempeño.",
-     "Realizar la ejecución de procedimientos e instructivos en el área y revisarlos en conjunto con el/la responsable SIG por lo menos una vez al año, o cuando se presenten modificaciones.",
-     "Cumplir con la ejecución del Programa Anual de Capacitaciones de su área."
-    ]
-   }
-  ],
-  "area": "Distribución",
-  "no_fiscaliza": true,
-  "descanso": "Domingos",
-  "licencia": "AIIB (No indispensable)"
- },
- {
-  "nombre": "Chofer de Reparto",
-  "reporta_a": [
-   "Monitor de distribución"
-  ],
-  "le_reportan": [
-   "Ayudantes de reparto.",
-   "Interactúa con los clientes."
-  ],
-  "mision": "Responsable de la conducción del camión de reparto y de la entrega puntual de la mercadería al PDV, manteniendo un alto nivel de trabajo en equipo.",
-  "horario": [
-   "Colaborador Sujeto a No Fiscalización Horaria."
-  ],
-  "req_generales": [
-   "LICENCIA DE CONDUCIR: AIIB - AIIIB - AIIIC.",
-   "Vehículos T1 y T2: Papeletas No menor a 3 años",
-   "Vehículos menores: Papeletas No menor a 2 años",
-   "No estar involucrado en atropello a peatones, y otros accidentes con responsabilidad directa o contribuyente"
-  ],
-  "req_conocimientos": [
-   "FORMACIÓN ACADÉMICA:",
-   "Estudios secundarios culminados.",
-   "FORMACIÓN COMPLEMENTARIA:",
-   "Curso en mecánica automotriz, (deseable).",
-   "FORMACIÓN ESPECIFICOS:",
-   "Conocimiento en mecánica básica y manejo de equipos."
-  ],
-  "req_experiencia": [
-   "Requiere experiencia anterior no menor a 6 meses en reparto horizontal de productos de consumo masivo.",
-   "Vehículos T1 y T2: No menor a 3 años",
-   "Vehículos menores: No menor a 2 años"
-  ],
-  "sig": [
-   "Seguir los procedimientos establecidos, identificando, comunicando situaciones para los cuales no existen procedimientos o no son los adecuados.",
-   "Tomar conciencia de la Política de Calidad, Seguridad, Salud en el trabajo y Medio Ambiente; y el cumplimiento de los objetivos SIG pertinentes.",
-   "Ser conscientes de su contribución a la eficacia del sistema de gestión de la calidad, incluidos los beneficios de la mejora de su desempeño y las implicancias que conllevarían el incumplimiento de los requisitos del SIG.",
-   "Colaborar con la identificación de riesgos y oportunidades el SIG.",
-   "Reportar cualquier planteamiento de inquietudes, incumplimiento de la Política de antisoborno.",
-   "Participar en las Capacitaciones relacionadas al Sistema Integrado de Gestión.",
-   "No aceptar regalos, atenciones, donaciones y otros beneficios similares para beneficios propios"
-  ],
-  "funciones": [
-   {
-    "grupo": "Funciones principales",
-    "items": [
-     "Participar en la charla de 5 minutos programadas por los Monitores de Distribución.",
-     "Usar obligatorio y correcto de los EPPs",
-     "Asegurar el correcto uso de EPPs de los ayudantes de reparto a su cargo.",
-     "Recoger guías y facturas antes de la salida a ruta.",
-     "Realizar la verificación de carga vs guía antes de salir del CD.",
-     "Ejecutar check list de \"condiciones mecánicas de unidad T2\" y comunicar incidencias a su jefe directo.",
-     "Ejecutar check list de \"cantidad y condiciones de carretas\" y comunicar incidencias a su jefe.",
-     "Dar inicio y termino al aplicativo de Ruta Simple.",
-     "Clikear los Puntos de Reparto correctamente.",
-     "Cumplir con los Indicadores de Venta Perdida, Jornada laboral",
-     "Asignar labores a los ayudantes de reparto a su cargo.",
-     "Validar que los ayudantes de reparto estén ubicados en una zona segura y/o con cinturón de seguridad antes de poner el camión en marcha.",
-     "Conducir correctamente la unidad y respetar la normativa vigente del MTC.",
-     "Organizar los comprobantes de pago de los clientes según la ruta óptima.",
-     "Asegurar que los ayudantes de reparto coloquen los implementos de seguridad en cada parada (conos, tacos, luces de emergencia, etc.)",
-     "Participar en el ordenamiento de la carga.",
-     "Participar en el armado de pedidos en cada parada.",
-     "Llevar el control de la entrega de pedidos durante la jornada de reparto. *Uso opcional del formato \"Control Entrega de Pedidos\"",
-     "Contar el dinero que recibe cada AR en los puntos de venta y verificar que coincida con el comprobante de pago.",
-     "Depositar el dinero a caja fuerte. (No tener más de S/. 80 soles fuera de la caja fuerte del camión).",
-     "Informar al Monitor y al gestor de venta cada vez que tenga un pedido rechazado.",
-     "Validar y registrar correctamente el motivo de rechazo en los comprobantes de venta.",
-     "Verificar que el envase que recoge el ayudante de reparto esté clasificado y en buen estado.",
-     "Asegurar que la zona (vía pública) que utilizaron para clasificar los envases quede limpia de cartones, plásticos, etc.",
-     "Participar en la clasificación de envases, cambios y rechazos al finalizar la ruta de reparto.",
-     "Limpieza de las unidades de transporte."
-    ]
-   },
-   {
-    "grupo": "Ejecutar el proceso de liquidación",
-    "items": [
-     "I. Realizar el cuadre de envases y productos con los comprobantes anulados y entregados. (en el mercado).",
-     "II. Realizar el conteo de dinero separando monedas y billetes.",
-     "III. Registrar el monto de dinero en formularios.",
-     "IV. Entregar efectivo recolectado a Hermes.",
-     "V. Realizar la liquidación cuadre de envases con efectivo.",
-     "Conocer y ejecutar el instructivo de maniobra de reversa asistida.",
-     "Cumplimiento de las Normas No Negociables de Seguridad establecidas por la Distribuidora.",
-     "Conocer los procedimientos, instructivos aprobados y que se tengan en el Sistema Documentario, y que se hayan facilitado por intermedio de su Jefe inmediato.",
-     "Participar de las capacitaciones y realizar las evaluaciones correspondientes a fin de garantizar el aprendizaje del tema impartido."
-    ]
-   }
-  ],
-  "area": "Distribución",
-  "no_fiscaliza": true,
-  "descanso": "Domingos",
-  "licencia": "AIIB - AIIIB - AIIIC"
- },
- {
-  "nombre": "Ayudante de Reparto",
-  "reporta_a": [
-   "Monitor de distribución"
-  ],
-  "le_reportan": [
-   "Interactúa con los clientes."
-  ],
-  "mision": "Realizar el carguío, la entrega y acomodo de productos en el PDV, apoyando al chofer repartidor, manteniendo un alto nivel de atención y servicio al cliente, reduciendo las pérdidas en la entrega de la mercadería.",
-  "horario": [
-   "Colaborador Sujeto a No Fiscalización Horaria."
-  ],
-  "req_generales": [
-   "LICENCIA DE CONDUCIR: No es necesaria."
-  ],
-  "req_conocimientos": [
-   "FORMACIÓN ACADÉMICA:",
-   "Estudios primarios y/o secundarios culminados."
-  ],
-  "req_experiencia": [
-   "No requiere experiencia anterior.",
-   "Buen estado físico y disposición para realizar trabajo de campo, cargando productos y dejarlo en el PDV."
-  ],
-  "sig": [
-   "Seguir los procedimientos establecidos, identificando, comunicando situaciones para los cuales no existen procedimientos o no son los adecuados.",
-   "Tomar conciencia de la Política de Calidad, Seguridad, Salud en el trabajo y Medio Ambiente; y el cumplimiento de los objetivos SIG pertinentes.",
-   "Ser conscientes de su contribución a la eficacia del sistema de gestión de la calidad, incluidos los beneficios de la mejora de su desempeño y las implicancias que conllevarían el incumplimiento de los requisitos del SIG.",
-   "Colaborar con la identificación de riesgos y oportunidades el SIG.",
-   "Reportar cualquier planteamiento de inquietudes, incumplimiento de la Política de antisoborno.",
-   "Participar en las Capacitaciones relacionadas al Sistema Integrado de Gestión.",
-   "No aceptar regalos, atenciones, donaciones y otros beneficios similares para beneficios propios"
-  ],
-  "funciones": [
-   {
-    "grupo": "Venta / Entrega",
-    "items": [
-     "Entregar pedido al cliente.",
-     "Recibir pago del cliente.",
-     "Entregar al cliente comprobante de pago."
-    ]
-   },
-   {
-    "grupo": "Servicio al cliente",
-    "items": [
-     "Brindar una buena atención y trato amable al cliente.",
-     "Devolver producto fuera de norma.",
-     "Asegurar la integridad de la carga.",
-     "Resguardo de activos fijos de la empresa (vehículos).",
-     "Verificar integridad de la unidad de reparto.",
-     "Devolver carga sobrante.",
-     "Validar datos del cliente.",
-     "Limpieza de las unidades de transporte."
-    ]
-   },
-   {
-    "grupo": "Seguridad",
-    "items": [
-     "Conocer y ejecutar el instructivo de maniobra de reversa asistida",
-     "Cumplimiento de las Normas de Seguridad No Negociables establecidas por la Distribuidora.",
-     "Uso Obligatorio de sus EPP durante su jornada horaria",
-     "Conocer los procedimientos, instructivos aprobados y que se tengan en el Sistema Documentario, y que se hayan facilitado por intermedio de su Jefe inmediato.",
-     "Participar de las capacitaciones y realizar las evaluaciones correspondientes a fin de garantizar el aprendizaje del tema impartido."
-    ]
-   }
-  ],
-  "area": "Distribución",
-  "no_fiscaliza": true,
-  "descanso": "Domingos",
-  "licencia": "No es necesaria"
- },
- {
-  "nombre": "Guardián (Vigilante)",
-  "reporta_a": [
-   "Supervisor de Seguridad y Salud en el Trabajo"
-  ],
-  "le_reportan": [
-   "Interactúa con todo el personal de PMA, proveedores, contratistas."
-  ],
-  "mision": "Vigilancia y protección de bienes muebles/inmuebles, y las personas que ingresen y permanezcan dentro del CDA.",
-  "horario": [
-   "Lunes a Sábados de 7:00 AM– 7:00 PM"
-  ],
-  "req_generales": [
-   "LICENCIA DE CONDUCIR: No es necesaria."
-  ],
-  "req_conocimientos": [
-   "FORMACIÓN ACADÉMICA:",
-   "Estudios primarios y/o secundarios culminados."
-  ],
-  "req_experiencia": [
-   "Requiere experiencia anterior no menor a 6 meses en el cargo y/ o afines."
-  ],
-  "sig": [
-   "Seguir los procedimientos establecidos, identificando, comunicando situaciones para los cuales no existen procedimientos o no son los adecuados.",
-   "Tomar conciencia de la Política de Calidad, Seguridad, Salud en el trabajo y Medio Ambiente; y el cumplimiento de los objetivos SIG pertinentes.",
-   "Ser conscientes de su contribución a la eficacia del sistema de gestión de la calidad, incluidos los beneficios de la mejora de su desempeño y las implicancias que conllevarían el incumplimiento de los requisitos del SIG.",
-   "Colaborar con la identificación de riesgos y oportunidades el SIG.",
-   "Reportar cualquier planteamiento de inquietudes, incumplimiento de la Política de antisoborno.",
-   "Participar en las Capacitaciones relacionadas al Sistema Integrado de Gestión.",
-   "No aceptar regalos, atenciones, donaciones y otros beneficios similares para beneficios propios"
-  ],
-  "funciones": [
-   {
-    "grupo": "Funciones principales",
-    "items": [
-     "Efectúa el relevo verificando la existencia física de los cargos plasmados en el Cuaderno de Ocurrencias; así como de las consignas recibidas en su servicio; firmando ambos (saliente y entrante) la aceptación de conformidad del relevo.",
-     "Es responsable de la protección de los bienes y activos de la empresa cliente; por lo que tiene el control y seguridad perimétrica del CDA.",
-     "Cumple y hace cumplir los indicados en la “REGLAS DE ORO” y reporta en forma inmediata al Supervisor de SSO de los ACTOS y CONDICIONES Sub Estándar e incidentes ocurridos en el PUESTO DE VIGILANCIA de su responsabilidad.",
-     "Verifica que los vehículos de carga se encuentren con tacos, conos, conductores permanezcan en el vehículo, conductores entreguen la llave de contacto al colaborador de turno, permanezcan con su EPP y deslicen la cortina sólo cuando el montacargas se haya detenido.",
-     "En el turno nocturno diariamente realiza ronda por la instalación evidenciando en el formato correspondiente las ocurrencias encontradas al Seguridad SSO.",
-     "Desde su puesto de servicio mantendrá permanente observación de las áreas inmediatas con la finalidad de determinar o establecer la presencia de personas sospechosas o en abandono moral y que pudieran constituir algún riesgo para el personal, instalaciones o bienes de la empresa.",
-     "Permitir el Ingreso del personal después del horario establecido solamente con autorización del jefe del área a que pertenece, y las salidas antes del horario tendrá que hacerse mediante una papeleta de autorización firmada por Jefe de área y Capital Humano.",
-     "Llevar un control de salida e ingreso de vehículos de PMA mediante el formato establecido.",
-     "Revisa la documentación de los vehículos de clientes, visitas y proveedores que ingresen a las instalaciones.",
-     "Llevar un control del personal de visita, registrando fecha, hora de ingreso y salida, nombre completo, DNI, nombre de la persona visitada.",
-     "Solamente se dejará ingresar a las personas previa autorización de la que va a ser visitada, y por ningún motivo estará circulando por las oficinas.",
-     "No permitir la salida de paquetes, cajas etc. Sin guía de salida o previa verificación de lo que lleva.",
-     "Visualizar las cámaras de seguridad como soporte a su gestión.",
-     "Apoyo para que las vías de acceso estén despejadas para grantizar un tránsito seguro de las unidades.",
-     "Apoyo en la aplicación del test de alcoholemia, en casos que el supervisor de SSO no pueda realizar esta práctica.",
-     "Chequeo de cabina y carrocería de las unidades."
-    ]
-   }
-  ],
-  "area": "Servicios generales",
-  "no_fiscaliza": false,
-  "descanso": "Domingos",
-  "licencia": "No es necesaria"
- },
- {
-  "nombre": "Operario de Limpieza",
-  "reporta_a": [
-   "Supervisor de Seguridad y Salud en el Trabajo"
-  ],
-  "le_reportan": [
-   "Interactúa con todo el personal de PMA."
-  ],
-  "mision": "Mantener la Infraestructura, oficinas, equipos, muebles y enseres de la Distribuidora, en óptimas condiciones de limpieza para garantizar la higiene de las instalaciones.",
-  "horario": [
-   "Lunes a Sábados de 5:00 AM– 2:00 PM 10:00 AM – 07:00 PM."
-  ],
-  "req_generales": [
-   "LICENCIA DE CONDUCIR: No es necesaria."
-  ],
-  "req_conocimientos": [
-   "FORMACIÓN ACADÉMICA:",
-   "Estudios primarios y/o secundarios culminados."
-  ],
-  "req_experiencia": [
-   "Requiere experiencia anterior no menor a 6 meses en el cargo y/ o afines."
-  ],
-  "sig": [
-   "Seguir los procedimientos establecidos, identificando, comunicando situaciones para los cuales no existen procedimientos o no son los adecuados.",
-   "Tomar conciencia de la Política de Calidad, Seguridad, Salud en el trabajo y Medio Ambiente; y el cumplimiento de los objetivos SIG pertinentes.",
-   "Ser conscientes de su contribución a la eficacia del sistema de gestión de la calidad, incluidos los beneficios de la mejora de su desempeño y las implicancias que conllevarían el incumplimiento de los requisitos del SIG.",
-   "Colaborar con la identificación de riesgos y oportunidades el SIG.",
-   "Reportar cualquier planteamiento de inquietudes, incumplimiento de la Política de antisoborno.",
-   "Participar en las Capacitaciones relacionadas al Sistema Integrado de Gestión.",
-   "No aceptar regalos, atenciones, donaciones y otros beneficios similares para beneficios propios"
-  ],
-  "funciones": [
-   {
-    "grupo": "Funciones principales",
-    "items": [
-     "Garantizar que los ambientes interiores y exteriores de la entidad, los equipos y muebles de las unidades orgánicas, estén siempre limpios en correspondencia al ambiente laboral.",
-     "Mantener la limpieza continua, y que no interfiera con las labores del personal, prestando apoyo necesario en caso se requiera.",
-     "Brindar apoyo para la seguridad de la infraestructura, oficinas, equipos, muebles y enseres de la entidad.",
-     "Otras funciones compatibles o inherentes al cargo."
-    ]
-   }
-  ],
-  "area": "Servicios generales",
-  "no_fiscaliza": false,
-  "descanso": "Domingos",
-  "licencia": "No es necesaria"
+  "licencia": "A I",
+  "cargo_bd": "LIDER COMERCIAL",
+  "marcacion": "entrada",
+  "provisional": false,
+  "provisional_creada": false,
+  "reporta_confirmado": true,
+  "nota": ""
  }
 ]

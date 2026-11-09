@@ -5,6 +5,8 @@ Los 7 bloques de la inducción. Reutiliza las tarjetas y preguntas de contenido_
 contenido_base.py o las listas de este archivo.
 
 Tipos especiales de tarjeta:
+  "tipo": "organigrama" -> imagen del organigrama y línea de mando del puesto elegido
+  "tipo": "horario"    -> tu horario real según el cuadro de horarios 2026 del puesto elegido
   "tipo": "marcacion"  -> texto distinto según el puesto (marca solo entrada o entrada y salida)
   "tipo": "ficha"      -> ficha interactiva del puesto elegido (bloque 6)
   "tipo": "comite"     -> fotos del Sub Comité de Hostigamiento Sexual
@@ -39,6 +41,13 @@ BLOQUES = [
         "tarjetas": [
             T("Arca Continental Lindley"),
             T("¿Quiénes somos?"),
+            {
+                "tipo": "organigrama",
+                "titulo": "Organigrama general",
+                "icono": "🧭",
+                "puntos": ["Así se organiza PMA. Ubica tu puesto y a quién reportas."],
+                "imagen": "organigrama.jpg",
+            },
             T("Misión y visión"),
             T("Nuestros valores"),
             {
@@ -58,7 +67,14 @@ BLOQUES = [
                 "opciones": ["Distribuidora PMA", "Arca Continental Lindley", "Backus", "Gloria"],
                 "correcta": 1,
                 "explicacion": "Arca Continental Lindley es el embotellador exclusivo de The Coca-Cola Company en Perú. PMA es uno de sus socios estratégicos.",
-            }
+            },
+            {
+                "id": "B1-6",
+                "texto": "Según el organigrama general, ¿a quién reporta el Asesor Universal?",
+                "opciones": ["Al Administrador", "Al Líder Comercial", "Al Monitor de Distribución", "Al Supervisor de Almacén"],
+                "correcta": 1,
+                "explicacion": "El Asesor Universal reporta al Líder Comercial, del área de Ventas.",
+            },
         ],
     },
     # --------------------------------------------------------------- 2
@@ -95,7 +111,8 @@ BLOQUES = [
         "insignia": "Puntual y profesional",
         "tarjetas": [
             T("Tipos de contrato"),
-            T("Horario laboral 2026"),  # Corregido aquí
+            T("Horario laboral"),
+            {"tipo": "horario", "titulo": "Tu horario", "icono": "🕘", "puntos": []},
             {"tipo": "marcacion", "titulo": "Marcación de asistencia", "icono": "🖐️", "puntos": []},
             T("Reglamento Interno de Trabajo (RIT)"),
             T("Proceso sancionador"),
@@ -117,7 +134,6 @@ BLOQUES = [
                 "puntos": [
                     "Si te dieron Descanso Médico (DM): informa y envía la documentación al encargado de área y a Capital Humano. Presenta el DM particular, el recibo por honorarios al médico, los análisis o pruebas solicitadas, la receta y la boleta de compra de medicamentos. Tu falta se justifica SIN descuento.",
                     "Si fue solo atención (sin DM): informa y envía la documentación al encargado de área y a Capital Humano. Si retornas a laborar, se justifica como permiso SIN descuento. Si no retornas a laborar, se justifica como permiso pero SÍ hay descuento.",
-                    "IMPORTANTE: si llegas a acumular 20 días de DM particular durante el año, deberás canjearlo al Seguro.",
                 ],
             },
         ],
@@ -125,18 +141,6 @@ BLOQUES = [
         + [
             {
                 "id": "B4-5",
-                "texto": "Si acumulas 20 días de descanso médico (DM) particular durante el año, ¿qué debes hacer?",
-                "opciones": [
-                    "Nada, no hay límite",
-                    "Canjearlo al Seguro",
-                    "Pedir vacaciones",
-                    "Presentar una carta al jefe",
-                ],
-                "correcta": 1,
-                "explicacion": "Si se llega a acumular 20 días de DM particular durante el año, deberá canjearse al Seguro.",
-            },
-            {
-                "id": "B4-6",
                 "texto": "Fuiste a una clínica y solo te atendieron (sin DM). Si NO regresas a laborar ese día, tu falta…",
                 "opciones": [
                     "Se justifica como permiso, pero SÍ hay descuento",
@@ -194,21 +198,55 @@ BLOQUES = [
                 ],
             },
         ],
-        "preguntas": Q("N6-1", "N6-2", "N6-3")
+        "preguntas": Q("N6-1", "N6-2")
         + [
             {
                 "id": "B7-4",
-                "texto": "¿Quién del Sub Comité de Hostigamiento Sexual es la Enfermera Ocupacional?",
-                "opciones": ["Selly Valverde", "Jackelin Cueva", "Paul Pérez Torres", "Angel Del Junco"],
-                "correcta": 1,
-                "explicacion": "Jackelin Cueva es la Enfermera Ocupacional del Sub Comité.",
+                "texto": "Tu jefe te niega permisos desde que rechazaste su invitación a salir. Según la inducción, esto…",
+                "opciones": [
+                    "Es una decisión normal de un jefe",
+                    "Es un problema personal entre ustedes",
+                    "Es una afectación en tus condiciones de trabajo y puede ser hostigamiento sexual",
+                    "No tiene relación con el trabajo",
+                ],
+                "correcta": 2,
+                "explicacion": "Negar permisos, licencias o vacaciones porque no te sometes es una afectación en las condiciones de trabajo que genera el hostigamiento sexual.",
             },
             {
                 "id": "B7-5",
-                "texto": "¿Qué cargo tiene Paul Pérez Torres en el Sub Comité?",
-                "opciones": ["Asesor Universal", "Analista de Información", "Líder Comercial", "Enfermero Ocupacional"],
+                "texto": "Un compañero te hace comentarios de contenido sexual y te incomodan. ¿Qué convierte esa conducta en hostigamiento sexual?",
+                "opciones": [
+                    "Que quien lo dice afirme que era una broma",
+                    "Que no es deseada por la persona a la que se dirige",
+                    "Que ocurra fuera del horario de trabajo",
+                    "Que lo diga una persona de mayor cargo",
+                ],
+                "correcta": 1,
+                "explicacion": "Es una conducta de naturaleza o connotación sexual o sexista NO deseada por la persona a la que se dirige. Es una forma de violencia.",
+            },
+            {
+                "id": "B7-6",
+                "texto": "Si dices «sí» porque temes perder tu trabajo, ¿hay consentimiento?",
+                "opciones": [
+                    "Sí, porque dijiste que sí",
+                    "Sí, mientras no lo repitas",
+                    "No, porque el consentimiento debe darse libremente",
+                    "Depende de lo que decida el jefe",
+                ],
                 "correcta": 2,
-                "explicacion": "Paul Pérez Torres es Líder Comercial. Selly Valverde es Asesor Universal y Angel Del Junco, Analista de Información.",
+                "explicacion": "El consentimiento debe ser dado libremente, reversible, entusiasta y específico. Un «sí» dado por miedo o presión no es consentimiento.",
+            },
+            {
+                "id": "B7-7",
+                "texto": "¿Cuál de estas es una afectación en la remuneración que puede generar el hostigamiento sexual?",
+                "opciones": [
+                    "Que te paguen en la fecha acordada",
+                    "No acceder a un incremento o mejora remunerativa",
+                    "Que te entreguen tu boleta de pago",
+                    "Que recibas tu gratificación completa",
+                ],
+                "correcta": 1,
+                "explicacion": "Entre las afectaciones están no acceder a un incremento o mejora remunerativa y no gozar de un complemento remunerativo (asignación, bonificación, gratificación, etc.).",
             },
         ],
     },

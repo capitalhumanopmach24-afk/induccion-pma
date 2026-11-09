@@ -1,0 +1,40 @@
+{
+ "titulo": "Organigrama referencial de la sede Chimbote",
+ "nodos": [
+  {"id": "Gerente General", "tipo": "jefatura", "padre": null},
+  {"id": "Administrador", "tipo": "cargo", "padre": "Gerente General"},
+
+  {"id": "Gerente Comercial", "tipo": "jefatura", "padre": "Gerente General", "area": "Ventas"},
+  {"id": "Líder Comercial", "tipo": "cargo", "padre": "Gerente Comercial"},
+  {"id": "Asesor Universal", "tipo": "cargo", "padre": "Líder Comercial"},
+
+  {"id": "Monitor de Distribución", "tipo": "cargo", "padre": "Administrador"},
+  {"id": "Chofer de Reparto", "tipo": "cargo", "padre": "Monitor de Distribución"},
+  {"id": "Ayudante de Reparto", "tipo": "cargo", "padre": "Monitor de Distribución"},
+  {"id": "Chofer de Reparto - Movilizador", "tipo": "cargo", "padre": "Monitor de Distribución"},
+  {"id": "Jalador", "tipo": "cargo", "padre": "Monitor de Distribución"},
+  {"id": "Analista de la Información", "tipo": "cargo", "padre": "Administrador"},
+  {"id": "Supervisor de Mantenimiento", "tipo": "cargo", "padre": "Administrador"},
+
+  {"id": "Supervisor de Almacén", "tipo": "cargo", "padre": "Administrador"},
+  {"id": "Controlador de Almacén", "tipo": "cargo", "padre": "Supervisor de Almacén"},
+  {"id": "Operario de Almacén", "tipo": "cargo", "padre": "Controlador de Almacén"},
+  {"id": "Montacarguista", "tipo": "cargo", "padre": "Controlador de Almacén"},
+  {"id": "Liquidador", "tipo": "cargo", "padre": "Supervisor de Almacén"},
+
+  {"id": "Operador Logístico", "tipo": "grupo", "padre": "Administrador", "area": "Operador Logístico"},
+  {"id": "Liquidador OL", "tipo": "cargo", "padre": "Supervisor de Almacén"},
+  {"id": "Chofer de Reparto KKAA", "tipo": "cargo", "padre": "Operador Logístico"},
+  {"id": "Ayudante de Reparto KKAA", "tipo": "cargo", "padre": "Operador Logístico"},
+
+  {"id": "Supervisor de Capital Humano", "tipo": "cargo", "padre": "Administrador"},
+  {"id": "Auxiliar Administrativo", "tipo": "cargo", "padre": "Supervisor de Capital Humano"},
+  {"id": "Supervisor de SSO", "tipo": "cargo", "padre": "Administrador"},
+  {"id": "Vigilante", "tipo": "cargo", "padre": "Supervisor de SSO"},
+  {"id": "Operario de Limpieza", "tipo": "cargo", "padre": "Supervisor de SSO"},
+  {"id": "Enfermera Ocupacional", "tipo": "cargo", "padre": "Administrador"},
+  {"id": "Asistente de Caja y Banco", "tipo": "cargo", "padre": "Administrador"},
+  {"id": "Asistente Contable", "tipo": "cargo", "padre": "Administrador"},
+  {"id": "Analista Financiero", "tipo": "cargo", "padre": "Administrador"}
+ ]
+}

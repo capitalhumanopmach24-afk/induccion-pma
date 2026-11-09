@@ -1,0 +1,439 @@
+{
+ "grupos": {
+  "caja_banco": {
+   "titulo": "Asistente de Caja y Banco",
+   "fiscalizado": true,
+   "horas": "48 horas semanales",
+   "turnos": [
+    {
+     "turno": "Mañana",
+     "lv": "08:00 – 13:00",
+     "sab": "08:00 – 11:00"
+    },
+    {
+     "turno": "Refrigerio",
+     "lv": "13:00 – 13:45",
+     "sab": ""
+    },
+    {
+     "turno": "Tarde",
+     "lv": "13:45 – 17:45",
+     "sab": ""
+    }
+   ],
+   "resumen": "08:00–13:00 y 13:45–17:45 (refrigerio 13:00–13:45)"
+  },
+  "contable": {
+   "titulo": "Asistente Contable / Analista Financiero",
+   "fiscalizado": true,
+   "horas": "48 horas semanales",
+   "turnos": [
+    {
+     "turno": "Mañana",
+     "lv": "07:30 – 13:00",
+     "sab": ""
+    },
+    {
+     "turno": "Refrigerio",
+     "lv": "13:00 – 13:45",
+     "sab": ""
+    },
+    {
+     "turno": "Tarde",
+     "lv": "13:45 – 17:45",
+     "sab": ""
+    }
+   ],
+   "resumen": "07:30–13:00 y 13:45–17:45 (refrigerio 13:00–13:45)"
+  },
+  "capital_humano": {
+   "titulo": "Capital Humano",
+   "fiscalizado": true,
+   "horas": "48 horas semanales",
+   "turnos": [
+    {
+     "turno": "Mañana",
+     "lv": "07:30 – 13:00",
+     "sab": "08:00 – 11:00"
+    },
+    {
+     "turno": "Refrigerio",
+     "lv": "13:00 – 13:45",
+     "sab": ""
+    },
+    {
+     "turno": "Tarde",
+     "lv": "13:45 – 17:15",
+     "sab": ""
+    }
+   ],
+   "resumen": "07:30–13:00 y 13:45–17:15 (refrigerio 13:00–13:45)"
+  },
+  "sst": {
+   "titulo": "Supervisor de Seguridad y Salud en el Trabajo",
+   "fiscalizado": true,
+   "horas": "48 horas semanales",
+   "turnos": [
+    {
+     "turno": "Mañana",
+     "lv": "07:00 – 13:00",
+     "sab": "07:00 – 12:30"
+    },
+    {
+     "turno": "Refrigerio",
+     "lv": "13:00 – 16:30",
+     "sab": ""
+    },
+    {
+     "turno": "Tarde",
+     "lv": "16:30 – 19:00",
+     "sab": ""
+    }
+   ],
+   "resumen": "07:00–13:00 y 16:30–19:00 (refrigerio 13:00–16:30)"
+  },
+  "liquidador_ol": {
+   "titulo": "Liquidador OL",
+   "fiscalizado": true,
+   "horas": "48 horas semanales",
+   "turnos": [
+    {
+     "turno": "Mañana",
+     "lv": "08:00 – 13:00",
+     "sab": "08:00 – 11:00"
+    },
+    {
+     "turno": "Refrigerio",
+     "lv": "13:00 – 13:45",
+     "sab": ""
+    },
+    {
+     "turno": "Tarde",
+     "lv": "13:45 – 17:45",
+     "sab": ""
+    }
+   ],
+   "resumen": "08:00–13:00 y 13:45–17:45 (refrigerio 13:00–13:45)"
+  },
+  "liquidador": {
+   "titulo": "Liquidador",
+   "fiscalizado": true,
+   "horas": "48 horas semanales",
+   "turnos": [
+    {
+     "turno": "Tarde",
+     "lv": "16:00 – 19:00",
+     "sab": "16:00 – 19:00"
+    },
+    {
+     "turno": "Refrigerio",
+     "lv": "19:00 – 19:45",
+     "sab": "19:00 – 19:45"
+    },
+    {
+     "turno": "Tarde",
+     "lv": "19:45 – 00:45",
+     "sab": "19:45 – 00:45"
+    }
+   ],
+   "resumen": "16:00–19:00 y 19:45–00:45 (refrigerio 19:00–19:45)"
+  },
+  "limpieza_cossio": {
+   "titulo": "Personal de limpieza (Cossio)",
+   "fiscalizado": true,
+   "horas": "48 horas semanales",
+   "turnos": [
+    {
+     "turno": "Mañana",
+     "lv": "08:00 – 12:00",
+     "sab": "08:00 – 12:00"
+    },
+    {
+     "turno": "Refrigerio",
+     "lv": "12:00 – 12:45",
+     "sab": "12:00 – 12:45"
+    },
+    {
+     "turno": "Tarde",
+     "lv": "12:45 – 16:45",
+     "sab": "12:45 – 16:45"
+    }
+   ],
+   "resumen": "08:00–12:00 y 12:45–16:45 (refrigerio 12:00–12:45)"
+  },
+  "limpieza_manuel": {
+   "titulo": "Personal de limpieza (Manuel)",
+   "fiscalizado": true,
+   "horas": "48 horas semanales",
+   "turnos": [
+    {
+     "turno": "Mañana",
+     "lv": "07:00 – 12:00",
+     "sab": "07:00 – 12:00"
+    },
+    {
+     "turno": "Refrigerio",
+     "lv": "12:00 – 12:45",
+     "sab": "12:00 – 12:45"
+    },
+    {
+     "turno": "Tarde",
+     "lv": "12:45 – 15:45",
+     "sab": "12:45 – 15:45"
+    }
+   ],
+   "resumen": "07:00–12:00 y 12:45–15:45 (refrigerio 12:00–12:45)"
+  },
+  "analista_info": {
+   "titulo": "Analista de la Información",
+   "fiscalizado": true,
+   "horas": "48 horas semanales",
+   "turnos": [
+    {
+     "turno": "Mañana",
+     "lv": "07:00 – 12:00",
+     "sab": "07:00 – 12:00"
+    },
+    {
+     "turno": "Refrigerio",
+     "lv": "12:00 – 16:00",
+     "sab": "12:00 – 16:00"
+    },
+    {
+     "turno": "Tarde",
+     "lv": "16:00 – 19:00",
+     "sab": "16:00 – 19:00"
+    }
+   ],
+   "resumen": "07:00–12:00 y 16:00–19:00 (refrigerio 12:00–16:00)"
+  },
+  "sup_almacen": {
+   "titulo": "Supervisor de Almacén",
+   "fiscalizado": true,
+   "horas": "48 horas semanales",
+   "turnos": [
+    {
+     "turno": "Mañana",
+     "lv": "07:30 – 13:00",
+     "sab": "07:30 – 13:00"
+    },
+    {
+     "turno": "Refrigerio",
+     "lv": "13:00 – 13:45",
+     "sab": "01:00 – 13:45"
+    },
+    {
+     "turno": "Tarde",
+     "lv": "13:45 – 16:15",
+     "sab": "13:45 – 16:15"
+    }
+   ],
+   "resumen": "07:30–13:00 y 13:45–16:15 (refrigerio 13:00–13:45)"
+  },
+  "vigilancia": {
+   "titulo": "Personal de vigilancia",
+   "fiscalizado": true,
+   "horas": "48 horas semanales",
+   "turnos": [
+    {
+     "turno": "Mañana",
+     "lv": "06:00 – 14:00",
+     "sab": "06:00 – 12:00"
+    },
+    {
+     "turno": "Tarde",
+     "lv": "14:00 – 22:00",
+     "sab": "14:00 – 19:00"
+    },
+    {
+     "turno": "Noche",
+     "lv": "22:00 – 06:00",
+     "sab": "23:00 – 19:00"
+    },
+    {
+     "turno": "Domingo",
+     "lv": "06:00 – 06:00",
+     "sab": "06:00 – 06:00"
+    }
+   ],
+   "resumen": "Tres turnos: mañana 06:00–14:00, tarde 14:00–22:00 y noche 22:00–06:00",
+   "descanso_q": false
+  },
+  "controlador": {
+   "titulo": "Controlador de Almacén",
+   "fiscalizado": true,
+   "horas": "48 horas semanales",
+   "turnos": [
+    {
+     "turno": "Mañana",
+     "lv": "07:00 – 15:45",
+     "sab": "07:00 – 15:45"
+    },
+    {
+     "turno": "Tarde",
+     "lv": "15:00 – 23:45",
+     "sab": "15:00 – 23:45"
+    },
+    {
+     "turno": "Noche",
+     "lv": "23:00 – 07:00",
+     "sab": "23:00 – 07:00"
+    }
+   ],
+   "resumen": "Tres turnos: mañana 07:00–15:45, tarde 15:00–23:45 y noche 23:00–07:00"
+  },
+  "operarios": {
+   "titulo": "Operarios de Almacén",
+   "fiscalizado": true,
+   "horas": "48 horas semanales",
+   "turnos": [
+    {
+     "turno": "Mañana",
+     "lv": "07:00 – 12:00",
+     "sab": "07:00 – 12:00"
+    },
+    {
+     "turno": "Refrigerio",
+     "lv": "12:00 – 12:45",
+     "sab": "12:00 – 12:45"
+    },
+    {
+     "turno": "Mañana",
+     "lv": "12:45 – 15:45",
+     "sab": "12:45 – 15:45"
+    },
+    {
+     "turno": "Tarde",
+     "lv": "16:00 – 19:00",
+     "sab": "15:00 – 19:00"
+    },
+    {
+     "turno": "Refrigerio",
+     "lv": "19:00 – 19:45",
+     "sab": "19:00 – 19:45"
+    },
+    {
+     "turno": "Tarde",
+     "lv": "19:45 – 00:45",
+     "sab": "19:45 – 23:45"
+    },
+    {
+     "turno": "Noche",
+     "lv": "22:00 – 06:00",
+     "sab": "22:00 – 06:00"
+    }
+   ],
+   "resumen": "Turnos de mañana (07:00–15:45), tarde (16:00–00:45) y noche (22:00–06:00)"
+  },
+  "montacarguista": {
+   "titulo": "Montacarguista",
+   "fiscalizado": true,
+   "horas": "48 horas semanales",
+   "turnos": [
+    {
+     "turno": "Turno 1",
+     "lv": "06:00 – 14:45",
+     "sab": "06:00 – 14:45"
+    },
+    {
+     "turno": "Turno 3",
+     "lv": "14:00 – 22:45",
+     "sab": "14:00 – 22:45"
+    },
+    {
+     "turno": "Turno 4",
+     "lv": "22:00 – 06:00",
+     "sab": "22:00 – 06:00"
+    }
+   ],
+   "resumen": "Tres turnos: 06:00–14:45, 14:00–22:45 y 22:00–06:00"
+  },
+  "monitores": {
+   "titulo": "Monitores de Distribución",
+   "fiscalizado": false,
+   "horas": "",
+   "turnos": [],
+   "ingreso": "06:45",
+   "nota": "No estás sujeto a fiscalización horaria: solo se computa tu ingreso para las tareas matinales.",
+   "resumen": "No sujeto a fiscalización horaria; ingreso a las 06:45"
+  },
+  "ventas": {
+   "titulo": "Personal de Ventas (Asesores Universales y Líderes Comerciales)",
+   "fiscalizado": false,
+   "horas": "",
+   "turnos": [],
+   "ingreso": "07:00",
+   "nota": "No estás sujeto a fiscalización horaria: solo se computa tu ingreso para las tareas matinales.",
+   "resumen": "No sujeto a fiscalización horaria; ingreso a las 07:00"
+  },
+  "distribucion": {
+   "titulo": "Personal de reparto y distribución",
+   "fiscalizado": false,
+   "horas": "",
+   "turnos": [],
+   "ingreso": "",
+   "nota": "No estás sujeto a fiscalización horaria: marcas una sola vez, tu ingreso. Tu hora de ingreso te la indica tu jefe o supervisor.",
+   "resumen": "No sujeto a fiscalización horaria; solo se marca el ingreso"
+  }
+ },
+ "puestos": {
+  "Asistente de Caja y Banco": [
+   "caja_banco"
+  ],
+  "Asistente Contable": [
+   "contable"
+  ],
+  "Analista Financiero": [
+   "contable"
+  ],
+  "Supervisor de Capital Humano": [
+   "capital_humano"
+  ],
+  "Supervisor de SSO": [
+   "sst"
+  ],
+  "Liquidador OL": [
+   "liquidador_ol"
+  ],
+  "Liquidador": [
+   "liquidador"
+  ],
+  "Operario de Limpieza": [
+   "limpieza_cossio",
+   "limpieza_manuel"
+  ],
+  "Vigilante": [
+   "vigilancia"
+  ],
+  "Analista de la Información": [
+   "analista_info"
+  ],
+  "Monitor de Distribución": [
+   "monitores"
+  ],
+  "Asesor Universal": [
+   "ventas"
+  ],
+  "Líder Comercial": [
+   "ventas"
+  ],
+  "Chofer de Reparto": [
+   "distribucion"
+  ],
+  "Ayudante de Reparto": [
+   "distribucion"
+  ],
+  "Supervisor de Almacén": [
+   "sup_almacen"
+  ],
+  "Controlador de Almacén": [
+   "controlador"
+  ],
+  "Operario de Almacén": [
+   "operarios"
+  ],
+  "Montacarguista": [
+   "montacarguista"
+  ]
+ }
+}
