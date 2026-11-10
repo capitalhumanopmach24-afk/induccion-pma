@@ -146,7 +146,7 @@ def _prompt(pregunta, frags, puesto, sede):
     partes = []
     for i, f in enumerate(frags, 1):
         etiqueta = f["fuente"] if f["fuente"] not in FUENTES_DOC else f["fuente"].replace(" 2026", "")
-        partes.append(f"[{i}] ({etiqueta}, {f['ref']}) {f['texto'][:1200]}")
+        partes.append(f"[{i}] ({etiqueta}, {f['ref'].split(' (')[0]}) {f['texto'][:1200]}")
     perfil = f"PUESTO DEL TRABAJADOR: {puesto}. SEDE: {sede}.\n" if puesto else ""
     return "FRAGMENTOS:\n" + "\n".join(partes) + f"\n\n{perfil}PREGUNTA DEL TRABAJADOR: {pregunta}"
 

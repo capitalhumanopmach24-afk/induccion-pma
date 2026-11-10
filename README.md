@@ -40,6 +40,7 @@ Cada tarjeta tiene un botón «🔊 Escuchar». Funciona en dos niveles:
 Pasos (ventana negra dentro de esta carpeta):
    pip install -r requirements_audio.txt
    python generar_audios.py --listar    (voces en español disponibles)
+   python generar_audios.py --comparar  (la misma frase con 4 voces en assets/audio, para que elijas la que te guste)
    python generar_audios.py --probar    (audio de prueba en assets/audio/_prueba.mp3; prueba otras voces con --voz)
    python generar_audios.py             (genera los que faltan; si falla por límites, repítelo más tarde: continúa donde quedó)
 Luego sube todo (incluida assets/audio) a GitHub.

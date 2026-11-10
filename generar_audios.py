@@ -10,6 +10,7 @@ Motor opcional:    --motor gemini  (necesita tu clave: set GEMINI_API_KEY=... y 
 
 Comandos (en la ventana negra, dentro de esta carpeta):
     python generar_audios.py --listar      muestra las voces en español disponibles
+    python generar_audios.py --comparar    genera una frase con 4 voces (2 peruanas y 2 mexicanas) para que elijas
     python generar_audios.py --probar      genera un audio de prueba (assets/audio/_prueba.mp3)
     python generar_audios.py               genera los audios que faltan (puedes repetirlo: continúa donde quedó)
 
@@ -40,6 +41,7 @@ from examen_puesto import PUESTOS  # noqa: E402
 import voz  # noqa: E402
 
 VOZ_EDGE = "es-PE-CamilaNeural"
+VOCES_COMPARAR = ["es-PE-CamilaNeural", "es-PE-AlexNeural", "es-MX-DaliaNeural", "es-MX-JorgeNeural"]
 VELOCIDAD_EDGE = "-5%"
 MODELO_GEMINI = "gemini-3.8-flash-lite-tts"
 VOZ_GEMINI = "Kore"
@@ -233,6 +235,33 @@ def probar(a, client):
     print("Escúchalo. Si no te gusta la voz, prueba otra con --voz (usa --listar para ver las disponibles).")
 
 
+def comparar(a):
+    """Genera la misma frase con 4 voces para que elijas cuál te gusta."""
+    if a.motor != "edge":
+        salir("--comparar solo está disponible con el motor edge.")
+    texto = ("Hola, te damos la bienvenida a Distribuidora PMA. En esta inducción conocerás la empresa, "
+             "tus beneficios y las funciones de tu puesto.")
+    voz.AUDIO_DIR.mkdir(parents=True, exist_ok=True)
+    hechas = []
+    for v in VOCES_COMPARAR:
+        print(f"Generando muestra con {v}…")
+        try:
+            hechas.append(sintetizar_edge(texto, v, a.velocidad, voz.AUDIO_DIR / f"_prueba_{v}.mp3"))
+        except LimiteTemporal as e:
+            print(f"El servicio limitó tu conexión ({str(e)[:100]}). Espera un rato o cambia de red y vuelve a intentarlo.")
+            break
+        except Exception as e:  # noqa: BLE001
+            print(f"   No se pudo generar esta muestra: {str(e)[:150]}")
+        if a.pausa:
+            time.sleep(a.pausa)
+    if hechas:
+        print("\nListo. Escucha estos archivos en assets\\audio:")
+        for h in hechas:
+            print("   ", h.name)
+        print("\nCuando elijas, genera todo con esa voz, por ejemplo:")
+        print("   python generar_audios.py --voz es-PE-AlexNeural")
+
+
 def generar(a, client):
     voz.AUDIO_DIR.mkdir(parents=True, exist_ok=True)
     todos = voz.elementos_audio(BLOQUES, PUESTOS, COMITE)
@@ -240,7 +269,7 @@ def generar(a, client):
     if a.limpiar:
         vigentes = {c for c, _ in todos} | {"_prueba"}
         for f in voz.AUDIO_DIR.glob("*.*"):
-            if f.stem not in vigentes:
+            if f.stem not in vigentes and not f.stem.startswith("_prueba"):
                 f.unlink()
                 print("Borrado (ya no corresponde):", f.name)
     pendientes = [(c, t) for c, t in elementos if not voz.ruta_audio(c)]
@@ -276,6 +305,7 @@ def main():
     ap.add_argument("--motor", choices=["edge", "gemini"], default="edge")
     ap.add_argument("--listar", action="store_true")
     ap.add_argument("--probar", action="store_true")
+    ap.add_argument("--comparar", action="store_true", help="solo edge: muestra con 4 voces para elegir")
     ap.add_argument("--limpiar", action="store_true")
     ap.add_argument("--voz", default=None)
     ap.add_argument("--velocidad", default=VELOCIDAD_EDGE, help="solo edge, por ejemplo -5%% o +10%%")
@@ -290,7 +320,9 @@ def main():
     if a.pausa is None:
         a.pausa = 5.0 if a.motor == "edge" else 6.0
     client = crear_cliente_gemini() if a.motor == "gemini" else None
-    if a.listar:
+    if a.comparar:
+        comparar(a)
+    elif a.listar:
         listar(a, client)
     elif a.probar:
         probar(a, client)
